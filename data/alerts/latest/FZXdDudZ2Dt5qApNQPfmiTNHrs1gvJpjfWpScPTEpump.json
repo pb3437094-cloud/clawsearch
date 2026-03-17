@@ -1,0 +1,46 @@
+{
+  "mint": "FZXdDudZ2Dt5qApNQPfmiTNHrs1gvJpjfWpScPTEpump",
+  "symbol": "MiroFish",
+  "name": "MiroFish",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "HIGH_TIGHT_RANGE",
+  "archetype_confidence": 0.3806,
+  "regime_tags": [
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "seller_expansion_or_sell_pressure_is_rising",
+    "buyer_base_is_too_narrow_for_high_confidence"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dead_launch",
+    "dust_microflow",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_HIGH",
+    "nonzero_initial_buy",
+    "participant_quality_v2",
+    "sell_pressure",
+    "high_participant_quality",
+    "participant_quality_event",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m"
+  ],
+  "current_market_cap_sol": 29.2578,
+  "captured_at": "2026-03-17T03:32:01.542368+00:00"
+}

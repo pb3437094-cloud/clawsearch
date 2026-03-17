@@ -1,0 +1,118 @@
+{
+  "fingerprint": {
+    "tier": "light",
+    "status": "watching",
+    "trades_1m": 1,
+    "trades_5m_bucket": 38,
+    "unique_buyers_5m_bucket": 5,
+    "market_cap_bucket": 2,
+    "participant_wallets": [
+      "E4UUMRNhFVvhpYCANvsxJMihb8NHo74X34zM6LY9qmfu",
+      "5Kg7mUUhCN3wJUTsA3NNmMod5kgqe2ZD27E6xsuUG279",
+      "4bAGxFehBypkexH7oqSvL6PHGBDfamEtqmVcXfUrR2ot",
+      "1cv4jHfRKoiqE5LsCjriwdFcjNhgRQmdEvXC3HDzoNp",
+      "CXaStfjUZKJw3vx767tcNwzMAU8zm1LLEMUUbHonhgdU"
+    ],
+    "creator_wallet": "9PZQwkjRUoupVzsjMSdMjVj2Pjq5tr6bqRt12q3mxe4X"
+  },
+  "helius_last_enriched_at": "2026-03-16T13:42:54.101474+00:00",
+  "helius_enrichment_status": "light_partial",
+  "helius_last_error": "budget_exhausted",
+  "helius_cached_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 4,
+    "avg_wallet_age_days": 436.074,
+    "median_wallet_age_days": 428.6812,
+    "fresh_wallet_share": 0.0,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.0,
+    "high_velocity_wallet_share": 0.0,
+    "funding_diversity_score": 0.25,
+    "top_funder_concentration_score": 1.0,
+    "creator_shared_funder_score": 0.0,
+    "creator_wallet_age_days": 0.0,
+    "creator_probable_fresh_wallet": false,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "profile_depth_bucket": "2_4",
+    "profile_completion_confidence": 0.8,
+    "cohort_quality_score": 0.564
+  },
+  "helius_creator_profile": {},
+  "helius_selected_wallets": [
+    "E4UUMRNhFVvhpYCANvsxJMihb8NHo74X34zM6LY9qmfu",
+    "5Kg7mUUhCN3wJUTsA3NNmMod5kgqe2ZD27E6xsuUG279",
+    "4bAGxFehBypkexH7oqSvL6PHGBDfamEtqmVcXfUrR2ot",
+    "1cv4jHfRKoiqE5LsCjriwdFcjNhgRQmdEvXC3HDzoNp",
+    "CXaStfjUZKJw3vx767tcNwzMAU8zm1LLEMUUbHonhgdU"
+  ],
+  "helius_attempted_wallets": [
+    "E4UUMRNhFVvhpYCANvsxJMihb8NHo74X34zM6LY9qmfu",
+    "5Kg7mUUhCN3wJUTsA3NNmMod5kgqe2ZD27E6xsuUG279",
+    "4bAGxFehBypkexH7oqSvL6PHGBDfamEtqmVcXfUrR2ot",
+    "1cv4jHfRKoiqE5LsCjriwdFcjNhgRQmdEvXC3HDzoNp",
+    "CXaStfjUZKJw3vx767tcNwzMAU8zm1LLEMUUbHonhgdU"
+  ],
+  "helius_wallet_attempt_details": [
+    {
+      "address": "E4UUMRNhFVvhpYCANvsxJMihb8NHo74X34zM6LY9qmfu",
+      "wallet_index": 0,
+      "oldest_cap_seconds": 0.6,
+      "recent_cap_seconds": 0.95,
+      "recent_tx_limit": 12,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "5Kg7mUUhCN3wJUTsA3NNmMod5kgqe2ZD27E6xsuUG279",
+      "wallet_index": 1,
+      "oldest_cap_seconds": 0.45,
+      "recent_cap_seconds": 0.75,
+      "recent_tx_limit": 9,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "4bAGxFehBypkexH7oqSvL6PHGBDfamEtqmVcXfUrR2ot",
+      "wallet_index": 2,
+      "oldest_cap_seconds": 0.45,
+      "recent_cap_seconds": 0.75,
+      "recent_tx_limit": 9,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "1cv4jHfRKoiqE5LsCjriwdFcjNhgRQmdEvXC3HDzoNp",
+      "wallet_index": 3,
+      "oldest_cap_seconds": 0.45,
+      "recent_cap_seconds": 0.7,
+      "recent_tx_limit": 8,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "CXaStfjUZKJw3vx767tcNwzMAU8zm1LLEMUUbHonhgdU",
+      "wallet_index": 4,
+      "oldest_cap_seconds": 0.35,
+      "recent_cap_seconds": 0.55,
+      "recent_tx_limit": 6,
+      "profiled": false,
+      "error": "budget_exhausted"
+    }
+  ],
+  "helius_selected_wallet_count": 5,
+  "helius_profiled_wallet_count": 4,
+  "helius_requested_wallet_count": 5,
+  "helius_completed_wallet_count": 4,
+  "helius_profile_completion_ratio": 0.8,
+  "helius_profile_depth_bucket": "2_4",
+  "helius_partial_enrichment": true,
+  "helius_creator_attempted": false,
+  "helius_creator_profiled": false,
+  "helius_time_budget_seconds": 4.0,
+  "helius_time_budget_exhausted": false,
+  "helius_enrichment_tier": "light",
+  "helius_trigger_reason": "trade_velocity",
+  "helius_wallet_target": 5,
+  "helius_local_score_hint": 0.0
+}

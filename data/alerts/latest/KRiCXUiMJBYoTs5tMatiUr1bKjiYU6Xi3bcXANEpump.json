@@ -1,0 +1,40 @@
+{
+  "mint": "KRiCXUiMJBYoTs5tMatiUr1bKjiYU6Xi3bcXANEpump",
+  "symbol": "BIAO",
+  "name": "BIAO",
+  "band": "watchlist",
+  "score": 72.8,
+  "priority_tier": "priority",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.5785,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 31.8204,
+  "captured_at": "2026-03-09T13:16:44.760806+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "mint": "GBBZS6CghYyiDoW1DHLXCmthL5sFPSXRUMM2nc9ppump",
+  "symbol": "RTP",
+  "name": "ROCKET.pop",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "dust_microflow",
+    "fragile_reclaim",
+    "insufficient_history",
+    "low_buyer_density",
+    "low_participant_quality",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "fresh_participant_wave",
+    "repeat_wallet_churn",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "recent_buy_cluster",
+    "sell_dominant_5m"
+  ],
+  "current_market_cap_sol": 28.3411,
+  "captured_at": "2026-03-17T06:33:47.313732+00:00"
+}

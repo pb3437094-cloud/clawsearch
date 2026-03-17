@@ -1,0 +1,33 @@
+{
+  "fingerprint": {
+    "trades_last_1m": 2,
+    "trades_last_5m": 2,
+    "unique_buyers_last_5m": 0,
+    "current_market_cap_sol": 54.7468,
+    "participant_wallets": [
+      "AAWjPHSgWo7iYGB92kesjH7XgeFYs1HnUwKfo1NVqnM9"
+    ],
+    "creator_wallet": "2Arh6Qdyx7GJzv556yoaisYppJNv9aZDfqrTFYrbk1zQ"
+  },
+  "helius_last_enriched_at": "2026-03-09T15:41:33.044665+00:00",
+  "helius_enrichment_status": "enriched",
+  "helius_last_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 1,
+    "avg_wallet_age_days": 0.0091,
+    "median_wallet_age_days": 0.0091,
+    "fresh_wallet_share": 1.0,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.0,
+    "high_velocity_wallet_share": 0.0,
+    "funding_diversity_score": 1.0,
+    "top_funder_concentration_score": 1.0,
+    "creator_shared_funder_score": 0.0,
+    "creator_wallet_age_days": 0.0,
+    "creator_probable_fresh_wallet": false,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "cohort_quality_score": 0.716
+  },
+  "helius_creator_profile": {}
+}

@@ -1,0 +1,54 @@
+{
+  "mint": "7rsiyn9fP5RXihTUkBPQ86wU4rrbj288bHBFwsx6pump",
+  "symbol": "$MLKY",
+  "name": "MilKY",
+  "captured_at_utc": "2026-03-08T10:48:31.925213+00:00",
+  "status": "watching",
+  "composite_score": 30.6,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "recent_buy_cluster",
+    "buy_count_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 40.0,
+    "breakout_score": 20.0,
+    "momentum_score": 32.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.0556,
+    "peak_market_cap_sol": 28.1504,
+    "net_sol_flow_last_5m": 0.0024,
+    "buy_sol_last_5m": 0.4289,
+    "trades_last_1m": 35,
+    "trades_last_5m": 53,
+    "unique_buyers": 2,
+    "unique_traders": 2
+  }
+}

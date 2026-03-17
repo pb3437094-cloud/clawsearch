@@ -1,0 +1,69 @@
+{
+  "mint": "3VZ7BFLwU1QPAaCNo647eywrhowKbAVdnTFfVBUxpump",
+  "symbol": "AGI",
+  "name": "Anime Girl Index",
+  "captured_at_utc": "2026-03-08T10:49:01.891124+00:00",
+  "status": "watching",
+  "composite_score": 52.55,
+  "confidence": "medium",
+  "priority_tier": "watch",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "sell_pressure"
+  ],
+  "strategy_scores": {
+    "filter_score": 55.0,
+    "breakout_score": 82.0,
+    "momentum_score": 42.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "sell_pressure"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35",
+      "mcap_above_45",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "trader_participation",
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 48.1793,
+    "peak_market_cap_sol": 55.0228,
+    "net_sol_flow_last_5m": -2.6959,
+    "buy_sol_last_5m": 19.0079,
+    "trades_last_1m": 68,
+    "trades_last_5m": 100,
+    "unique_buyers": 42,
+    "unique_traders": 55
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "mint": "EMCQi9nqprKDzPJpcBsSEH2pcKgYWwD76hW768QApump",
+  "symbol": "HOE",
+  "name": "BASEMENT HOE HOURS",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.4075,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "churn_risk",
+    "fragile_reclaim",
+    "insider_rotation",
+    "low_buyer_density",
+    "negative_net_flow",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave"
+  ],
+  "current_market_cap_sol": 29.9263,
+  "captured_at": "2026-03-09T05:23:50.411168+00:00"
+}

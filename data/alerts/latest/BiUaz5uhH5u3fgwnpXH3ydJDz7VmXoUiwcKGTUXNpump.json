@@ -1,0 +1,51 @@
+{
+  "mint": "BiUaz5uhH5u3fgwnpXH3ydJDz7VmXoUiwcKGTUXNpump",
+  "symbol": "Fire2",
+  "name": "Fire",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.4075,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "churn_risk",
+    "insider_rotation",
+    "insufficient_history",
+    "low_buyer_density",
+    "negative_net_flow",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "repeat_wallet_churn",
+    "participant_concentration",
+    "fast_1m_tape"
+  ],
+  "current_market_cap_sol": 28.0412,
+  "captured_at": "2026-03-09T14:46:01.343869+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "mint": "7wsU6Zkos8mLkzU6gSoyAmj9Fkkkst3m2TkpAt4Cpump",
+  "symbol": "새드독",
+  "name": "saddog",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.3605,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "buy_side_staleness",
+    "dead_launch",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_HIGH",
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "repeat_wallet_churn",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-17T05:50:20.451898+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "mint": "4vok94degY9ekfPrcXYjk1DZZrQ15JWvK8mpZcxypump",
+  "symbol": "MAX2",
+  "name": "AIRPODS MAX 2",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "LIQUIDITY_FADE",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.4725,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_has_faded_off_peak",
+    "seller_presence_is_expanding",
+    "buy_pressure_and_activity_are_fading",
+    "buy_side_is_not_refreshing_fast_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "insufficient_history",
+    "liquidity_fade",
+    "moderate_retrace",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "multiple_recent_buyers",
+    "repeat_wallet_churn",
+    "distributed_buyers",
+    "buyer_novelty",
+    "wallet_novelty",
+    "sell_dominant_5m"
+  ],
+  "current_market_cap_sol": 28.1054,
+  "captured_at": "2026-03-16T13:03:32.332406+00:00"
+}

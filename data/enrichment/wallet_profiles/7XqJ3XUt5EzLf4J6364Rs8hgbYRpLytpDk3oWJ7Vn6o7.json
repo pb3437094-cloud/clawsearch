@@ -1,0 +1,20 @@
+{
+  "address": "7XqJ3XUt5EzLf4J6364Rs8hgbYRpLytpDk3oWJ7Vn6o7",
+  "last_enriched_at": "2026-03-09T15:41:47.207171+00:00",
+  "tx_sample_count": 20,
+  "wallet_age_days": 12.8492,
+  "recent_active_days": 2,
+  "swap_tx_ratio": 0.1,
+  "transfer_tx_ratio": 0.6,
+  "unknown_tx_ratio": 0.3,
+  "distinct_sources": 3,
+  "distinct_mints": 2,
+  "inbound_funding_count": 9,
+  "funding_wallet_count": 6,
+  "top_funder": "9ptrZtyqGTkdv4HowM7adE9CMnhjNvfeeJ1E2nKFwZne",
+  "top_funder_share": 0.3333,
+  "probable_fresh_wallet": false,
+  "probable_sniper_wallet": false,
+  "probable_recycled_wallet": false,
+  "probable_high_velocity_wallet": true
+}

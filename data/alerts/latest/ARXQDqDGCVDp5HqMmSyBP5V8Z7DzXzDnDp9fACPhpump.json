@@ -1,0 +1,40 @@
+{
+  "mint": "ARXQDqDGCVDp5HqMmSyBP5V8Z7DzXzDnDp9fACPhpump",
+  "symbol": "Flash",
+  "name": "แฟลชเล็ก ๆ",
+  "band": "watchlist",
+  "score": 60.47,
+  "priority_tier": "watch",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.4977,
+  "regime_tags": [
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "recovery_from_trough_is_not_good_enough",
+    "observation_window_is_too_short_for_structural_classification"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "deep_retrace",
+    "dust_microflow",
+    "failed_breakout_structure",
+    "insufficient_history"
+  ],
+  "why_now": [
+    "NET_FLOW_5M_CROSS_1",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "multiple_recent_buyers"
+  ],
+  "current_market_cap_sol": 41.0109,
+  "captured_at": "2026-03-17T06:35:52.511538+00:00"
+}

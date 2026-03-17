@@ -1,0 +1,41 @@
+{
+  "mint": "8vLMm7dJxno4aYbSj5nKozbEtyZNYju9jPu8LvALpump",
+  "symbol": "Mouse",
+  "name": "The Resurrected Mouse",
+  "band": "watchlist",
+  "score": 54.35,
+  "priority_tier": "watch",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.94,
+  "regime_tags": [
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "NET_FLOW_5M_CROSS_1",
+    "PARTICIPANT_QUALITY_HIGH",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 30.6049,
+  "captured_at": "2026-03-17T05:55:56.248922+00:00"
+}

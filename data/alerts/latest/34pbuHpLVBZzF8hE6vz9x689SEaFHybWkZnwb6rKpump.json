@@ -1,0 +1,45 @@
+{
+  "mint": "34pbuHpLVBZzF8hE6vz9x689SEaFHybWkZnwb6rKpump",
+  "symbol": "Silicon",
+  "name": "Silicon",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.58,
+  "regime_tags": [
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "seller_expansion_or_sell_pressure_is_rising",
+    "observation_window_is_too_short_for_structural_classification"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "deep_retrace",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_HIGH",
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "post_peak_weakness",
+    "sell_pressure",
+    "high_participant_quality"
+  ],
+  "current_market_cap_sol": 28.15,
+  "captured_at": "2026-03-17T06:29:39.422953+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "mint": "92kgysmcCuE93wU179uffyzfLuFYSSEzQNnujJZaZLtM",
+  "symbol": "RDY",
+  "name": "Ready Party",
+  "captured_at_utc": "2026-03-08T10:59:02.049759+00:00",
+  "status": "watching",
+  "composite_score": 14.8,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "fast_1m_tape",
+    "recent_buy_cluster",
+    "buy_sol_1m",
+    "positive_net_1m"
+  ],
+  "strategy_scores": {
+    "filter_score": 10.0,
+    "breakout_score": 10.0,
+    "momentum_score": 26.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy"
+    ],
+    "breakout": [
+      "fast_1m_tape"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_sol_1m",
+      "positive_net_1m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.8368,
+    "peak_market_cap_sol": 30.7867,
+    "net_sol_flow_last_5m": 0.3969,
+    "buy_sol_last_5m": 1.4102,
+    "trades_last_1m": 4,
+    "trades_last_5m": 4,
+    "unique_buyers": 2,
+    "unique_traders": 3
+  }
+}

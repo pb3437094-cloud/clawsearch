@@ -1,0 +1,149 @@
+{
+  "mint": "BzNiWfTRq9A78F9P96Edf97k2kEsRvdmRgRe6afzpump",
+  "rank_mint": "BzNiWfTRq9A78F9P96Edf97k2kEsRvdmRgRe6afzpump",
+  "symbol": "sandnigga",
+  "name": "FUCK IRAN",
+  "captured_at_utc": "2026-03-08T15:28:41.837318+00:00",
+  "status": "watching",
+  "strategy_name": "momentum_expansion",
+  "entry_bias": "breakout",
+  "setup_state": "watchlist",
+  "composite_score": 35.05,
+  "tie_break_score": 49.137,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "repeat_wallet_churn"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "repeat_wallet_churn",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "distributed_buyers",
+    "buyer_novelty"
+  ],
+  "invalidation_reasons": [
+    "repeat_wallet_churn"
+  ],
+  "risk_flags": [
+    "repeat_wallet_churn"
+  ],
+  "penalties": {
+    "repeat_wallet_churn": 9.0
+  },
+  "strategy_scores": {
+    "filter_score": 49.0,
+    "breakout_score": 26.0,
+    "momentum_score": 36.0,
+    "event_bonus": 0,
+    "feature_bonus": 15.0,
+    "penalty_total": 9.0,
+    "base_composite": 44.05
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "multiple_recent_buyers",
+      "fresh_wallet_expansion",
+      "fresh_participant_wave",
+      "repeat_wallet_churn"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "distributed_buyers",
+      "buyer_novelty",
+      "repeat_wallet_churn"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "positive_net_1m",
+      "wallet_novelty",
+      "repeat_wallet_churn"
+    ],
+    "features": [
+      "trade_acceleration",
+      "novel_wallet_expansion",
+      "fresh_participant_wave"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.353,
+    "peak_market_cap_sol": 28.353,
+    "net_sol_flow_last_5m": 0.1119,
+    "buy_sol_last_5m": 0.2289,
+    "trades_last_1m": 12,
+    "trades_last_5m": 12,
+    "unique_buyers_last_5m": 3,
+    "unique_traders_last_5m": 3,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.9167,
+    "buyer_overlap_ratio": 0.0,
+    "participant_quality_score_v2": 0.5729
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 1.0,
+    "peak_retrace_pct": 0.0,
+    "range_position_pct": 100.0,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 5.0,
+    "sell_acceleration_ratio": 5.0,
+    "buy_pressure_ratio_5m": 0.6617,
+    "buy_pressure_ratio_1m": 0.6617,
+    "buy_sell_count_ratio_5m": 2.0,
+    "buy_sell_sol_ratio_5m": 1.9559,
+    "net_flow_per_trade_5m": 0.0093,
+    "net_flow_per_trade_1m": 0.0093,
+    "avg_buy_size_5m": 0.0286,
+    "avg_sell_size_5m": 0.0293,
+    "buyer_density_5m": 0.375,
+    "seller_density_5m": 0.25,
+    "trader_participation_ratio": 0.25,
+    "buyer_participation_ratio": 1.0,
+    "participation_quality_score": 0.325,
+    "microburst_ratio": 0.6667,
+    "flow_persistence_ratio": 5.0,
+    "wash_risk_ratio": 4.0,
+    "breakout_strength": 0.0,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.9167,
+    "repeat_buyer_ratio": 0.875,
+    "buyer_overlap_ratio": 0.0,
+    "same_wallet_wave_overlap_score": 0.0,
+    "participant_churn_ratio": 1.0,
+    "cluster_entropy": 0.6567,
+    "participant_concentration_score": 0.3958,
+    "new_buyer_velocity": 1.0,
+    "fresh_wallet_expansion_velocity": 1.0,
+    "participant_quality_score_v2": 0.5729,
+    "unique_buyers_last_1m": 3.0,
+    "unique_buyers_last_5m": 3.0,
+    "unique_traders_last_1m": 3.0,
+    "unique_traders_last_5m": 3.0,
+    "unique_sellers_last_1m": 1.0,
+    "unique_sellers_last_5m": 1.0
+  },
+  "current_market_cap_sol": 28.353,
+  "peak_market_cap_sol": 28.353,
+  "market_cap_sol": 28.353
+}

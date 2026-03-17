@@ -1,0 +1,120 @@
+{
+  "mint": "FyPYbruoc5FhEuvzgTumniNwxwH9PHwan9yS1WPapump",
+  "rank_mint": "FyPYbruoc5FhEuvzgTumniNwxwH9PHwan9yS1WPapump",
+  "symbol": "ANO666",
+  "name": "Anomaly 666",
+  "captured_at_utc": "2026-03-08T13:13:35.969068+00:00",
+  "status": "watching",
+  "strategy_name": "momentum_expansion",
+  "entry_bias": "breakout",
+  "setup_state": "watchlist",
+  "composite_score": 10.25,
+  "tie_break_score": 44.1598,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "sell_pressure",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "recent_buy_cluster",
+    "buy_count_5m"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "sell_pressure",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "recent_buy_cluster",
+    "buy_count_5m",
+    "strong_buy_count_5m",
+    "positive_net_1m",
+    "sell_dominant_5m",
+    "trade_acceleration"
+  ],
+  "invalidation_reasons": [
+    "narrow_buyer_base"
+  ],
+  "risk_flags": [
+    "churn_risk",
+    "low_buyer_density"
+  ],
+  "penalties": {
+    "low_buyer_density": 7.0,
+    "churn_risk": 6.0
+  },
+  "strategy_scores": {
+    "filter_score": 15.0,
+    "breakout_score": 20.0,
+    "momentum_score": 30.0,
+    "event_bonus": 0,
+    "feature_bonus": 6.0,
+    "penalty_total": 13.0,
+    "base_composite": 23.25
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "sell_pressure"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "positive_net_1m",
+      "sell_dominant_5m"
+    ],
+    "features": [
+      "trade_acceleration"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.1792,
+    "peak_market_cap_sol": 28.2541,
+    "net_sol_flow_last_5m": 0.0655,
+    "buy_sol_last_5m": 0.2395,
+    "trades_last_1m": 18,
+    "trades_last_5m": 18,
+    "unique_buyers": 2,
+    "unique_traders": 2
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 0.9973,
+    "peak_retrace_pct": 0.2653,
+    "range_position_pct": 72.8,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 5.0,
+    "sell_acceleration_ratio": 5.0,
+    "buy_pressure_ratio_5m": 0.5793,
+    "buy_pressure_ratio_1m": 0.5793,
+    "buy_sell_count_ratio_5m": 0.6364,
+    "buy_sell_sol_ratio_5m": 1.3768,
+    "net_flow_per_trade_5m": 0.0036,
+    "net_flow_per_trade_1m": 0.0036,
+    "avg_buy_size_5m": 0.0342,
+    "avg_sell_size_5m": 0.0158,
+    "buyer_density_5m": 0.2857,
+    "seller_density_5m": 0.0909,
+    "trader_participation_ratio": 0.1111,
+    "buyer_participation_ratio": 1.0,
+    "participation_quality_score": 0.2159,
+    "microburst_ratio": 0.3889,
+    "flow_persistence_ratio": 5.0,
+    "wash_risk_ratio": 9.0,
+    "breakout_strength": 0.0
+  },
+  "current_market_cap_sol": 28.1792,
+  "peak_market_cap_sol": 28.2541,
+  "market_cap_sol": 28.1792
+}

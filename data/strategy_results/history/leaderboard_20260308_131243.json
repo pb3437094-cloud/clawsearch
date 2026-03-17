@@ -1,0 +1,84 @@
+{
+  "captured_at_utc": "2026-03-08T13:12:43.984666+00:00",
+  "entry_count": 1,
+  "rows": [
+    {
+      "rank_mint": "Biq3Ef5w4WC82qDrbW92Tu742wtVJRNu1pQuRhV4pump",
+      "symbol": "Tony Tovar",
+      "name": "World's Chillest Man",
+      "status": "escalated",
+      "strategy_name": "breakout_continuation",
+      "entry_bias": "reclaim",
+      "setup_state": "alert",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 96.25,
+      "tie_break_score": 80.3606,
+      "current_market_cap_sol": 41.052099976317145,
+      "peak_market_cap_sol": 52.31645091879055,
+      "net_sol_flow_last_5m": 3.389025957000001,
+      "buy_sol_last_5m": 10.4519879,
+      "trades_last_1m": 14,
+      "trades_last_5m": 14,
+      "unique_buyers": 9,
+      "unique_traders": 10,
+      "risk_flags": [
+        "moderate_retrace"
+      ],
+      "trigger_reasons": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow",
+        "multiple_unique_buyers",
+        "broad_participation",
+        "already_escalated_state",
+        "fast_1m_tape"
+      ],
+      "invalidation_reasons": [],
+      "penalties": {
+        "moderate_retrace": 6.0
+      },
+      "quant_features": {
+        "mcap_to_peak_ratio": 0.7847,
+        "peak_retrace_pct": 21.5312,
+        "range_position_pct": 39.3149,
+        "trade_acceleration_ratio": 5.0,
+        "buy_acceleration_ratio": 5.0,
+        "sell_acceleration_ratio": 5.0,
+        "buy_pressure_ratio_5m": 0.5967,
+        "buy_pressure_ratio_1m": 0.5967,
+        "buy_sell_count_ratio_5m": 1.8,
+        "buy_sell_sol_ratio_5m": 1.4798,
+        "net_flow_per_trade_5m": 0.2421,
+        "net_flow_per_trade_1m": 0.2421,
+        "avg_buy_size_5m": 1.1613,
+        "avg_sell_size_5m": 1.4126,
+        "buyer_density_5m": 1.0,
+        "seller_density_5m": 1.0,
+        "trader_participation_ratio": 0.7143,
+        "buyer_participation_ratio": 0.9,
+        "participation_quality_score": 0.8857,
+        "microburst_ratio": 0.6429,
+        "flow_persistence_ratio": 5.0,
+        "wash_risk_ratio": 1.4,
+        "breakout_strength": 0.0
+      },
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow"
+      ],
+      "rank": 1
+    }
+  ]
+}

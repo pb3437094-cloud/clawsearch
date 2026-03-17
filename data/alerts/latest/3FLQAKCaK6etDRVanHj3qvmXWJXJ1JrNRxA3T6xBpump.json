@@ -1,0 +1,45 @@
+{
+  "mint": "3FLQAKCaK6etDRVanHj3qvmXWJXJ1JrNRxA3T6xBpump",
+  "symbol": "MANO",
+  "name": "Manosphere",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.2905,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dead_launch",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "REPEAT_WALLET_CHURN",
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "distributed_buyers",
+    "useful_profile_completion",
+    "mcap_stability"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-16T11:34:39.755674+00:00"
+}

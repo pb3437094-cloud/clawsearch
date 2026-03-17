@@ -1,0 +1,40 @@
+{
+  "mint": "75kHMALpkk5pBwJGkQ7TSNA5keziJC5dSiCYsCSFpump",
+  "symbol": "HORMON",
+  "name": "Horse Internet Money",
+  "band": "paper_hold",
+  "score": 110.0,
+  "priority_tier": "alpha",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.429,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "sells_are_being_absorbed_while_holding_highs",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "recycled_participation"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2"
+  ],
+  "current_market_cap_sol": 31.0228,
+  "captured_at": "2026-03-16T13:10:48.222309+00:00"
+}

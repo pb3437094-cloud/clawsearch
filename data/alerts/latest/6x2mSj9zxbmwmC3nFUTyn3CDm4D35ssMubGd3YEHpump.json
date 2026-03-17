@@ -1,0 +1,40 @@
+{
+  "mint": "6x2mSj9zxbmwmC3nFUTyn3CDm4D35ssMubGd3YEHpump",
+  "symbol": "eepy",
+  "name": "eepy cat",
+  "band": "alert_candidate",
+  "score": 131.8,
+  "priority_tier": "alpha",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.369,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "fresh_wallet_arrivals_support_momentum",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 50.3213,
+  "captured_at": "2026-03-09T15:41:58.803885+00:00"
+}

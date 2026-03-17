@@ -1,0 +1,34 @@
+{
+  "captured_at_utc": "2026-03-08T10:46:27.364355+00:00",
+  "entry_count": 1,
+  "rows": [
+    {
+      "rank_mint": "BJZw2EWc46hJo4hrUkoNob4xQQQVuetWNeAHWcPgpump",
+      "symbol": "LABUBU",
+      "name": "The Original Labubu (2014)",
+      "status": "escalated",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 114.55,
+      "current_market_cap_sol": 63.399074740212164,
+      "peak_market_cap_sol": 64.5212061098886,
+      "net_sol_flow_last_5m": 5.62667886,
+      "buy_sol_last_5m": 6.024884462,
+      "trades_last_1m": 13,
+      "trades_last_5m": 13,
+      "unique_buyers": 11,
+      "unique_traders": 13,
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow"
+      ],
+      "rank": 1
+    }
+  ]
+}

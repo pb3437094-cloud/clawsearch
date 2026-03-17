@@ -1,0 +1,39 @@
+{
+  "mint": "Dq2fbY1gUnrn9UKKVYML1vVBUQZvFRywdVZoHaTBpump",
+  "symbol": "Dragon",
+  "name": "The Aryan Deer",
+  "band": "alert_candidate",
+  "score": 78.9,
+  "priority_tier": "priority",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.3515,
+  "regime_tags": [
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "fresh_wallet_arrivals_support_momentum",
+    "recovery_exists_but_structure_is_still_fragile",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "STATUS_ESCALATED_TO_WATCHING",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2"
+  ],
+  "current_market_cap_sol": 34.8685,
+  "captured_at": "2026-03-10T08:36:56.640777+00:00"
+}

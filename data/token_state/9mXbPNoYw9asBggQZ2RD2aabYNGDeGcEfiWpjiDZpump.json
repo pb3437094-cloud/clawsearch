@@ -1,0 +1,109 @@
+{
+  "mint": "9mXbPNoYw9asBggQZ2RD2aabYNGDeGcEfiWpjiDZpump",
+  "symbol": "Rosie",
+  "name": "Rosie the Riveter",
+  "creator_wallet": "AtjKBGh841VzvTyWyW9GXQf6vtZet9gY2Tww456MGAYt",
+  "uri": "https://meta.uxento.io/data/267199d3-1a05-4c6b-8ce0-9621ce48296b",
+  "pool": "pump",
+  "bonding_curve_key": "3enD2dWkA4FRf21n95fY9Gnf7kxQdjN2QeutGfAMehGF",
+  "launch_signature": "2h8AcoGtLyCPKeVosPyLSk4iThwmen41rHf7xRXAw9m5zsP3K3xYLCAZeuNQJqU7sU8huWTo7CVdUcbSVubGveFi",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T10:47:51.106409",
+  "last_seen_at": "2026-03-08T10:48:12.297106",
+  "first_trade_at": "2026-03-08T10:47:54.003166",
+  "last_trade_at": "2026-03-08T10:48:12.297106",
+  "last_buy_at": "2026-03-08T10:47:54.003166",
+  "last_sell_at": "2026-03-08T10:48:12.297106",
+  "watchlisted_at": "2026-03-08T10:47:51.106477+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 34199203.120618,
+  "launch_sol_amount": 0.987654319,
+  "launch_market_cap_sol": 29.83021808617079,
+  "current_market_cap_sol": 27.97392258391249,
+  "peak_market_cap_sol": 32.769619758921806,
+  "trough_market_cap_sol": 27.97392258391249,
+  "total_trade_count": 5,
+  "total_buy_count": 1,
+  "total_sell_count": 4,
+  "total_buy_sol": 0.009381107,
+  "total_sell_sol": 2.470508502,
+  "net_sol_flow": -2.461127395,
+  "largest_buy_sol": 0.009381107,
+  "largest_sell_sol": 1.083314332,
+  "trades_last_1m": 5,
+  "trades_last_5m": 5,
+  "buys_last_1m": 1,
+  "buys_last_5m": 1,
+  "sells_last_1m": 4,
+  "sells_last_5m": 4,
+  "buy_sol_last_1m": 0.009381107,
+  "buy_sol_last_5m": 0.009381107,
+  "sell_sol_last_1m": 2.470508502,
+  "sell_sol_last_5m": 2.470508502,
+  "net_sol_flow_last_1m": -2.461127395,
+  "net_sol_flow_last_5m": -2.461127395,
+  "unique_traders": 5,
+  "unique_buyers": 1,
+  "unique_sellers": 4,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T10:47:54.003166",
+      "tx_type": "buy",
+      "sol_amount": 0.009381107,
+      "trader_wallet": "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2",
+      "market_cap_sol": 32.769619758921806
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:47:57.095948",
+      "tx_type": "sell",
+      "sol_amount": 1.083314332,
+      "trader_wallet": "AtjKBGh841VzvTyWyW9GXQf6vtZet9gY2Tww456MGAYt",
+      "market_cap_sol": 30.620029334801995
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:12.258123",
+      "tx_type": "sell",
+      "sol_amount": 0.461932604,
+      "trader_wallet": "J7RNsKTwoBxdj8R1JjSeeFjZAojTx5kx1G2pgQyFS4rs",
+      "market_cap_sol": 29.725603934156698
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:12.285202",
+      "tx_type": "sell",
+      "sol_amount": 0.476908384,
+      "trader_wallet": "BufPxB1o5VMJkTRyroNZ5ieu9mCCQpkkayFugNqPzJq3",
+      "market_cap_sol": 28.816090731232983
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:12.297106",
+      "tx_type": "sell",
+      "sol_amount": 0.448353182,
+      "trader_wallet": "4dYmqJA9tqtQCq8CUQ7Vdnyi1S7ijw5fMof3w8oidSde",
+      "market_cap_sol": 27.97392258391249
+    }
+  ],
+  "trader_wallets": [
+    "4dYmqJA9tqtQCq8CUQ7Vdnyi1S7ijw5fMof3w8oidSde",
+    "BufPxB1o5VMJkTRyroNZ5ieu9mCCQpkkayFugNqPzJq3",
+    "AtjKBGh841VzvTyWyW9GXQf6vtZet9gY2Tww456MGAYt",
+    "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2",
+    "J7RNsKTwoBxdj8R1JjSeeFjZAojTx5kx1G2pgQyFS4rs"
+  ],
+  "buyer_wallets": [
+    "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2"
+  ],
+  "seller_wallets": [
+    "AtjKBGh841VzvTyWyW9GXQf6vtZet9gY2Tww456MGAYt",
+    "BufPxB1o5VMJkTRyroNZ5ieu9mCCQpkkayFugNqPzJq3",
+    "4dYmqJA9tqtQCq8CUQ7Vdnyi1S7ijw5fMof3w8oidSde",
+    "J7RNsKTwoBxdj8R1JjSeeFjZAojTx5kx1G2pgQyFS4rs"
+  ]
+}

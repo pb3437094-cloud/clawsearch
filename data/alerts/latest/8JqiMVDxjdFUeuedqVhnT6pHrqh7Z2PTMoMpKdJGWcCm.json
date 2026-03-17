@@ -1,0 +1,45 @@
+{
+  "mint": "8JqiMVDxjdFUeuedqVhnT6pHrqh7Z2PTMoMpKdJGWcCm",
+  "symbol": "Skull",
+  "name": "continuous",
+  "band": "watchlist",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.3487,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "insufficient_history",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "REPEAT_WALLET_CHURN",
+    "nonzero_initial_buy",
+    "fresh_wallet_expansion",
+    "buyer_novelty",
+    "wallet_novelty",
+    "trade_acceleration",
+    "distributed_buyers",
+    "novel_wallet_expansion"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-16T11:36:51.273933+00:00"
+}

@@ -1,0 +1,48 @@
+{
+  "mint": "gw14tyr5W13ca5EU5gmszoKFMa9tgYmtpN12Pigpump",
+  "symbol": "PROSUMER",
+  "name": "Prosumer",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "seller_expansion_or_sell_pressure_is_rising",
+    "buyer_base_is_too_narrow_for_high_confidence"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "buy_side_staleness",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "post_peak_weakness",
+    "sell_pressure",
+    "high_participant_quality",
+    "far_off_peak"
+  ],
+  "current_market_cap_sol": 28.679,
+  "captured_at": "2026-03-17T06:37:16.258998+00:00"
+}

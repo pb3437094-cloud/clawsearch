@@ -1,0 +1,45 @@
+{
+  "mint": "7jWpvGUksqD75J5GwZkQGKyNEeD9moWrGvyqXg8npump",
+  "symbol": "OilWhale",
+  "name": "The Oil Whale",
+  "band": "invalidated",
+  "score": 54.65,
+  "priority_tier": "watch",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.604,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "moderate_retrace",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 138.476,
+  "captured_at": "2026-03-09T12:43:20.670612+00:00"
+}

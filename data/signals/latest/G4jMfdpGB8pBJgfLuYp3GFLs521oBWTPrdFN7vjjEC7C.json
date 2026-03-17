@@ -1,0 +1,45 @@
+{
+  "mint": "G4jMfdpGB8pBJgfLuYp3GFLs521oBWTPrdFN7vjjEC7C",
+  "captured_at_utc": "2026-03-09T14:45:35.593976+00:00",
+  "status": "watching",
+  "score_inputs": {
+    "current_market_cap_sol": 37.53085802154322,
+    "peak_market_cap_sol": 38.35193195881047,
+    "trades_last_1m": 5,
+    "trades_last_5m": 5,
+    "buy_sol_last_5m": 0.111443666,
+    "net_sol_flow_last_5m": -0.276547189,
+    "unique_buyers_last_5m": 2,
+    "unique_traders_last_5m": 3,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.8,
+    "buyer_overlap_ratio": 0.0,
+    "participant_quality_score_v2": 0.7387
+  },
+  "events": [
+    {
+      "event_type": "TX_ACCELERATION_1M",
+      "mint": "G4jMfdpGB8pBJgfLuYp3GFLs521oBWTPrdFN7vjjEC7C",
+      "created_at_utc": "2026-03-09T14:45:35.593939+00:00",
+      "severity": "medium",
+      "details": {
+        "metric": "trades_last_1m",
+        "threshold": 5.0,
+        "previous_value": 4.0,
+        "current_value": 5.0
+      }
+    },
+    {
+      "event_type": "REPEAT_WALLET_CHURN",
+      "mint": "G4jMfdpGB8pBJgfLuYp3GFLs521oBWTPrdFN7vjjEC7C",
+      "created_at_utc": "2026-03-09T14:45:35.593956+00:00",
+      "severity": "high",
+      "details": {
+        "metric": "repeat_wallet_ratio",
+        "threshold": 0.55,
+        "previous_value": 0.5,
+        "current_value": 0.8
+      }
+    }
+  ]
+}

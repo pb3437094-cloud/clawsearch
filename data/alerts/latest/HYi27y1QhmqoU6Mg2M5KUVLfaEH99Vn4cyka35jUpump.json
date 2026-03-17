@@ -1,0 +1,43 @@
+{
+  "mint": "HYi27y1QhmqoU6Mg2M5KUVLfaEH99Vn4cyka35jUpump",
+  "symbol": "PROSUMER",
+  "name": "Prosumer",
+  "band": "alert_candidate",
+  "score": 108.02,
+  "priority_tier": "priority",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.429,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "sells_are_being_absorbed_while_holding_highs",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 410.8802,
+  "captured_at": "2026-03-17T06:35:34.745348+00:00"
+}

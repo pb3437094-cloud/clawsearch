@@ -1,0 +1,81 @@
+{
+  "module_path": "paper/paper_trader.py",
+  "passed": 6,
+  "failed": 0,
+  "success": true,
+  "scenarios": [
+    {
+      "name": "invalidated_loser_closes",
+      "passed": true,
+      "details": {
+        "sync_status": "closed",
+        "exit_reason": "invalidated",
+        "pnl_pct_proxy": -10.0
+      }
+    },
+    {
+      "name": "invalidated_green_hold",
+      "passed": true,
+      "details": {
+        "sync_status": "updated",
+        "reason": "hold_below_entry_threshold",
+        "qualify_reason": "invalidated",
+        "pnl_pct_proxy": 6.0
+      }
+    },
+    {
+      "name": "winner_floor_stop_protected",
+      "passed": true,
+      "details": {
+        "sync_status": "closed",
+        "exit_reason": "winner_floor_stop",
+        "raw_pnl_pct_proxy": 3.0,
+        "protected_pnl_pct_proxy": 8.0,
+        "floor": 8.0
+      }
+    },
+    {
+      "name": "trail_stop_winner",
+      "passed": true,
+      "details": {
+        "sync_status": "closed",
+        "exit_reason": "trail_stop",
+        "pnl_pct_proxy": 35.0
+      }
+    },
+    {
+      "name": "stale_invalidated_timeout",
+      "passed": true,
+      "details": {
+        "sweep_result": {
+          "closed_count": 1,
+          "closed_by_reason": {
+            "stale_invalidated_timeout": 1
+          },
+          "open_trade_count": 0,
+          "closed_trade_count": 1
+        },
+        "exit_reason": "stale_invalidated_timeout",
+        "pnl_pct_proxy": -1.0
+      }
+    },
+    {
+      "name": "winner_floor_timeout_protected",
+      "passed": true,
+      "details": {
+        "sweep_result": {
+          "closed_count": 1,
+          "closed_by_reason": {
+            "winner_floor_timeout": 1
+          },
+          "open_trade_count": 0,
+          "closed_trade_count": 1
+        },
+        "exit_reason": "winner_floor_timeout",
+        "raw_pnl_pct_proxy": -11.0,
+        "protected_pnl_pct_proxy": 8.0,
+        "floor": 8.0
+      }
+    }
+  ]
+}

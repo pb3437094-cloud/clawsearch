@@ -1,0 +1,226 @@
+{
+  "mint": "AErpV3mErV8znrjvgtEMjDR3F4QaQSS13QNxCRYepump",
+  "rank_mint": "AErpV3mErV8znrjvgtEMjDR3F4QaQSS13QNxCRYepump",
+  "symbol": "Siftly",
+  "name": "SIFTLY",
+  "captured_at_utc": "2026-03-09T05:20:38.146607+00:00",
+  "status": "watching",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "EARLY_MICRO_PUMP",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.4255,
+  "archetype_scores": {
+    "BREAKOUT_RUNNER": 0.0,
+    "HIGH_TIGHT_RANGE": 1.265,
+    "MOMENTUM_EXPANSION": 3.6,
+    "EARLY_MICRO_PUMP": 5.2,
+    "REVIVAL_RECLAIM": 0.0,
+    "SLOW_BURN_ACCUMULATION": 0.0,
+    "INSIDER_ROTATION": 2.2,
+    "BOT_WASH": 2.6,
+    "DEAD_LAUNCH": 4.2,
+    "LIQUIDITY_FADE": 2.2,
+    "FAILED_BREAKOUT": 2.89
+  },
+  "top_archetypes": [
+    {
+      "name": "EARLY_MICRO_PUMP",
+      "score": 5.2
+    },
+    {
+      "name": "DEAD_LAUNCH",
+      "score": 4.2
+    },
+    {
+      "name": "MOMENTUM_EXPANSION",
+      "score": 3.6
+    }
+  ],
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "sub_breakout_name_is_showing_early_acceleration",
+    "fresh_buyer_turnover_supports_early_push",
+    "history_is_too_short_to_confirm_compression_or_reclaim",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "entry_bias": "momentum",
+  "setup_state": "watchlist",
+  "composite_score": 0.0,
+  "tie_break_score": 7.1621,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "repeat_wallet_churn",
+    "active_5m_tape",
+    "distributed_buyers",
+    "buyer_novelty"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "repeat_wallet_churn",
+    "active_5m_tape",
+    "distributed_buyers",
+    "buyer_novelty",
+    "buy_count_5m",
+    "wallet_novelty",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "near_high_dwell",
+    "sub_breakout_name_is_showing_early_acceleration",
+    "fresh_buyer_turnover_supports_early_push",
+    "history_is_too_short_to_confirm_compression_or_reclaim"
+  ],
+  "invalidation_reasons": [
+    "negative_5m_flow",
+    "repeat_wallet_churn"
+  ],
+  "risk_flags": [
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "penalties": {
+    "negative_net_flow": 10.0,
+    "sell_dominance": 8.0,
+    "repeat_wallet_churn": 9.0,
+    "seller_overhang": 6.0,
+    "recycled_participation": 4.0,
+    "seller_overhang_regime": 5.0,
+    "insufficient_history": 5.0
+  },
+  "strategy_scores": {
+    "filter_score": 25.0,
+    "breakout_score": 16.0,
+    "momentum_score": -4.0,
+    "event_bonus": 0,
+    "feature_bonus": 13.0,
+    "archetype_bonus": 2.5,
+    "penalty_total": 47.0,
+    "base_composite": 23.05
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "buy_pressure",
+      "multiple_recent_buyers",
+      "repeat_wallet_churn"
+    ],
+    "breakout": [
+      "active_5m_tape",
+      "distributed_buyers",
+      "buyer_novelty",
+      "repeat_wallet_churn"
+    ],
+    "momentum": [
+      "buy_count_5m",
+      "wallet_novelty",
+      "negative_sol_balance_5m",
+      "repeat_wallet_churn"
+    ],
+    "features": [
+      "trade_acceleration",
+      "distributed_buyers",
+      "near_high_dwell"
+    ],
+    "events": [],
+    "archetype": [
+      "sub_breakout_name_is_showing_early_acceleration",
+      "fresh_buyer_turnover_supports_early_push",
+      "history_is_too_short_to_confirm_compression_or_reclaim",
+      "repeat_wallet_or_overlap_pattern_is_elevated",
+      "seller_expansion_or_sell_pressure_is_rising"
+    ]
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 27.959,
+    "peak_market_cap_sol": 30.9582,
+    "net_sol_flow_last_5m": -0.9877,
+    "buy_sol_last_5m": 0.6792,
+    "trades_last_1m": 3,
+    "trades_last_5m": 9,
+    "unique_buyers_last_5m": 3,
+    "unique_traders_last_5m": 4,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.8889,
+    "buyer_overlap_ratio": 0.0,
+    "participant_quality_score_v2": 0.5886,
+    "event_sequence_score": 0.0
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 0.9031,
+    "peak_retrace_pct": 9.6881,
+    "range_position_pct": 0.0,
+    "trade_acceleration_ratio": 1.6667,
+    "buy_acceleration_ratio": 0.0,
+    "sell_acceleration_ratio": 3.75,
+    "buy_pressure_ratio_5m": 0.2895,
+    "buy_pressure_ratio_1m": 0.0,
+    "buy_sell_count_ratio_5m": 1.25,
+    "buy_sell_sol_ratio_5m": 0.4075,
+    "net_flow_per_trade_5m": -0.1097,
+    "net_flow_per_trade_1m": -0.3621,
+    "avg_buy_size_5m": 0.1358,
+    "avg_sell_size_5m": 0.4167,
+    "buyer_density_5m": 0.6,
+    "seller_density_5m": 1.0,
+    "trader_participation_ratio": 0.4444,
+    "buyer_participation_ratio": 0.75,
+    "participation_quality_score": 0.5378,
+    "microburst_ratio": 0.0,
+    "flow_persistence_ratio": 0.0,
+    "wash_risk_ratio": 2.25,
+    "breakout_strength": 0.0,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.8889,
+    "repeat_buyer_ratio": 0.8,
+    "buyer_overlap_ratio": 0.0,
+    "same_wallet_wave_overlap_score": 0.0,
+    "participant_churn_ratio": 0.3333,
+    "cluster_entropy": 0.9455,
+    "participant_concentration_score": 0.0453,
+    "new_buyer_velocity": 0.0,
+    "fresh_wallet_expansion_velocity": 0.0,
+    "participant_quality_score_v2": 0.5886,
+    "time_since_first_seen_seconds": 144.0573,
+    "time_since_last_trade_seconds": 0.0312,
+    "time_since_last_buy_seconds": 88.8328,
+    "time_since_last_sell_seconds": 0.0312,
+    "time_since_peak_seconds": 143.7317,
+    "time_since_trough_seconds": 0.0312,
+    "mcap_recovery_from_trough_ratio": 0.0,
+    "recovery_ratio_from_trough": 0.0,
+    "peak_to_trough_damage_pct": 9.6881,
+    "near_high_dwell_pct": 99.774,
+    "revival_count": 0.0,
+    "seller_expansion_ratio": 3.75,
+    "buyer_refresh_ratio_1m_vs_5m": 0.0,
+    "sell_absorption_score": 0.2069,
+    "mcap_stability_score": 0.6775,
+    "unique_buyers_last_1m": 0.0,
+    "unique_buyers_last_5m": 3.0,
+    "unique_traders_last_1m": 3.0,
+    "unique_traders_last_5m": 4.0,
+    "unique_sellers_last_1m": 3.0,
+    "unique_sellers_last_5m": 4.0,
+    "event_sequence_score": 0.0
+  },
+  "current_market_cap_sol": 27.959,
+  "peak_market_cap_sol": 30.9582,
+  "market_cap_sol": 27.959
+}

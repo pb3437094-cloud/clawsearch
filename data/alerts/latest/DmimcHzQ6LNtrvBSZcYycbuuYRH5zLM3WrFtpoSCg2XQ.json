@@ -1,0 +1,43 @@
+{
+  "mint": "DmimcHzQ6LNtrvBSZcYycbuuYRH5zLM3WrFtpoSCg2XQ",
+  "symbol": "SHEIKHSPEARE",
+  "name": "Sheikhspeare",
+  "band": "paper_hold",
+  "score": 155.8,
+  "priority_tier": "alpha",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BREAKOUT_RUNNER",
+  "secondary_archetype": "HIGH_TIGHT_RANGE",
+  "archetype_confidence": 0.7035,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_CLEAN",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "price_structure_is_holding_near_highs_above_breakout_zone",
+    "buy_pressure_and_participant_quality_support_breakout_continuation",
+    "net_flow_is_positive_with_distributed_buyers",
+    "organic_participation_tag_supports_continuation",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_has_quality_and_is_not_heavily_recycled"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 60.6568,
+  "captured_at": "2026-03-10T09:06:25.469668+00:00"
+}

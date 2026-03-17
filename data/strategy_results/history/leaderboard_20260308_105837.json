@@ -1,0 +1,109 @@
+{
+  "captured_at_utc": "2026-03-08T10:58:37.815085+00:00",
+  "entry_count": 4,
+  "rows": [
+    {
+      "rank_mint": "htyL4uxNP235HdwKZ9i9VDYsosA6BBj4rteq1zdpump",
+      "symbol": "ALAMOLHODA",
+      "name": "Ahmad Alamolhoda",
+      "status": "escalated",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 109.5,
+      "current_market_cap_sol": 53.422947684362335,
+      "peak_market_cap_sol": 57.837506666228194,
+      "net_sol_flow_last_5m": 1.6110056190000002,
+      "buy_sol_last_5m": 8.524066055,
+      "trades_last_1m": 18,
+      "trades_last_5m": 18,
+      "unique_buyers": 10,
+      "unique_traders": 15,
+      "why_now": [
+        "STATUS_WATCHING_TO_ESCALATED",
+        "NET_FLOW_5M_CROSS_1",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure"
+      ],
+      "rank": 1
+    },
+    {
+      "rank_mint": "Ah9sSgd6V8ak5G1YLpax481xLSRCjm8ph3pGdmt1pump",
+      "symbol": "LING",
+      "name": "Lingling Charm",
+      "status": "watching",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 87.5,
+      "current_market_cap_sol": 37.733356314906196,
+      "peak_market_cap_sol": 37.733356314906196,
+      "net_sol_flow_last_5m": 2.051487123,
+      "buy_sol_last_5m": 2.051602617,
+      "trades_last_1m": 6,
+      "trades_last_5m": 6,
+      "unique_buyers": 5,
+      "unique_traders": 6,
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow",
+        "multiple_unique_buyers"
+      ],
+      "rank": 2
+    },
+    {
+      "rank_mint": "CE6Yv9Auq6kGXZHmoSNYkvTAHdZ7MRPAkfgFKZLvpump",
+      "symbol": "BTC",
+      "name": "Buy The Coin",
+      "status": "watching",
+      "priority_tier": "background",
+      "confidence": "low",
+      "composite_score": 21.2,
+      "current_market_cap_sol": 35.59949901823656,
+      "peak_market_cap_sol": 37.70708884150635,
+      "net_sol_flow_last_5m": 0.0,
+      "buy_sol_last_5m": 0.987654319,
+      "trades_last_1m": 2,
+      "trades_last_5m": 2,
+      "unique_buyers": 1,
+      "unique_traders": 1,
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "buy_sol_1m"
+      ],
+      "rank": 3
+    },
+    {
+      "rank_mint": "AdgNmT7f88dFkFiYjXaYTnHSmNiYsYNCogMRc4XMpump",
+      "symbol": "SKY",
+      "name": "SKYBEAN",
+      "status": "watching",
+      "priority_tier": "background",
+      "confidence": "low",
+      "composite_score": 9.4,
+      "current_market_cap_sol": 29.848282226194485,
+      "peak_market_cap_sol": 29.848282226194485,
+      "net_sol_flow_last_5m": 0.009381101,
+      "buy_sol_last_5m": 0.009381101,
+      "trades_last_1m": 1,
+      "trades_last_5m": 1,
+      "unique_buyers": 1,
+      "unique_traders": 1,
+      "why_now": [
+        "nonzero_initial_buy",
+        "buy_pressure",
+        "positive_net_1m"
+      ],
+      "rank": 4
+    }
+  ]
+}

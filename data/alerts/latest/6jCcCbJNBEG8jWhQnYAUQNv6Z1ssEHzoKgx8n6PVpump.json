@@ -1,0 +1,52 @@
+{
+  "mint": "6jCcCbJNBEG8jWhQnYAUQNv6Z1ssEHzoKgx8n6PVpump",
+  "symbol": "0.00001%",
+  "name": "Absolute Luck",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "fragile_reclaim",
+    "insufficient_history",
+    "low_buyer_density",
+    "low_participant_quality",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "repeat_wallet_churn",
+    "participant_concentration",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 28.8091,
+  "captured_at": "2026-03-17T06:27:29.550183+00:00"
+}

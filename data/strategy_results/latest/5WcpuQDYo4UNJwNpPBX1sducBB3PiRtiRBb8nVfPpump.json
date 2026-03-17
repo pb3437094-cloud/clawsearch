@@ -1,0 +1,113 @@
+{
+  "mint": "5WcpuQDYo4UNJwNpPBX1sducBB3PiRtiRBb8nVfPpump",
+  "rank_mint": "5WcpuQDYo4UNJwNpPBX1sducBB3PiRtiRBb8nVfPpump",
+  "symbol": "PWAR",
+  "name": "PEPE WAR",
+  "captured_at_utc": "2026-03-08T12:55:13.583985+00:00",
+  "status": "watching",
+  "strategy_name": "high_tight_range",
+  "entry_bias": "breakout",
+  "setup_state": "watchlist",
+  "composite_score": 38.5,
+  "tie_break_score": 57.764,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_unique_buyers",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "distributed_buyers"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_unique_buyers",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "distributed_buyers",
+    "recent_buy_cluster",
+    "buy_count_5m",
+    "positive_net_1m",
+    "trade_acceleration"
+  ],
+  "invalidation_reasons": [],
+  "risk_flags": [],
+  "penalties": {},
+  "strategy_scores": {
+    "filter_score": 50.0,
+    "breakout_score": 30.0,
+    "momentum_score": 28.0,
+    "event_bonus": 0,
+    "feature_bonus": 10.0,
+    "penalty_total": 0,
+    "base_composite": 38.5
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "multiple_unique_buyers"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "distributed_buyers"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "positive_net_1m"
+    ],
+    "features": [
+      "trade_acceleration",
+      "distributed_buyers"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.3498,
+    "peak_market_cap_sol": 28.4924,
+    "net_sol_flow_last_5m": 0.1595,
+    "buy_sol_last_5m": 0.325,
+    "trades_last_1m": 10,
+    "trades_last_5m": 10,
+    "unique_buyers": 4,
+    "unique_traders": 4
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 0.995,
+    "peak_retrace_pct": 0.5007,
+    "range_position_pct": 67.6736,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 5.0,
+    "sell_acceleration_ratio": 5.0,
+    "buy_pressure_ratio_5m": 0.6627,
+    "buy_pressure_ratio_1m": 0.6627,
+    "buy_sell_count_ratio_5m": 1.5,
+    "buy_sell_sol_ratio_5m": 1.9644,
+    "net_flow_per_trade_5m": 0.016,
+    "net_flow_per_trade_1m": 0.016,
+    "avg_buy_size_5m": 0.0542,
+    "avg_sell_size_5m": 0.0414,
+    "buyer_density_5m": 0.6667,
+    "seller_density_5m": 0.5,
+    "trader_participation_ratio": 0.4,
+    "buyer_participation_ratio": 1.0,
+    "participation_quality_score": 0.56,
+    "microburst_ratio": 0.6,
+    "flow_persistence_ratio": 5.0,
+    "wash_risk_ratio": 2.5,
+    "breakout_strength": 0.0
+  },
+  "current_market_cap_sol": 28.3498,
+  "peak_market_cap_sol": 28.4924,
+  "market_cap_sol": 28.3498
+}

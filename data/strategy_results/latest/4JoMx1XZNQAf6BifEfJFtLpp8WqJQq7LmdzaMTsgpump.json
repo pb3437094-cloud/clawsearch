@@ -1,0 +1,66 @@
+{
+  "mint": "4JoMx1XZNQAf6BifEfJFtLpp8WqJQq7LmdzaMTsgpump",
+  "symbol": "ALAMOLHODA",
+  "name": "Ayatollah Alamolhoda",
+  "captured_at_utc": "2026-03-08T10:59:31.456531+00:00",
+  "status": "watching",
+  "composite_score": 13.85,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "post_peak_weakness",
+    "sell_pressure",
+    "fast_1m_tape"
+  ],
+  "strategy_scores": {
+    "filter_score": 20.0,
+    "breakout_score": 35.0,
+    "momentum_score": 42.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "post_peak_weakness",
+      "sell_pressure"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "trader_participation",
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.333,
+    "peak_market_cap_sol": 44.9246,
+    "net_sol_flow_last_5m": -7.3983,
+    "buy_sol_last_5m": 5.5435,
+    "trades_last_1m": 41,
+    "trades_last_5m": 41,
+    "unique_buyers": 9,
+    "unique_traders": 25
+  }
+}

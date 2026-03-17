@@ -1,0 +1,50 @@
+{
+  "mint": "HsuEVD9GpU4KoV8KtZNSNexbjb5NedUWy3f6ffE9pump",
+  "symbol": "Cramer",
+  "name": "Inverse Cramer Memes",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "insufficient_history",
+    "moderate_retrace",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "participant_quality_v2",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "sell_pressure",
+    "repeat_wallet_churn"
+  ],
+  "current_market_cap_sol": 33.2853,
+  "captured_at": "2026-03-09T15:24:08.918568+00:00"
+}

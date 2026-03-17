@@ -1,0 +1,42 @@
+{
+  "mint": "28AJfpKS8dsg78a7HXA8JddnA7PQAhAkMdWLJnexpump",
+  "symbol": "SOLANA",
+  "name": "insane on bnb is at 200k",
+  "captured_at_utc": "2026-03-08T10:46:48.093471+00:00",
+  "status": "watching",
+  "composite_score": 0.0,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 10.0,
+    "breakout_score": 0.0,
+    "momentum_score": -22.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy"
+    ],
+    "breakout": [],
+    "momentum": [
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 27.959,
+    "peak_market_cap_sol": 27.9592,
+    "net_sol_flow_last_5m": -0.0001,
+    "buy_sol_last_5m": 0.0,
+    "trades_last_1m": 1,
+    "trades_last_5m": 1,
+    "unique_buyers": 0,
+    "unique_traders": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "mint": "iL63c9gei9sX3hjhJnrzv2LvNhb49vwSRrsEVzqpump",
+  "symbol": "SOLANA",
+  "name": "Stack On Lows And Never Abandon",
+  "captured_at_utc": "2026-03-08T10:48:30.782576+00:00",
+  "status": "watching",
+  "composite_score": 0.0,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 10.0,
+    "breakout_score": 0.0,
+    "momentum_score": -22.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy"
+    ],
+    "breakout": [],
+    "momentum": [
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 27.959,
+    "peak_market_cap_sol": 31.4973,
+    "net_sol_flow_last_5m": -3.8519,
+    "buy_sol_last_5m": 0.0,
+    "trades_last_1m": 3,
+    "trades_last_5m": 3,
+    "unique_buyers": 0,
+    "unique_traders": 3
+  }
+}

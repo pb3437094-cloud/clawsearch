@@ -1,0 +1,82 @@
+{
+  "mint": "BVWMuwEeJXXuwMuLLVPE1kRkKRu3boo76uxvpWvepump",
+  "symbol": "COIN",
+  "name": "COIN Token",
+  "creator_wallet": "DHaNvbUHtjb26PRwSid3KoRWUzS2NKAtg4Ez3qQBi2Qu",
+  "uri": "https://meta.uxento.io/data/b444b121-8fc8-4e76-8215-0f5b8591c676",
+  "pool": "pump",
+  "bonding_curve_key": "471zZvzowaPAkdFGM9Z8mdyXs6WwoaZQkkYbsVDmVYCE",
+  "launch_signature": "2aNc7rEfUpq6PQEPbPHDe164vPLu3wLhFK9zD9qEXXZvgXnKAHHqeVCV6xRaqMR4Ldr7tpWrCaVbmUUdKKbV9zKm",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T10:48:21.270184",
+  "last_seen_at": "2026-03-08T10:48:24.398943",
+  "first_trade_at": "2026-03-08T10:48:23.604727",
+  "last_trade_at": "2026-03-08T10:48:24.398943",
+  "last_buy_at": "2026-03-08T10:48:23.604727",
+  "last_sell_at": "2026-03-08T10:48:24.398943",
+  "watchlisted_at": "2026-03-08T10:48:21.270304+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 81596958.099513,
+  "launch_sol_amount": 2.4691358,
+  "launch_market_cap_sol": 32.75069212795407,
+  "current_market_cap_sol": 36.32886779034451,
+  "peak_market_cap_sol": 36.96136363698317,
+  "trough_market_cap_sol": 32.75069212795407,
+  "total_trade_count": 2,
+  "total_buy_count": 1,
+  "total_sell_count": 1,
+  "total_buy_sol": 0.009381116,
+  "total_sell_sol": 0.296404072,
+  "net_sol_flow": -0.287022956,
+  "largest_buy_sol": 0.009381116,
+  "largest_sell_sol": 0.296404072,
+  "trades_last_1m": 2,
+  "trades_last_5m": 2,
+  "buys_last_1m": 1,
+  "buys_last_5m": 1,
+  "sells_last_1m": 1,
+  "sells_last_5m": 1,
+  "buy_sol_last_1m": 0.009381116,
+  "buy_sol_last_5m": 0.009381116,
+  "sell_sol_last_1m": 0.296404072,
+  "sell_sol_last_5m": 0.296404072,
+  "net_sol_flow_last_1m": -0.287022956,
+  "net_sol_flow_last_5m": -0.287022956,
+  "unique_traders": 2,
+  "unique_buyers": 1,
+  "unique_sellers": 1,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T10:48:23.604727",
+      "tx_type": "buy",
+      "sol_amount": 0.009381116,
+      "trader_wallet": "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2",
+      "market_cap_sol": 36.96136363698317
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:24.398943",
+      "tx_type": "sell",
+      "sol_amount": 0.296404072,
+      "trader_wallet": "2wLtuD3S9PkH7QmxPP12BYA6V6tNwY9di6zgPMVWtqFb",
+      "market_cap_sol": 36.32886779034451
+    }
+  ],
+  "trader_wallets": [
+    "2wLtuD3S9PkH7QmxPP12BYA6V6tNwY9di6zgPMVWtqFb",
+    "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2"
+  ],
+  "buyer_wallets": [
+    "G9mxU8uthi4QwYtUPrDYmhp2KneDtT4G2LSxdXYNekC2"
+  ],
+  "seller_wallets": [
+    "2wLtuD3S9PkH7QmxPP12BYA6V6tNwY9di6zgPMVWtqFb"
+  ]
+}

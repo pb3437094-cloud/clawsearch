@@ -1,0 +1,46 @@
+{
+  "mint": "8HaD74WtdomDY8s9tUW55ERL2rRFQjXfgMWxWig6pump",
+  "symbol": "MULERUN",
+  "name": "BNB DOESNT GIVE FEES",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "SLOW_BURN_ACCUMULATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.273,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_has_survived_longer_than_a_pure_micro_pump",
+    "steady_buy_pressure_and_quality_fit_accumulation",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "multiple_recent_buyers",
+    "repeat_wallet_churn",
+    "active_5m_tape",
+    "buy_flow_5m",
+    "distributed_buyers",
+    "buyer_novelty"
+  ],
+  "current_market_cap_sol": 27.96,
+  "captured_at": "2026-03-16T11:19:53.731837+00:00"
+}

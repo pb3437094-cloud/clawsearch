@@ -1,0 +1,30 @@
+{
+  "mint": "6ERxZq8W1j2ovJML9CVqMpEhfZTt3PUuYdgVNSM8pump",
+  "symbol": "Uranium",
+  "name": "Uranium",
+  "strategy_name": "hybrid_flow",
+  "priority_tier": "alpha",
+  "entry_score": 98.4,
+  "entry_market_cap_sol": 42.2332,
+  "entry_mcap_source_key": "current_market_cap_sol",
+  "current_market_cap_sol": 41.7144,
+  "peak_market_cap_since_entry": 53.0626,
+  "trough_market_cap_since_entry": 41.7144,
+  "max_favorable_excursion_pct": 25.6419,
+  "max_adverse_excursion_pct": -1.2284,
+  "status": "closed",
+  "opened_at": "2026-03-08T13:13:23.325969+00:00",
+  "last_updated_at": "2026-03-08T13:13:27.019707+00:00",
+  "reopened_from_closed": false,
+  "pnl_pct_proxy": -1.2284,
+  "drawdown_from_peak_pct": -21.3864,
+  "last_score": 74.1,
+  "last_priority_tier": "priority",
+  "last_alert_band": "alert_candidate",
+  "last_risk_flags": [
+    "moderate_retrace"
+  ],
+  "exit_reason": "peak_drawdown_stop",
+  "exit_market_cap_sol": 41.7144,
+  "closed_at": "2026-03-08T13:13:27.019941+00:00"
+}

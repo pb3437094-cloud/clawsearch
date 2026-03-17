@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+*.txt
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime / local data
+data/raw_launch_snapshots/
+data/**/*.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+.env.*
+
+# Logs
+logs/
+*.log
+*.txt
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime / local data
+data/raw_launch_snapshots/
+data/**/*.tmp
+
+# Optional: ignore paper-trading outputs if you do not want them in Git
+data/paper/open_trades.json
+data/paper/closed_trades.json

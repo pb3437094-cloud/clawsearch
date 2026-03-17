@@ -1,0 +1,45 @@
+{
+  "mint": "FsmSrg5ZjS5Q1obbuayDkczRyFnbKcFJ2HsX9yQepump",
+  "symbol": "$EXIT",
+  "name": "EXITLIQUIDITY ",
+  "band": "watchlist",
+  "score": 8.8,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "SLOW_BURN_ACCUMULATION",
+  "secondary_archetype": "HIGH_TIGHT_RANGE",
+  "archetype_confidence": 0.3117,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_has_survived_longer_than_a_pure_micro_pump",
+    "activity_is_constructive_without_chasing",
+    "fresh_buyer_refresh_supports_slow_burn",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insufficient_history",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "WALLET_NOVELTY_SURGE",
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "fresh_wallet_expansion",
+    "repeat_wallet_churn",
+    "buyer_novelty",
+    "positive_net_1m",
+    "wallet_novelty"
+  ],
+  "current_market_cap_sol": 28.5581,
+  "captured_at": "2026-03-16T12:38:50.952108+00:00"
+}

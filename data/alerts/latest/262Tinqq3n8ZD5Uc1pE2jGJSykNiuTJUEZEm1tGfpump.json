@@ -1,0 +1,46 @@
+{
+  "mint": "262Tinqq3n8ZD5Uc1pE2jGJSykNiuTJUEZEm1tGfpump",
+  "symbol": "LAD",
+  "name": "LeastAddictedDude",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.464,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "insider_rotation",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "REPEAT_WALLET_CHURN",
+    "PARTICIPANT_QUALITY_BREAKDOWN",
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-09T14:46:40.309903+00:00"
+}

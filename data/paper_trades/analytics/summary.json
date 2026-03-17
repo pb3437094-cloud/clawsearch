@@ -1,0 +1,125 @@
+{
+  "generated_at_utc": "2026-03-09T13:17:58.531655+00:00",
+  "closed_trade_count": 19,
+  "win_count": 2,
+  "loss_count": 17,
+  "flat_count": 0,
+  "win_rate_pct": 10.53,
+  "average_pnl_pct": -8.8145,
+  "average_mfe_pct": 13.0885,
+  "average_mae_pct": -9.8588,
+  "average_trade_duration_seconds": 5.1957,
+  "fresh_entry_close_count": 19,
+  "reopened_close_count": 0,
+  "milestone_hit_counts": [
+    {
+      "milestone": "mfe_10",
+      "count": 5
+    },
+    {
+      "milestone": "mfe_25",
+      "count": 3
+    },
+    {
+      "milestone": "mfe_50",
+      "count": 2
+    }
+  ],
+  "exit_reason_breakdown": [
+    {
+      "exit_reason": "alert_invalidated",
+      "count": 6
+    },
+    {
+      "exit_reason": "downgrade_negative_pnl",
+      "count": 6
+    },
+    {
+      "exit_reason": "peak_drawdown_stop",
+      "count": 5
+    },
+    {
+      "exit_reason": "hard_stop_pnl",
+      "count": 2
+    }
+  ],
+  "strategy_breakdown": [
+    {
+      "strategy_name": "breakout_continuation",
+      "trade_count": 15,
+      "win_count": 2,
+      "loss_count": 13,
+      "win_rate_pct": 13.33,
+      "average_pnl_pct": -10.1054,
+      "average_mfe_pct": 13.0853,
+      "average_mae_pct": -11.4282,
+      "average_trade_duration_seconds": 5.1842,
+      "average_entry_participant_quality_score": 1.0
+    },
+    {
+      "strategy_name": "high_tight_range",
+      "trade_count": 3,
+      "win_count": 0,
+      "loss_count": 3,
+      "win_rate_pct": 0.0,
+      "average_pnl_pct": -4.8887,
+      "average_mfe_pct": 8.92,
+      "average_mae_pct": -4.8887,
+      "average_trade_duration_seconds": 5.7541,
+      "average_entry_participant_quality_score": 0.9695
+    },
+    {
+      "strategy_name": "hybrid_flow",
+      "trade_count": 1,
+      "win_count": 0,
+      "loss_count": 1,
+      "win_rate_pct": 0.0,
+      "average_pnl_pct": -1.2284,
+      "average_mfe_pct": 25.6419,
+      "average_mae_pct": -1.2284,
+      "average_trade_duration_seconds": 3.694,
+      "average_entry_participant_quality_score": null
+    }
+  ],
+  "entry_type_breakdown": [
+    {
+      "entry_type": "fresh",
+      "trade_count": 19,
+      "win_count": 2,
+      "loss_count": 17,
+      "win_rate_pct": 10.53,
+      "average_pnl_pct": -8.8145,
+      "average_mfe_pct": 13.0885,
+      "average_mae_pct": -9.8588,
+      "average_trade_duration_seconds": 5.1957,
+      "average_entry_participant_quality_score": 0.9946
+    }
+  ],
+  "participant_quality_summary": {
+    "average_entry_participant_quality_score": 0.9946,
+    "average_winner_entry_participant_quality_score": 1.0,
+    "average_loser_entry_participant_quality_score": 0.9943
+  },
+  "best_trade": {
+    "mint": "Hctt3U1nMQFFLXzpLs73VejDkZPGcutfBDXMEuqfpump",
+    "symbol": "SPR",
+    "strategy_name": "breakout_continuation",
+    "exit_reason": "peak_drawdown_stop",
+    "reopened_from_closed": false,
+    "pnl_pct_proxy": 16.6357,
+    "max_favorable_excursion_pct": 50.8657,
+    "max_adverse_excursion_pct": -0.0279,
+    "closed_at": "2026-03-09T05:19:02.938910+00:00"
+  },
+  "worst_trade": {
+    "mint": "2AM8PdJJQNv6Y5CgrhSVetSGUiqcZWuRZfavE9FNpump",
+    "symbol": "BIAO",
+    "strategy_name": "breakout_continuation",
+    "exit_reason": "alert_invalidated",
+    "reopened_from_closed": false,
+    "pnl_pct_proxy": -54.4338,
+    "max_favorable_excursion_pct": 52.2489,
+    "max_adverse_excursion_pct": -54.4338,
+    "closed_at": "2026-03-09T13:14:18.817760+00:00"
+  }
+}

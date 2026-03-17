@@ -1,0 +1,48 @@
+{
+  "mint": "9HA3wdkv9QcaDiJ59u3utjiqvr957FaCuPWwxdanpump",
+  "symbol": "Yemin Shi",
+  "name": "Yemin Shi",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.3837,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "failed_breakout_structure",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "moderate_retrace",
+    "negative_net_flow",
+    "recycled_participation",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "active_5m_tape",
+    "distributed_buyers",
+    "high_participant_quality"
+  ],
+  "current_market_cap_sol": 28.3349,
+  "captured_at": "2026-03-17T06:59:56.503005+00:00"
+}

@@ -1,0 +1,170 @@
+{
+  "captured_at_utc": "2026-03-08T11:19:13.869176+00:00",
+  "entry_count": 2,
+  "rows": [
+    {
+      "rank_mint": "HfN2WWv1Lx8YQ4VXuTC1KmMaUHCVBmCZ8B2hBTntpump",
+      "symbol": "Mo",
+      "name": "Atmoio",
+      "status": "watching",
+      "strategy_name": "breakout_continuation",
+      "entry_bias": "watch_only",
+      "setup_state": "watchlist",
+      "priority_tier": "watch",
+      "confidence": "low",
+      "composite_score": 43.1,
+      "tie_break_score": 44.6189,
+      "current_market_cap_sol": 40.673684410899064,
+      "peak_market_cap_sol": 49.38608514725343,
+      "net_sol_flow_last_5m": -1.8159441019999998,
+      "buy_sol_last_5m": 1.871519672,
+      "trades_last_1m": 17,
+      "trades_last_5m": 17,
+      "unique_buyers": 12,
+      "unique_traders": 13,
+      "risk_flags": [
+        "negative_net_flow",
+        "sell_dominance"
+      ],
+      "trigger_reasons": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "multiple_unique_buyers",
+        "broad_participation",
+        "fast_1m_tape",
+        "active_5m_tape",
+        "buy_flow_5m",
+        "distributed_buyers"
+      ],
+      "invalidation_reasons": [
+        "negative_5m_flow"
+      ],
+      "penalties": {
+        "negative_net_flow": 10.0,
+        "sell_dominance": 8.0
+      },
+      "quant_features": {
+        "mcap_to_peak_ratio": 0.8236,
+        "peak_retrace_pct": 17.6414,
+        "range_position_pct": 35.3407,
+        "trade_acceleration_ratio": 5.0,
+        "buy_acceleration_ratio": 5.0,
+        "sell_acceleration_ratio": 5.0,
+        "buy_pressure_ratio_5m": 0.3367,
+        "buy_pressure_ratio_1m": 0.3367,
+        "buy_sell_count_ratio_5m": 2.4,
+        "buy_sell_sol_ratio_5m": 0.5075,
+        "net_flow_per_trade_5m": -0.1068,
+        "net_flow_per_trade_1m": -0.1068,
+        "avg_buy_size_5m": 0.156,
+        "avg_sell_size_5m": 0.7375,
+        "buyer_density_5m": 1.0,
+        "seller_density_5m": 1.0,
+        "trader_participation_ratio": 0.7647,
+        "buyer_participation_ratio": 0.9231,
+        "participation_quality_score": 0.9059,
+        "microburst_ratio": 0.7059,
+        "flow_persistence_ratio": 0.0,
+        "wash_risk_ratio": 1.3077,
+        "breakout_strength": 0.0
+      },
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "multiple_unique_buyers",
+        "broad_participation"
+      ],
+      "rank": 1
+    },
+    {
+      "rank_mint": "9RiUEswPm3MLPrhbTHi9t9wVou2iieGJKxHAmseTpump",
+      "symbol": "GLITCH",
+      "name": "Glitch Protocol",
+      "status": "watching",
+      "strategy_name": "breakout_continuation",
+      "entry_bias": "watch_only",
+      "setup_state": "watchlist",
+      "priority_tier": "background",
+      "confidence": "low",
+      "composite_score": 23.4,
+      "tie_break_score": 48.3499,
+      "current_market_cap_sol": 30.25681744541286,
+      "peak_market_cap_sol": 31.734520511453255,
+      "net_sol_flow_last_5m": -0.15053613300000002,
+      "buy_sol_last_5m": 0.609134199,
+      "trades_last_1m": 5,
+      "trades_last_5m": 5,
+      "unique_buyers": 3,
+      "unique_traders": 4,
+      "risk_flags": [
+        "negative_net_flow",
+        "sell_dominance"
+      ],
+      "trigger_reasons": [
+        "TX_ACCELERATION_1M",
+        "UNIQUE_BUYERS_CROSS_3",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "active_5m_trading",
+        "buy_pressure",
+        "multiple_unique_buyers",
+        "fast_1m_tape",
+        "distributed_buyers",
+        "tx_acceleration",
+        "recent_buy_cluster",
+        "buy_sol_1m"
+      ],
+      "invalidation_reasons": [
+        "negative_5m_flow"
+      ],
+      "penalties": {
+        "negative_net_flow": 10.0,
+        "sell_dominance": 8.0
+      },
+      "quant_features": {
+        "mcap_to_peak_ratio": 0.9534,
+        "peak_retrace_pct": 4.6565,
+        "range_position_pct": 35.3571,
+        "trade_acceleration_ratio": 5.0,
+        "buy_acceleration_ratio": 5.0,
+        "sell_acceleration_ratio": 5.0,
+        "buy_pressure_ratio_5m": 0.445,
+        "buy_pressure_ratio_1m": 0.445,
+        "buy_sell_count_ratio_5m": 1.5,
+        "buy_sell_sol_ratio_5m": 0.8018,
+        "net_flow_per_trade_5m": -0.0301,
+        "net_flow_per_trade_1m": -0.0301,
+        "avg_buy_size_5m": 0.203,
+        "avg_sell_size_5m": 0.3798,
+        "buyer_density_5m": 1.0,
+        "seller_density_5m": 1.0,
+        "trader_participation_ratio": 0.8,
+        "buyer_participation_ratio": 0.75,
+        "participation_quality_score": 0.92,
+        "microburst_ratio": 0.6,
+        "flow_persistence_ratio": 0.0,
+        "wash_risk_ratio": 1.25,
+        "breakout_strength": 0.0
+      },
+      "why_now": [
+        "TX_ACCELERATION_1M",
+        "UNIQUE_BUYERS_CROSS_3",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "active_5m_trading",
+        "buy_pressure",
+        "multiple_unique_buyers",
+        "fast_1m_tape"
+      ],
+      "rank": 2
+    }
+  ]
+}

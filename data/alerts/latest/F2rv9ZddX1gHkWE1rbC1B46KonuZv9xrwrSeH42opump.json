@@ -1,0 +1,47 @@
+{
+  "mint": "F2rv9ZddX1gHkWE1rbC1B46KonuZv9xrwrSeH42opump",
+  "symbol": "Clover",
+  "name": "The Lucky Cub",
+  "band": "invalidated",
+  "score": 2.7,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.8875,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "deep_retrace",
+    "failed_breakout_structure",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "wallet_funder_concentration"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 39.947,
+  "captured_at": "2026-03-17T07:00:33.496125+00:00"
+}

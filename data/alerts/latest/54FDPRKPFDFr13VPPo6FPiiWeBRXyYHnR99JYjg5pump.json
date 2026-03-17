@@ -1,0 +1,40 @@
+{
+  "mint": "54FDPRKPFDFr13VPPo6FPiiWeBRXyYHnR99JYjg5pump",
+  "symbol": "TERA",
+  "name": "Tera Brutal",
+  "band": "alert_candidate",
+  "score": 124.68,
+  "priority_tier": "alpha",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.369,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "fresh_wallet_arrivals_support_momentum",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 97.2635,
+  "captured_at": "2026-03-17T05:57:55.978402+00:00"
+}

@@ -1,0 +1,657 @@
+{
+  "mint": "GXCfA2oJ849b6PfkxdgkMzTFppGQiruUP2KAuoFapump",
+  "symbol": "Atomic ",
+  "name": "nihilistic penguin",
+  "creator_wallet": "9sBU75cvkB3BPbXiEZsATh1gB8mmawvtP7kexcxWsm1r",
+  "uri": "https://ipfs.io/ipfs/QmTmaZkzJaYT3oEDhDfHyL2UCWkY7h98wYfy1ycfocZCNU",
+  "pool": "pump",
+  "bonding_curve_key": "AJp5aEsJxSbVxN8jbuEDAd1iF87uNPD3YQTiuzMw33pe",
+  "launch_signature": "5KN92eCH5tyiceJVau5ajWUJxGdaiZwXunic8QrLb1xnipDhbA5QK9qRYSgBazE2yaefg7vuMywxdex1RqBcsj9P",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-16T11:14:41.532214",
+  "last_seen_at": "2026-03-16T11:33:29.479257",
+  "first_trade_at": "2026-03-16T11:20:23.041907",
+  "last_trade_at": "2026-03-16T11:33:29.479257",
+  "last_buy_at": "2026-03-16T11:33:13.235623",
+  "last_sell_at": "2026-03-16T11:33:29.479257",
+  "watchlisted_at": "2026-03-16T11:14:41.532252+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 17376518.16691,
+  "launch_sol_amount": 0.493827159,
+  "launch_market_cap_sol": 28.88702997213311,
+  "current_market_cap_sol": 39.7287199199298,
+  "peak_market_cap_sol": 45.03256804875371,
+  "trough_market_cap_sol": 28.88702997213311,
+  "peak_market_cap_at": "2026-03-16T11:31:29.486196",
+  "trough_market_cap_at": "2026-03-16T11:14:41.532214",
+  "total_trade_count": 138,
+  "total_buy_count": 75,
+  "total_sell_count": 63,
+  "total_buy_sol": 17.703616540000002,
+  "total_sell_sol": 13.589234564000003,
+  "net_sol_flow": 4.114381975999999,
+  "largest_buy_sol": 0.689884656,
+  "largest_sell_sol": 0.681951133,
+  "trades_last_1m": 15,
+  "trades_last_5m": 55,
+  "buys_last_1m": 7,
+  "buys_last_5m": 32,
+  "sells_last_1m": 8,
+  "sells_last_5m": 23,
+  "buy_sol_last_1m": 1.798677187,
+  "buy_sol_last_5m": 8.775635338999999,
+  "sell_sol_last_1m": 2.498505546,
+  "sell_sol_last_5m": 6.703239091,
+  "net_sol_flow_last_1m": -0.6998283590000001,
+  "net_sol_flow_last_5m": 2.0723962479999987,
+  "unique_traders": 2,
+  "unique_buyers": 2,
+  "unique_sellers": 1,
+  "unique_traders_last_1m": 1,
+  "unique_traders_last_5m": 2,
+  "unique_buyers_last_1m": 1,
+  "unique_buyers_last_5m": 2,
+  "unique_sellers_last_1m": 1,
+  "unique_sellers_last_5m": 1,
+  "new_traders_last_1m": 0,
+  "new_traders_last_5m": 1,
+  "new_buyers_last_1m": 0,
+  "new_buyers_last_5m": 1,
+  "repeat_wallet_ratio": 0.9818,
+  "repeat_buyer_ratio": 0.9688,
+  "buyer_overlap_ratio": 1.0,
+  "participant_churn_ratio": 0.0,
+  "cluster_entropy": 0.1311,
+  "participant_concentration_score": 0.9286,
+  "wallet_novelty_score": 0.5,
+  "new_buyer_velocity": 0.0,
+  "participant_quality_score_v2": 0.1429,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-16T11:28:37.910553",
+      "tx_type": "buy",
+      "sol_amount": 0.160148945,
+      "effective_sol_amount": 0.160148945,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 36.149555357017256
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:28:51.360282",
+      "tx_type": "buy",
+      "sol_amount": 0.236227094,
+      "effective_sol_amount": 0.236227094,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 36.651957907788564
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:28:56.473630",
+      "tx_type": "buy",
+      "sol_amount": 0.393697087,
+      "effective_sol_amount": 0.393697087,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 37.496968384629554
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:28:57.211404",
+      "tx_type": "buy",
+      "sol_amount": 0.309923911,
+      "effective_sol_amount": 0.309923911,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.1689470064903
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:07.512494",
+      "tx_type": "buy",
+      "sol_amount": 0.296590315,
+      "effective_sol_amount": 0.296590315,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.817603922639535
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:09.170076",
+      "tx_type": "sell",
+      "sol_amount": 0.067304546,
+      "effective_sol_amount": 0.067304546,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.66992632341397
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:17.212844",
+      "tx_type": "sell",
+      "sol_amount": 0.164573327,
+      "effective_sol_amount": 0.164573327,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.31000999820832
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:18.221138",
+      "tx_type": "sell",
+      "sol_amount": 0.258776815,
+      "effective_sol_amount": 0.258776815,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 37.74747714779466
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:34.658187",
+      "tx_type": "sell",
+      "sol_amount": 0.119533241,
+      "effective_sol_amount": 0.119533241,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 37.48903883176299
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:42.688127",
+      "tx_type": "buy",
+      "sol_amount": 0.521637836,
+      "effective_sol_amount": 0.521637836,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.62336843047714
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:50.514593",
+      "tx_type": "sell",
+      "sol_amount": 0.227765129,
+      "effective_sol_amount": 0.227765129,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.12600153853197
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:57.426625",
+      "tx_type": "buy",
+      "sol_amount": 0.087659668,
+      "effective_sol_amount": 0.087659668,
+      "is_dust_trade": false,
+      "trader_wallet": "8BXReoDsz3p3iKhP3cbbTraHmHK6fpSJutUtYZUmVFVC",
+      "market_cap_sol": 38.31704095043737
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:29:59.459266",
+      "tx_type": "buy",
+      "sol_amount": 0.293240998,
+      "effective_sol_amount": 0.293240998,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 38.95957997093422
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:00.084258",
+      "tx_type": "buy",
+      "sol_amount": 0.072274014,
+      "effective_sol_amount": 0.072274014,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 39.11876482984702
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:02.266490",
+      "tx_type": "buy",
+      "sol_amount": 0.677353345,
+      "effective_sol_amount": 0.677353345,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.62642208729191
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:02.778555",
+      "tx_type": "buy",
+      "sol_amount": 0.107023905,
+      "effective_sol_amount": 0.107023905,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.86724442001762
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:03.950581",
+      "tx_type": "buy",
+      "sol_amount": 0.406726127,
+      "effective_sol_amount": 0.406726127,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.788940004583985
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:07.154668",
+      "tx_type": "buy",
+      "sol_amount": 0.195053399,
+      "effective_sol_amount": 0.195053399,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.234603438267705
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:11.324562",
+      "tx_type": "sell",
+      "sol_amount": 0.453615009,
+      "effective_sol_amount": 0.453615009,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.20181484379165
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:11.707583",
+      "tx_type": "buy",
+      "sol_amount": 0.583119413,
+      "effective_sol_amount": 0.583119413,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.53180444113342
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:12.228151",
+      "tx_type": "buy",
+      "sol_amount": 0.275346352,
+      "effective_sol_amount": 0.275346352,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.1671626516848
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:15.272025",
+      "tx_type": "sell",
+      "sol_amount": 0.446115071,
+      "effective_sol_amount": 0.446115071,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.14012444319674
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:28.629755",
+      "tx_type": "sell",
+      "sol_amount": 0.225696155,
+      "effective_sol_amount": 0.225696155,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.62524107579659
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:37.902248",
+      "tx_type": "buy",
+      "sol_amount": 0.319237291,
+      "effective_sol_amount": 0.319237291,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.354448641491565
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:49.523673",
+      "tx_type": "sell",
+      "sol_amount": 0.293831505,
+      "effective_sol_amount": 0.293831505,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.683041523821544
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:51.884026",
+      "tx_type": "buy",
+      "sol_amount": 0.145166981,
+      "effective_sol_amount": 0.145166981,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.014078696744626
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:30:56.093759",
+      "tx_type": "buy",
+      "sol_amount": 0.299944701,
+      "effective_sol_amount": 0.299944701,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.70221679018984
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:02.128877",
+      "tx_type": "buy",
+      "sol_amount": 0.240627937,
+      "effective_sol_amount": 0.240627937,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.258310291341914
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:19.497188",
+      "tx_type": "buy",
+      "sol_amount": 0.137297478,
+      "effective_sol_amount": 0.137297478,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.67999891887622
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:20.905986",
+      "tx_type": "buy",
+      "sol_amount": 0.259963154,
+      "effective_sol_amount": 0.259963154,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.28077663903955
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:21.799603",
+      "tx_type": "sell",
+      "sol_amount": 0.119944732,
+      "effective_sol_amount": 0.119944732,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.00306131002961
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:25.419438",
+      "tx_type": "buy",
+      "sol_amount": 0.361181711,
+      "effective_sol_amount": 0.361181711,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.84203403487931
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:25.802261",
+      "tx_type": "buy",
+      "sol_amount": 0.178646377,
+      "effective_sol_amount": 0.178646377,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 44.259999565044595
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:29.486196",
+      "tx_type": "buy",
+      "sol_amount": 0.328003808,
+      "effective_sol_amount": 0.328003808,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 45.03256804875371
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:33.954167",
+      "tx_type": "sell",
+      "sol_amount": 0.507078034,
+      "effective_sol_amount": 0.507078034,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 43.841035409514426
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:48.628617",
+      "tx_type": "sell",
+      "sol_amount": 0.554246266,
+      "effective_sol_amount": 0.554246266,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.55694063975969
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:49.435382",
+      "tx_type": "buy",
+      "sol_amount": 0.090866305,
+      "effective_sol_amount": 0.090866305,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.76615445186747
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:31:56.530253",
+      "tx_type": "sell",
+      "sol_amount": 0.089626043,
+      "effective_sol_amount": 0.089626043,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.55979280947227
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:08.060088",
+      "tx_type": "sell",
+      "sol_amount": 0.344263908,
+      "effective_sol_amount": 0.344263908,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.771774425702645
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:19.529743",
+      "tx_type": "sell",
+      "sol_amount": 0.332363764,
+      "effective_sol_amount": 0.332363764,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.017981634714786
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:31.742215",
+      "tx_type": "sell",
+      "sol_amount": 0.157184774,
+      "effective_sol_amount": 0.157184774,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.66388093839012
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:40.085031",
+      "tx_type": "sell",
+      "sol_amount": 0.122738376,
+      "effective_sol_amount": 0.122738376,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.38844728426999
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:40.738311",
+      "tx_type": "sell",
+      "sol_amount": 0.094700701,
+      "effective_sol_amount": 0.094700701,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.176571861071366
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:55.098114",
+      "tx_type": "buy",
+      "sol_amount": 0.020791318,
+      "effective_sol_amount": 0.020791318,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.50120218983507
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:55.504031",
+      "tx_type": "buy",
+      "sol_amount": 0.01153595,
+      "effective_sol_amount": 0.01153595,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.52708588142229
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:55.812478",
+      "tx_type": "buy",
+      "sol_amount": 0.218066048,
+      "effective_sol_amount": 0.218066048,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.01792514114766
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:56.519900",
+      "tx_type": "buy",
+      "sol_amount": 0.374412453,
+      "effective_sol_amount": 0.374412453,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.86757181750052
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:32:57.963198",
+      "tx_type": "buy",
+      "sol_amount": 0.383066876,
+      "effective_sol_amount": 0.383066876,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.745871944399205
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:01.992723",
+      "tx_type": "sell",
+      "sol_amount": 0.637274931,
+      "effective_sol_amount": 0.637274931,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.28975330598194
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:02.897782",
+      "tx_type": "sell",
+      "sol_amount": 0.215835837,
+      "effective_sol_amount": 0.215835837,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.80230706048692
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:06.760189",
+      "tx_type": "buy",
+      "sol_amount": 0.404307837,
+      "effective_sol_amount": 0.404307837,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 41.717767950015656
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:13.235623",
+      "tx_type": "buy",
+      "sol_amount": 0.386496705,
+      "effective_sol_amount": 0.386496705,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.60239465917041
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:17.651293",
+      "tx_type": "sell",
+      "sol_amount": 0.180932322,
+      "effective_sol_amount": 0.180932322,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 42.18711522334781
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:22.826957",
+      "tx_type": "sell",
+      "sol_amount": 0.681951133,
+      "effective_sol_amount": 0.681951133,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 40.640167869997555
+    },
+    {
+      "captured_at_utc": "2026-03-16T11:33:29.479257",
+      "tx_type": "sell",
+      "sol_amount": 0.407887472,
+      "effective_sol_amount": 0.407887472,
+      "is_dust_trade": false,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 39.7287199199298
+    }
+  ],
+  "trader_wallets": [
+    "8BXReoDsz3p3iKhP3cbbTraHmHK6fpSJutUtYZUmVFVC",
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ],
+  "buyer_wallets": [
+    "8BXReoDsz3p3iKhP3cbbTraHmHK6fpSJutUtYZUmVFVC",
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ],
+  "seller_wallets": [
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ],
+  "trader_trade_counts": {
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s": 137,
+    "8BXReoDsz3p3iKhP3cbbTraHmHK6fpSJutUtYZUmVFVC": 1
+  },
+  "buyer_trade_counts": {
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s": 74,
+    "8BXReoDsz3p3iKhP3cbbTraHmHK6fpSJutUtYZUmVFVC": 1
+  },
+  "escalation_score": 63.0,
+  "escalation_reasons": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "repeat_wallet_churn",
+    "participant_concentration"
+  ],
+  "meaningful_snapshot": {
+    "status": "watching",
+    "status_reason": "meets_watch_thresholds",
+    "current_market_cap_sol": 39.7287,
+    "peak_market_cap_sol": 45.0326,
+    "trough_market_cap_sol": 28.887,
+    "trades_last_1m": 15,
+    "trades_last_5m": 55,
+    "buys_last_1m": 7,
+    "buys_last_5m": 32,
+    "sells_last_1m": 8,
+    "sells_last_5m": 23,
+    "buy_sol_last_1m": 1.7987,
+    "buy_sol_last_5m": 8.7756,
+    "sell_sol_last_1m": 2.4985,
+    "sell_sol_last_5m": 6.7032,
+    "net_sol_flow_last_1m": -0.6998,
+    "net_sol_flow_last_5m": 2.0724,
+    "unique_buyers_last_1m": 1,
+    "unique_buyers_last_5m": 2,
+    "unique_traders_last_1m": 1,
+    "unique_traders_last_5m": 2,
+    "repeat_wallet_ratio": 0.9818,
+    "buyer_overlap_ratio": 1.0,
+    "participant_churn_ratio": 0.0,
+    "cluster_entropy": 0.1311,
+    "participant_concentration_score": 0.9286,
+    "wallet_novelty_score": 0.5,
+    "participant_quality_score_v2": 0.1429,
+    "initial_buy": 17376518.1669
+  },
+  "regime_snapshot": {
+    "status": "watching",
+    "score_band": "50",
+    "mcap_band": "35",
+    "net_flow_band": "2",
+    "buy_flow_band": "5",
+    "buyers_band": "none",
+    "participant_quality_band": "0",
+    "novelty_band": "0_4",
+    "repeat_band": "0_65",
+    "retrace_band": "10",
+    "reason_top": [
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "mcap_above_30",
+      "mcap_above_35",
+      "nonzero_initial_buy"
+    ]
+  },
+  "regime_fingerprint": "cbb6f02eeba9b3451c12771154d6e31601bf141d51d3b43577671ca7e4bac858"
+}

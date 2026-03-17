@@ -1,0 +1,50 @@
+{
+  "mint": "DPucJ3PnBNDrfrVW8WCAwsHEgXaoD74tWYRHQ2BYpump",
+  "symbol": "POMP",
+  "name": "$POMPOM",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.4075,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "churn_risk",
+    "fragile_reclaim",
+    "insider_rotation",
+    "insufficient_history",
+    "low_buyer_density",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "repeat_wallet_churn",
+    "participant_concentration"
+  ],
+  "current_market_cap_sol": 28.0713,
+  "captured_at": "2026-03-17T09:12:55.523672+00:00"
+}

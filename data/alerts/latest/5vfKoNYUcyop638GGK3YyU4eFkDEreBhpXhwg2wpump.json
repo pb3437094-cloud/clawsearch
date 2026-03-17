@@ -1,0 +1,48 @@
+{
+  "mint": "5vfKoNYUcyop638GGK3YyU4eFkDEreBhpXhwg2wpump",
+  "symbol": "BULKING",
+  "name": "THE MEME BULKING",
+  "band": "watchlist",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.48,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "deep_retrace",
+    "dust_microflow",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "far_off_peak",
+    "light_research_support",
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough"
+  ],
+  "current_market_cap_sol": 30.0508,
+  "captured_at": "2026-03-17T03:30:04.944200+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "mint": "4bz9KbAu5gNQNZe7dDFuaPLArUS2xoQRwwyXRSXapump",
+  "symbol": "WWD",
+  "name": "WWD",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.48,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "quality_and_novelty_are_too_low",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dead_launch",
+    "dust_microflow",
+    "insufficient_history",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "light_research_support",
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "quality_and_novelty_are_too_low",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-17T03:33:19.467273+00:00"
+}

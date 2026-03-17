@@ -1,0 +1,62 @@
+{
+  "captured_at_utc": "2026-03-08T10:58:31.336928+00:00",
+  "entry_count": 2,
+  "rows": [
+    {
+      "rank_mint": "CE6Yv9Auq6kGXZHmoSNYkvTAHdZ7MRPAkfgFKZLvpump",
+      "symbol": "BTC",
+      "name": "Buy The Coin",
+      "status": "watching",
+      "priority_tier": "watch",
+      "confidence": "medium",
+      "composite_score": 46.1,
+      "current_market_cap_sol": 37.70708884150635,
+      "peak_market_cap_sol": 37.70708884150635,
+      "net_sol_flow_last_5m": 0.987654319,
+      "buy_sol_last_5m": 0.987654319,
+      "trades_last_1m": 1,
+      "trades_last_5m": 1,
+      "unique_buyers": 1,
+      "unique_traders": 1,
+      "why_now": [
+        "MCAP_CROSS_35",
+        "PEAK_BREAKOUT",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "buy_pressure",
+        "positive_5m_flow",
+        "peak_breakout_event"
+      ],
+      "rank": 1
+    },
+    {
+      "rank_mint": "htyL4uxNP235HdwKZ9i9VDYsosA6BBj4rteq1zdpump",
+      "symbol": "ALAMOLHODA",
+      "name": "Ahmad Alamolhoda",
+      "status": "watching",
+      "priority_tier": "watch",
+      "confidence": "low",
+      "composite_score": 41.35,
+      "current_market_cap_sol": 49.37312342831293,
+      "peak_market_cap_sol": 49.37312342831293,
+      "net_sol_flow_last_5m": 0.008211581,
+      "buy_sol_last_5m": 0.008211581,
+      "trades_last_1m": 1,
+      "trades_last_5m": 1,
+      "unique_buyers": 1,
+      "unique_traders": 1,
+      "why_now": [
+        "MCAP_CROSS_35",
+        "PEAK_BREAKOUT",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "buy_pressure",
+        "mcap_above_45",
+        "peak_breakout_event"
+      ],
+      "rank": 2
+    }
+  ]
+}

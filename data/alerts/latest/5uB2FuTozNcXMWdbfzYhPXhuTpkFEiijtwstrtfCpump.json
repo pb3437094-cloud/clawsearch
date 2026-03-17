@@ -1,0 +1,49 @@
+{
+  "mint": "5uB2FuTozNcXMWdbfzYhPXhuTpkFEiijtwstrtfCpump",
+  "symbol": "usa vs chi",
+  "name": "china vs usa",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "fragile_reclaim",
+    "low_buyer_density",
+    "low_participant_quality",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "repeat_wallet_churn",
+    "participant_concentration"
+  ],
+  "current_market_cap_sol": 28.8738,
+  "captured_at": "2026-03-16T14:16:34.841692+00:00"
+}

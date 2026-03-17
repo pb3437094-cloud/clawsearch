@@ -1,0 +1,44 @@
+{
+  "mint": "4uwzn2mmd2wCwx4HqtUw99qbBd2nxr99zYBwH7kopump",
+  "symbol": "CHAD",
+  "name": "Chadcoin",
+  "band": "invalidated",
+  "score": 72.65,
+  "priority_tier": "priority",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.369,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "fresh_wallet_arrivals_support_momentum",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "dust_microflow",
+    "fragile_reclaim",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang",
+    "wallet_funder_concentration"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2"
+  ],
+  "current_market_cap_sol": 125.3568,
+  "captured_at": "2026-03-17T08:23:35.356936+00:00"
+}

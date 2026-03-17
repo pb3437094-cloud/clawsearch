@@ -1,0 +1,109 @@
+{
+  "mint": "GSE4xYpPfNn6PzEEDUdC7Vo13Vyo7kRVxtfwrw1Spump",
+  "symbol": "TAF",
+  "name": "The Anomaly Father",
+  "creator_wallet": "H7Wazh9fjdVKmxfJDeUMjVPFuYjB3cz71njwFYdaYaiK",
+  "uri": "https://ipfs.io/ipfs/QmdHVFzefdNBAnunbe6gbX54sQ59fUtXrxnq8yzSHkRzyX",
+  "pool": "pump",
+  "bonding_curve_key": "EyGbWZMg5hX5M8cQd6Tc4AdQKwfPzGgDHDSLUvfjTHpg",
+  "launch_signature": "gW1xrjwUVGYcNztWequaUaWEQ36D4dSaiUTWMGA871PgLjjPbwuMRd4C7PsPLpeKtNZLukZWW3MVPsDGwqfKuGT",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T10:48:55.278830",
+  "last_seen_at": "2026-03-08T10:49:03.046443",
+  "first_trade_at": "2026-03-08T10:48:56.627740",
+  "last_trade_at": "2026-03-08T10:49:03.046443",
+  "last_buy_at": "2026-03-08T10:49:01.606713",
+  "last_sell_at": "2026-03-08T10:49:03.046443",
+  "watchlisted_at": "2026-03-08T10:48:55.278901+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 2748300.623131,
+  "launch_sol_amount": 0.077037036,
+  "launch_market_cap_sol": 28.102769706893888,
+  "current_market_cap_sol": 28.160353762448608,
+  "peak_market_cap_sol": 28.189301019552072,
+  "trough_market_cap_sol": 28.102769706893888,
+  "total_trade_count": 6,
+  "total_buy_count": 4,
+  "total_sell_count": 2,
+  "total_buy_sol": 0.061708506,
+  "total_sell_sol": 0.030909558,
+  "net_sol_flow": 0.030798948000000003,
+  "largest_buy_sol": 0.01543897,
+  "largest_sell_sol": 0.015454787,
+  "trades_last_1m": 6,
+  "trades_last_5m": 6,
+  "buys_last_1m": 4,
+  "buys_last_5m": 4,
+  "sells_last_1m": 2,
+  "sells_last_5m": 2,
+  "buy_sol_last_1m": 0.061708505999999996,
+  "buy_sol_last_5m": 0.061708505999999996,
+  "sell_sol_last_1m": 0.030909558,
+  "sell_sol_last_5m": 0.030909558,
+  "net_sol_flow_last_1m": 0.030798947999999996,
+  "net_sol_flow_last_5m": 0.030798947999999996,
+  "unique_traders": 1,
+  "unique_buyers": 1,
+  "unique_sellers": 1,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T10:48:56.627740",
+      "tx_type": "buy",
+      "sol_amount": 0.015407407,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.13156920021866
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:57.903438",
+      "tx_type": "buy",
+      "sol_amount": 0.015423176,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.160412940486232
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:48:59.218095",
+      "tx_type": "buy",
+      "sol_amount": 0.01543897,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.189301019552072
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:49:00.525378",
+      "tx_type": "sell",
+      "sol_amount": 0.015454787,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.160383351726377
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:49:01.606713",
+      "tx_type": "buy",
+      "sol_amount": 0.015438953,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.189271384471883
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:49:03.046443",
+      "tx_type": "sell",
+      "sol_amount": 0.015454771,
+      "trader_wallet": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "market_cap_sol": 28.160353762448608
+    }
+  ],
+  "trader_wallets": [
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ],
+  "buyer_wallets": [
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ],
+  "seller_wallets": [
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s"
+  ]
+}

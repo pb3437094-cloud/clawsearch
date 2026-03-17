@@ -1,0 +1,50 @@
+{
+  "mint": "gvKieRPaXjRGGgDxU5duuYPFSirRxumvUqUbEHwpump",
+  "symbol": "IRAN COIN",
+  "name": "IRAN COIN ",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.468,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "fragile_reclaim",
+    "insufficient_history",
+    "low_buyer_density",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "repeat_wallet_churn",
+    "participant_concentration"
+  ],
+  "current_market_cap_sol": 28.1222,
+  "captured_at": "2026-03-11T15:10:42.729168+00:00"
+}

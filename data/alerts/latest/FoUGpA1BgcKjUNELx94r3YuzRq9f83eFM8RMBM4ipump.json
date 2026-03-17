@@ -1,0 +1,40 @@
+{
+  "mint": "FoUGpA1BgcKjUNELx94r3YuzRq9f83eFM8RMBM4ipump",
+  "symbol": "RECYCLE",
+  "name": "Windows Recycle",
+  "band": "paper_entry",
+  "score": 154.03,
+  "priority_tier": "alpha",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.5272,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "OVEREXTENDED",
+    "RECLAIM_CLEAN"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "tight_hold_without_excessive_heat",
+    "participant_quality_and_wallet_mix_look_organic",
+    "near_highs_but_short_term_flow_is_softening"
+  ],
+  "setup_state": "paper_entry",
+  "risk_flags": [
+    "overextended"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 88.996,
+  "captured_at": "2026-03-17T07:00:55.975955+00:00"
+}

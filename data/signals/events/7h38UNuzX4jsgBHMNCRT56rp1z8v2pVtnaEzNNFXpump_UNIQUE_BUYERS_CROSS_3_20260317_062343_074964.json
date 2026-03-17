@@ -1,0 +1,12 @@
+{
+  "event_type": "UNIQUE_BUYERS_CROSS_3",
+  "mint": "7h38UNuzX4jsgBHMNCRT56rp1z8v2pVtnaEzNNFXpump",
+  "created_at_utc": "2026-03-17T06:23:43.074673+00:00",
+  "severity": "medium",
+  "details": {
+    "metric": "unique_buyers_last_5m",
+    "threshold": 3.0,
+    "previous_value": 2.0,
+    "current_value": 3.0
+  }
+}

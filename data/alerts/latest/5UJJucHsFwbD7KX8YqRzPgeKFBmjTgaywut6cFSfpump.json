@@ -1,0 +1,50 @@
+{
+  "mint": "5UJJucHsFwbD7KX8YqRzPgeKFBmjTgaywut6cFSfpump",
+  "symbol": "ElonHaramb",
+  "name": "Elon and Harambe",
+  "band": "watchlist",
+  "score": 13.65,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "EARLY_MICRO_PUMP",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.468,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "sub_breakout_name_is_showing_early_acceleration",
+    "buy_pressure_is_strong_for_early_stage_token",
+    "fresh_buyer_turnover_supports_early_push",
+    "history_is_too_short_to_confirm_compression_or_reclaim",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "churn_risk",
+    "fragile_reclaim",
+    "insufficient_history",
+    "low_buyer_density",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "multiple_recent_buyers",
+    "fresh_wallet_expansion",
+    "repeat_wallet_churn"
+  ],
+  "current_market_cap_sol": 29.4811,
+  "captured_at": "2026-03-16T11:08:05.182600+00:00"
+}

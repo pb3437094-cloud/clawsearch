@@ -1,0 +1,47 @@
+{
+  "mint": "okFopHzX1pb9CNiuoQQVtebHvcTCBF17D6JsvXipump",
+  "symbol": "BOE",
+  "name": "Book of Elon",
+  "band": "invalidated",
+  "score": 38.15,
+  "priority_tier": "background",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "LIQUIDITY_FADE",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.49,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_has_faded_off_peak",
+    "seller_presence_is_expanding",
+    "buy_pressure_and_activity_are_fading",
+    "buy_side_is_not_refreshing_fast_enough",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "buy_side_staleness",
+    "fragile_reclaim",
+    "liquidity_fade",
+    "moderate_retrace",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2"
+  ],
+  "current_market_cap_sol": 57.5631,
+  "captured_at": "2026-03-17T07:36:59.307385+00:00"
+}

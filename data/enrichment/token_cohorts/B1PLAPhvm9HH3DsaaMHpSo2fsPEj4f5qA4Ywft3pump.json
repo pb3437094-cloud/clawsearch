@@ -1,0 +1,137 @@
+{
+  "fingerprint": {
+    "tier": "deep",
+    "status": "watching",
+    "trades_1m": 3,
+    "trades_5m_bucket": 3,
+    "unique_buyers_5m_bucket": 2,
+    "market_cap_bucket": 16,
+    "participant_wallets": [
+      "HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888",
+      "7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t",
+      "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "3GmgRT9y1J2cE7gnWJJQqyFJEWNFd9sM6CdVd1Z6Lv5a",
+      "6Jo9QDpzvjEMaLQhZe2j4NYwr3CCTcLAE5agTNUycn5s"
+    ],
+    "creator_wallet": "6yHeKfbTqSDiDgteku2ExJNcF3VghXxAGUEPPyjwqT4u"
+  },
+  "helius_last_enriched_at": "2026-03-17T05:28:44.228382+00:00",
+  "helius_enrichment_status": "deep_enriched",
+  "helius_last_error": null,
+  "helius_cached_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 5,
+    "avg_wallet_age_days": 79.1245,
+    "median_wallet_age_days": 4.4005,
+    "fresh_wallet_share": 0.6,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.2,
+    "high_velocity_wallet_share": 0.0,
+    "funding_diversity_score": 0.2,
+    "top_funder_concentration_score": 0.2,
+    "creator_shared_funder_score": 0.2,
+    "creator_wallet_age_days": 144.4037,
+    "creator_probable_fresh_wallet": false,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "profile_depth_bucket": "5_plus",
+    "profile_completion_confidence": 1.0,
+    "cohort_quality_score": 0.564
+  },
+  "helius_creator_profile": {
+    "address": "6yHeKfbTqSDiDgteku2ExJNcF3VghXxAGUEPPyjwqT4u",
+    "last_enriched_at": "2026-03-17T05:25:10.260724+00:00",
+    "tx_sample_count": 12,
+    "wallet_age_days": 144.4037,
+    "recent_active_days": 2,
+    "swap_tx_ratio": 0.0833,
+    "transfer_tx_ratio": 0.9167,
+    "unknown_tx_ratio": 0.0,
+    "distinct_sources": 4,
+    "distinct_mints": 5,
+    "inbound_funding_count": 5,
+    "funding_wallet_count": 5,
+    "top_funder": "AFXigaYuRKYmvd9HZQCobtZ98FNAwnwpsnjvJRztUGb6",
+    "top_funder_share": 0.2,
+    "probable_fresh_wallet": false,
+    "probable_sniper_wallet": false,
+    "probable_recycled_wallet": false,
+    "probable_high_velocity_wallet": false
+  },
+  "helius_selected_wallets": [
+    "HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888",
+    "7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t",
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+    "3GmgRT9y1J2cE7gnWJJQqyFJEWNFd9sM6CdVd1Z6Lv5a",
+    "6Jo9QDpzvjEMaLQhZe2j4NYwr3CCTcLAE5agTNUycn5s"
+  ],
+  "helius_attempted_wallets": [
+    "HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888",
+    "7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t",
+    "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+    "3GmgRT9y1J2cE7gnWJJQqyFJEWNFd9sM6CdVd1Z6Lv5a",
+    "6Jo9QDpzvjEMaLQhZe2j4NYwr3CCTcLAE5agTNUycn5s"
+  ],
+  "helius_wallet_attempt_details": [
+    {
+      "address": "HVWZxaTiFDz1KuzFyQuqSSLiEfD5gyhCi6V7pbQpA888",
+      "wallet_index": 0,
+      "oldest_cap_seconds": 0.75,
+      "recent_cap_seconds": 1.35,
+      "recent_tx_limit": 16,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "7uEcM8gmdHH8AaWtp6ryWVkh3VFXkVk1f6uJTp1rdW2t",
+      "wallet_index": 1,
+      "oldest_cap_seconds": 0.55,
+      "recent_cap_seconds": 0.95,
+      "recent_tx_limit": 10,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s",
+      "wallet_index": 2,
+      "oldest_cap_seconds": 0.4,
+      "recent_cap_seconds": 0.7,
+      "recent_tx_limit": 8,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "3GmgRT9y1J2cE7gnWJJQqyFJEWNFd9sM6CdVd1Z6Lv5a",
+      "wallet_index": 3,
+      "oldest_cap_seconds": 0.4,
+      "recent_cap_seconds": 0.7,
+      "recent_tx_limit": 8,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "6Jo9QDpzvjEMaLQhZe2j4NYwr3CCTcLAE5agTNUycn5s",
+      "wallet_index": 4,
+      "oldest_cap_seconds": 0.4,
+      "recent_cap_seconds": 0.7,
+      "recent_tx_limit": 8,
+      "profiled": true,
+      "error": null
+    }
+  ],
+  "helius_selected_wallet_count": 5,
+  "helius_profiled_wallet_count": 5,
+  "helius_requested_wallet_count": 5,
+  "helius_completed_wallet_count": 5,
+  "helius_profile_completion_ratio": 1.0,
+  "helius_profile_depth_bucket": "5_plus",
+  "helius_partial_enrichment": false,
+  "helius_creator_attempted": true,
+  "helius_creator_profiled": true,
+  "helius_time_budget_seconds": 4.0,
+  "helius_time_budget_exhausted": false,
+  "helius_enrichment_tier": "deep",
+  "helius_trigger_reason": "event_peak_breakout",
+  "helius_wallet_target": 10,
+  "helius_local_score_hint": 0.0
+}

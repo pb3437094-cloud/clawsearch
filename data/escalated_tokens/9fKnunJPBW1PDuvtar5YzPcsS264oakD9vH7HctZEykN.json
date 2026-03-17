@@ -1,0 +1,182 @@
+{
+  "mint": "9fKnunJPBW1PDuvtar5YzPcsS264oakD9vH7HctZEykN",
+  "symbol": "Hoshimachi",
+  "name": "Hoshimachi Suisei",
+  "creator_wallet": "3PehX3rDq1YVAgJg6VcsJWPFG6k3p3Ltcucusg4xw3AR",
+  "uri": "https://bafkreide2cxzw3rhjtezivpqf5maz2qpigwth7sfunwppz7krnasa4r4ly.ipfs.storacha.link",
+  "pool": "pump",
+  "bonding_curve_key": "FPfNteCDrrZ5ZoiJiZHnHxBMvY3S3p5Qeexbr6sFcF8b",
+  "launch_signature": "5biLogW2yp4hxmNVmukPypgNM6ooRKC3A4wyxcxsUGithaWVWnDF7NttUvdPfTXBbpMUUngs3dduF1w1VcHV7az8",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T12:59:55.263104",
+  "last_seen_at": "2026-03-08T13:00:04.227230",
+  "first_trade_at": "2026-03-08T12:59:55.635460",
+  "last_trade_at": "2026-03-08T13:00:04.227230",
+  "last_buy_at": "2026-03-08T13:00:03.761093",
+  "last_sell_at": "2026-03-08T13:00:04.227230",
+  "watchlisted_at": "2026-03-08T12:59:55.263161+00:00",
+  "escalated_at": "2026-03-08T13:00:03.761217+00:00",
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 34281150.096027,
+  "launch_sol_amount": 0.990099008,
+  "launch_market_cap_sol": 29.83492502409574,
+  "current_market_cap_sol": 41.723455520583485,
+  "peak_market_cap_sol": 45.76437203487697,
+  "trough_market_cap_sol": 29.83492502409574,
+  "total_trade_count": 10,
+  "total_buy_count": 8,
+  "total_sell_count": 2,
+  "total_buy_sol": 2.457183884,
+  "total_sell_sol": 1.733674089,
+  "net_sol_flow": 0.723509795,
+  "largest_buy_sol": 0.854322146,
+  "largest_sell_sol": 0.920381943,
+  "trades_last_1m": 10,
+  "trades_last_5m": 10,
+  "buys_last_1m": 8,
+  "buys_last_5m": 8,
+  "sells_last_1m": 2,
+  "sells_last_5m": 2,
+  "buy_sol_last_1m": 2.457183884,
+  "buy_sol_last_5m": 2.457183884,
+  "sell_sol_last_1m": 1.733674089,
+  "sell_sol_last_5m": 1.733674089,
+  "net_sol_flow_last_1m": 0.723509795,
+  "net_sol_flow_last_5m": 0.723509795,
+  "unique_traders": 8,
+  "unique_buyers": 8,
+  "unique_sellers": 2,
+  "status": "escalated",
+  "status_reason": "strong_5m_flow_and_activity",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": true,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T12:59:55.635460",
+      "tx_type": "buy",
+      "sol_amount": 0.014345395,
+      "trader_wallet": "9caZyf8nauMWaGqnNuvKDRAqzL7C4gE8EMLMci8itqXV",
+      "market_cap_sol": 40.124324086573054
+    },
+    {
+      "captured_at_utc": "2026-03-08T12:59:55.709069",
+      "tx_type": "buy",
+      "sol_amount": 0.088888887,
+      "trader_wallet": "8q7MrFjbZs3xmDhwxGGG974WTUuu7ieD2kfR34DE15gq",
+      "market_cap_sol": 40.323051411565814
+    },
+    {
+      "captured_at_utc": "2026-03-08T12:59:56.105959",
+      "tx_type": "buy",
+      "sol_amount": 0.001159482,
+      "trader_wallet": "DCrpeA9Rge3UsLdQDedx1gTwt74FLJiLGnUacUuAt3Xb",
+      "market_cap_sol": 40.32564688755929
+    },
+    {
+      "captured_at_utc": "2026-03-08T12:59:57.854071",
+      "tx_type": "buy",
+      "sol_amount": 0.049382714,
+      "trader_wallet": "972eq9U8ZUvs14SVtpZXuCxBMiNvj62C2VmZztSzcKBU",
+      "market_cap_sol": 40.4362666348965
+    },
+    {
+      "captured_at_utc": "2026-03-08T12:59:57.997303",
+      "tx_type": "buy",
+      "sol_amount": 0.029629628,
+      "trader_wallet": "366NVvPeqCJMFAoHjVtug2Aci6h8MQeYFC2y2d5t2hYD",
+      "market_cap_sol": 40.502711210151816
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:00:02.706047",
+      "tx_type": "buy",
+      "sol_amount": 0.854322146,
+      "trader_wallet": "HaxhdE8w6w5g6SkRAAFjjTeJiXNZ1N7w4QhXwP5sb3cd",
+      "market_cap_sol": 42.4419925672018
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:00:02.743525",
+      "tx_type": "buy",
+      "sol_amount": 0.827455632,
+      "trader_wallet": "3eqz2xypd68zWRc3KzwnAWzxiaGm3MWxaEY5JLk99CKQ",
+      "market_cap_sol": 44.36351858631264
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:00:03.761093",
+      "tx_type": "buy",
+      "sol_amount": 0.592,
+      "trader_wallet": "76ws2A2fvuMxw4Ko2ZaeV5fNPR71EXt2Vx2F9JpVU4YE",
+      "market_cap_sol": 45.76437203487697
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:00:04.183222",
+      "tx_type": "sell",
+      "sol_amount": 0.920381943,
+      "trader_wallet": "HaxhdE8w6w5g6SkRAAFjjTeJiXNZ1N7w4QhXwP5sb3cd",
+      "market_cap_sol": 43.59585541155237
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:00:04.227230",
+      "tx_type": "sell",
+      "sol_amount": 0.813292146,
+      "trader_wallet": "3eqz2xypd68zWRc3KzwnAWzxiaGm3MWxaEY5JLk99CKQ",
+      "market_cap_sol": 41.723455520583485
+    }
+  ],
+  "trader_wallets": [
+    "9caZyf8nauMWaGqnNuvKDRAqzL7C4gE8EMLMci8itqXV",
+    "HaxhdE8w6w5g6SkRAAFjjTeJiXNZ1N7w4QhXwP5sb3cd",
+    "3eqz2xypd68zWRc3KzwnAWzxiaGm3MWxaEY5JLk99CKQ",
+    "8q7MrFjbZs3xmDhwxGGG974WTUuu7ieD2kfR34DE15gq",
+    "DCrpeA9Rge3UsLdQDedx1gTwt74FLJiLGnUacUuAt3Xb",
+    "366NVvPeqCJMFAoHjVtug2Aci6h8MQeYFC2y2d5t2hYD",
+    "76ws2A2fvuMxw4Ko2ZaeV5fNPR71EXt2Vx2F9JpVU4YE",
+    "972eq9U8ZUvs14SVtpZXuCxBMiNvj62C2VmZztSzcKBU"
+  ],
+  "buyer_wallets": [
+    "9caZyf8nauMWaGqnNuvKDRAqzL7C4gE8EMLMci8itqXV",
+    "HaxhdE8w6w5g6SkRAAFjjTeJiXNZ1N7w4QhXwP5sb3cd",
+    "3eqz2xypd68zWRc3KzwnAWzxiaGm3MWxaEY5JLk99CKQ",
+    "8q7MrFjbZs3xmDhwxGGG974WTUuu7ieD2kfR34DE15gq",
+    "DCrpeA9Rge3UsLdQDedx1gTwt74FLJiLGnUacUuAt3Xb",
+    "366NVvPeqCJMFAoHjVtug2Aci6h8MQeYFC2y2d5t2hYD",
+    "76ws2A2fvuMxw4Ko2ZaeV5fNPR71EXt2Vx2F9JpVU4YE",
+    "972eq9U8ZUvs14SVtpZXuCxBMiNvj62C2VmZztSzcKBU"
+  ],
+  "seller_wallets": [
+    "HaxhdE8w6w5g6SkRAAFjjTeJiXNZ1N7w4QhXwP5sb3cd",
+    "3eqz2xypd68zWRc3KzwnAWzxiaGm3MWxaEY5JLk99CKQ"
+  ],
+  "escalation_score": 110.0,
+  "escalation_reasons": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "already_escalated_state"
+  ],
+  "regime_snapshot": {
+    "status": "escalated",
+    "score_band": "100",
+    "mcap_band": "35",
+    "net_flow_band": "0_5",
+    "buy_flow_band": "2",
+    "buyers_band": "8",
+    "retrace_band": "0",
+    "reason_top": [
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "mcap_above_30",
+      "mcap_above_35",
+      "nonzero_initial_buy"
+    ]
+  },
+  "regime_fingerprint": "03e8067430b2b57316d6514b4671f9796da20708464ac9dc7f0c4f30c46a5949"
+}

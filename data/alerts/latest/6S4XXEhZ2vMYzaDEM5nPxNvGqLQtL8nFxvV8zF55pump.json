@@ -1,0 +1,44 @@
+{
+  "mint": "6S4XXEhZ2vMYzaDEM5nPxNvGqLQtL8nFxvV8zF55pump",
+  "symbol": "GENTLE",
+  "name": "gentle",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.456,
+  "regime_tags": [
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "move_is_underdistributed_for_its_market_cap",
+    "seller_expansion_or_sell_pressure_is_rising",
+    "buyer_base_is_too_narrow_for_high_confidence"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "insider_rotation",
+    "insufficient_history",
+    "negative_net_flow",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "light_research_support",
+    "near_high_dwell",
+    "participant_concentration_is_high"
+  ],
+  "current_market_cap_sol": 30.6358,
+  "captured_at": "2026-03-17T10:05:37.938762+00:00"
+}

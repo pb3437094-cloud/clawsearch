@@ -1,0 +1,49 @@
+{
+  "mint": "Df9QsqPD4nEAPZxFh2rcRf62xBc9gb8VKjWn9s1Bpump",
+  "symbol": "BTD",
+  "name": "Buy the Dips",
+  "band": "watchlist",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "churn_risk",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "low_buyer_density",
+    "low_participant_quality",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 64.9677,
+  "captured_at": "2026-03-16T14:24:03.822283+00:00"
+}

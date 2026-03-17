@@ -1,0 +1,47 @@
+{
+  "mint": "5R58514RiLTzXHfFKUWugCMR51RU6x9ieiGbY4jWpump",
+  "symbol": "eepy",
+  "name": "eepy cat",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.3487,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_HIGH",
+    "WALLET_NOVELTY_SURGE",
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "fresh_wallet_expansion"
+  ],
+  "current_market_cap_sol": 28.333,
+  "captured_at": "2026-03-09T15:41:47.802601+00:00"
+}

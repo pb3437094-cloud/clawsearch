@@ -1,0 +1,46 @@
+{
+  "mint": "DrEAS8pymMPLfVsUK3z4W7iUZqALLy2JuhGc7zv3pump",
+  "symbol": "BIAO",
+  "name": "BIAO",
+  "band": "invalidated",
+  "score": 51.15,
+  "priority_tier": "watch",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.8175,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "negative_net_flow",
+    "recycled_participation",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 35.1787,
+  "captured_at": "2026-03-09T13:17:41.607109+00:00"
+}

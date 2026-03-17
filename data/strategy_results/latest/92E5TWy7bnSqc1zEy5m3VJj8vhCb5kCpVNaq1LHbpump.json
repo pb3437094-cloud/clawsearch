@@ -1,0 +1,75 @@
+{
+  "mint": "92E5TWy7bnSqc1zEy5m3VJj8vhCb5kCpVNaq1LHbpump",
+  "symbol": "YOUNGELON",
+  "name": "Young Elon ",
+  "captured_at_utc": "2026-03-08T10:48:02.649159+00:00",
+  "status": "escalated",
+  "composite_score": 111.05,
+  "confidence": "high",
+  "priority_tier": "alpha",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "strategy_scores": {
+    "filter_score": 125.0,
+    "breakout_score": 110.0,
+    "momentum_score": 96.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "positive_5m_flow",
+      "strong_positive_5m_flow",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "already_escalated_state"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "net_inflow_5m",
+      "strong_net_inflow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "escalated_status"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "positive_net_1m",
+      "positive_net_5m",
+      "strong_positive_net_5m",
+      "trader_participation"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 40.3747,
+    "peak_market_cap_sol": 40.3747,
+    "net_sol_flow_last_5m": 5.7353,
+    "buy_sol_last_5m": 6.2881,
+    "trades_last_1m": 23,
+    "trades_last_5m": 36,
+    "unique_buyers": 32,
+    "unique_traders": 33
+  }
+}

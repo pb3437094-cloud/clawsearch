@@ -1,0 +1,68 @@
+{
+  "mint": "sKNWCRuRrdYq5symp4GncRCKgp7yg1TJtCrnYu3pump",
+  "captured_at_utc": "2026-03-16T12:44:38.897754+00:00",
+  "status": "watching",
+  "score_inputs": {
+    "current_market_cap_sol": 62.763335790993395,
+    "peak_market_cap_sol": 62.763335790993395,
+    "trades_last_1m": 1,
+    "trades_last_5m": 1,
+    "buy_sol_last_5m": 0.109893968,
+    "net_sol_flow_last_5m": 0.109893968,
+    "unique_buyers_last_5m": 1,
+    "unique_traders_last_5m": 1,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.0,
+    "buyer_overlap_ratio": 0.0,
+    "participant_quality_score_v2": 0.72
+  },
+  "events": [
+    {
+      "event_type": "MCAP_CROSS_35",
+      "mint": "sKNWCRuRrdYq5symp4GncRCKgp7yg1TJtCrnYu3pump",
+      "created_at_utc": "2026-03-16T12:44:38.897697+00:00",
+      "severity": "high",
+      "details": {
+        "metric": "current_market_cap_sol",
+        "threshold": 35.0,
+        "previous_value": 33.7545,
+        "current_value": 62.7633
+      }
+    },
+    {
+      "event_type": "PARTICIPANT_QUALITY_HIGH",
+      "mint": "sKNWCRuRrdYq5symp4GncRCKgp7yg1TJtCrnYu3pump",
+      "created_at_utc": "2026-03-16T12:44:38.897718+00:00",
+      "severity": "high",
+      "details": {
+        "metric": "participant_quality_score_v2",
+        "threshold": 0.65,
+        "previous_value": 0.0,
+        "current_value": 0.72
+      }
+    },
+    {
+      "event_type": "WALLET_NOVELTY_SURGE",
+      "mint": "sKNWCRuRrdYq5symp4GncRCKgp7yg1TJtCrnYu3pump",
+      "created_at_utc": "2026-03-16T12:44:38.897723+00:00",
+      "severity": "medium",
+      "details": {
+        "metric": "wallet_novelty_score",
+        "threshold": 0.5,
+        "previous_value": 0.0,
+        "current_value": 1.0
+      }
+    },
+    {
+      "event_type": "PEAK_BREAKOUT",
+      "mint": "sKNWCRuRrdYq5symp4GncRCKgp7yg1TJtCrnYu3pump",
+      "created_at_utc": "2026-03-16T12:44:38.897730+00:00",
+      "severity": "high",
+      "details": {
+        "previous_peak_market_cap_sol": 33.7545,
+        "new_peak_market_cap_sol": 62.7633,
+        "current_market_cap_sol": 62.7633
+      }
+    }
+  ]
+}

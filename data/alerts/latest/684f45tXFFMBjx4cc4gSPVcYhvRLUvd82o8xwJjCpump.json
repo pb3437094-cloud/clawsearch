@@ -1,0 +1,46 @@
+{
+  "mint": "684f45tXFFMBjx4cc4gSPVcYhvRLUvd82o8xwJjCpump",
+  "symbol": "Kimi",
+  "name": "Kimi",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.48,
+  "regime_tags": [
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "seller_expansion_or_sell_pressure_is_rising",
+    "buyer_base_is_too_narrow_for_high_confidence"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "deep_retrace",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "negative_net_flow",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "post_peak_weakness",
+    "far_off_peak",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "light_research_support",
+    "token_reached_breakout_context"
+  ],
+  "current_market_cap_sol": 28.1279,
+  "captured_at": "2026-03-16T13:10:52.409594+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "mint": "4r3WXEMbn14QxsMMUw3Lo1bamdQGvzEM22v8nQd4pump",
+  "symbol": "Kroa",
+  "name": "Kroa",
+  "band": "watchlist",
+  "score": 47.39,
+  "priority_tier": "watch",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "SLOW_BURN_ACCUMULATION",
+  "archetype_confidence": 0.5165,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "STATUS_ESCALATED_TO_WATCHING",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers"
+  ],
+  "current_market_cap_sol": 205.0817,
+  "captured_at": "2026-03-16T12:44:51.044086+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "mint": "29q36TK9U6LB5FyrYNMDfT2K3eUqhrsLR92g9P1bpump",
+  "symbol": "USDC",
+  "name": "Unlimited Supply Deflation Coin",
+  "band": "invalidated",
+  "score": 7.18,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.8,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "failed_breakout_structure",
+    "moderate_retrace",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_HIGH",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2"
+  ],
+  "current_market_cap_sol": 33.8364,
+  "captured_at": "2026-03-17T03:34:53.415275+00:00"
+}

@@ -1,0 +1,45 @@
+{
+  "mint": "D9cZfSQE6ASVACVsCJtvSgsCvHi5DAVarTkivhqaJ3Wd",
+  "symbol": "Bruno",
+  "name": "Bruno",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.8,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "participant_quality_and_wallet_mix_look_organic",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "post_peak_weakness",
+    "sell_pressure"
+  ],
+  "current_market_cap_sol": 28.1506,
+  "captured_at": "2026-03-17T10:05:16.743496+00:00"
+}

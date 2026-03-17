@@ -1,0 +1,55 @@
+{
+  "mint": "CnSuGt9LxKJBpJZN7Jbya4st31Pd3xxmU6gBcyDCpump",
+  "symbol": "P&C",
+  "name": "P & C",
+  "captured_at_utc": "2026-03-08T10:48:21.537918+00:00",
+  "status": "watching",
+  "composite_score": 33.0,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "recent_buy_cluster",
+    "buy_count_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 40.0,
+    "breakout_score": 20.0,
+    "momentum_score": 40.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "positive_net_1m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.1417,
+    "peak_market_cap_sol": 28.3645,
+    "net_sol_flow_last_5m": 0.0485,
+    "buy_sol_last_5m": 0.3062,
+    "trades_last_1m": 16,
+    "trades_last_5m": 16,
+    "unique_buyers": 2,
+    "unique_traders": 3
+  }
+}

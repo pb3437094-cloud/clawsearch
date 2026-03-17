@@ -1,0 +1,107 @@
+{
+  "mint": "Eu1J2u21hXfSx8zpmAkUwTPPJub3njwLETksdWn7pump",
+  "symbol": "SOL車",
+  "name": "索拉納汽車",
+  "creator_wallet": "8uEabPQcxzVL6qHSMz1m6MKgN9DbH2NLCspZnaxNW2G7",
+  "uri": "https://ipfs.io/ipfs/QmZTW9p7isNoBC9CDPghqdubEXCwDrxkhJLxLg95V6yWwp",
+  "pool": "pump",
+  "bonding_curve_key": "ARKq4TJfuQAH7cZzKxj8jyzJJABvHdYayGoSTxEPJoEJ",
+  "launch_signature": "EozEAYHcFfzUgTg7aT1HnaT1V1z9j1VWTBuhhHfXxSNF8CiN637yExMyQ4pYo4vR664D25yrA6yW5Z3b9Qo2JAs",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-06T07:44:03.830049",
+  "last_seen_at": "2026-03-06T07:44:23.054720",
+  "first_trade_at": "2026-03-06T07:44:04.344922",
+  "last_trade_at": "2026-03-06T07:44:23.054720",
+  "last_buy_at": "2026-03-06T07:44:23.054720",
+  "last_sell_at": "2026-03-06T07:44:09.495342",
+  "watchlisted_at": "2026-03-06T07:44:03.830112+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 30344284.786758,
+  "launch_sol_amount": 0.873086418,
+  "launch_market_cap_sol": 29.61004861675349,
+  "current_market_cap_sol": 29.6365775163478,
+  "peak_market_cap_sol": 33.52025653577002,
+  "trough_market_cap_sol": 29.61004861675349,
+  "total_trade_count": 5,
+  "total_buy_count": 3,
+  "total_sell_count": 2,
+  "total_buy_sol": 2.673580242,
+  "total_sell_sol": 2.659753084,
+  "net_sol_flow": 0.013827157999999784,
+  "largest_buy_sol": 1.97530864,
+  "largest_sell_sol": 1.97530864,
+  "trades_last_1m": 5,
+  "trades_last_5m": 5,
+  "buys_last_1m": 3,
+  "buys_last_5m": 3,
+  "sells_last_1m": 2,
+  "sells_last_5m": 2,
+  "buy_sol_last_1m": 2.673580242,
+  "buy_sol_last_5m": 2.673580242,
+  "sell_sol_last_1m": 2.659753084,
+  "sell_sol_last_5m": 2.659753084,
+  "net_sol_flow_last_1m": 0.013827157999999784,
+  "net_sol_flow_last_5m": 0.013827157999999784,
+  "unique_traders": 3,
+  "unique_buyers": 3,
+  "unique_sellers": 2,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-06T07:44:04.344922",
+      "tx_type": "buy",
+      "sol_amount": 1.97530864,
+      "trader_wallet": "8p4GsRVRgcXiCb9EZdVEYWRs6M4tvw8DPFDTMnfGAREW",
+      "market_cap_sol": 33.52025653577002
+    },
+    {
+      "captured_at_utc": "2026-03-06T07:44:06.551335",
+      "tx_type": "sell",
+      "sol_amount": 1.97530864,
+      "trader_wallet": "8p4GsRVRgcXiCb9EZdVEYWRs6M4tvw8DPFDTMnfGAREW",
+      "market_cap_sol": 29.61004861675349
+    },
+    {
+      "captured_at_utc": "2026-03-06T07:44:07.260200",
+      "tx_type": "buy",
+      "sol_amount": 0.684444444,
+      "trader_wallet": "8zbp2mhqLq5ev3UpRCEhJ5FQjKxXcfbxFZi2spWbmPKf",
+      "market_cap_sol": 30.937488477933574
+    },
+    {
+      "captured_at_utc": "2026-03-06T07:44:09.495342",
+      "tx_type": "sell",
+      "sol_amount": 0.684444444,
+      "trader_wallet": "8zbp2mhqLq5ev3UpRCEhJ5FQjKxXcfbxFZi2spWbmPKf",
+      "market_cap_sol": 29.61004861675349
+    },
+    {
+      "captured_at_utc": "2026-03-06T07:44:23.054720",
+      "tx_type": "buy",
+      "sol_amount": 0.013827158,
+      "trader_wallet": "E2jzFsRC9kK6xGRK5HAQBRyUt28KjamYEAzmM2zi7N88",
+      "market_cap_sol": 29.6365775163478
+    }
+  ],
+  "trader_wallets": [
+    "8zbp2mhqLq5ev3UpRCEhJ5FQjKxXcfbxFZi2spWbmPKf",
+    "E2jzFsRC9kK6xGRK5HAQBRyUt28KjamYEAzmM2zi7N88",
+    "8p4GsRVRgcXiCb9EZdVEYWRs6M4tvw8DPFDTMnfGAREW"
+  ],
+  "buyer_wallets": [
+    "8zbp2mhqLq5ev3UpRCEhJ5FQjKxXcfbxFZi2spWbmPKf",
+    "E2jzFsRC9kK6xGRK5HAQBRyUt28KjamYEAzmM2zi7N88",
+    "8p4GsRVRgcXiCb9EZdVEYWRs6M4tvw8DPFDTMnfGAREW"
+  ],
+  "seller_wallets": [
+    "8zbp2mhqLq5ev3UpRCEhJ5FQjKxXcfbxFZi2spWbmPKf",
+    "8p4GsRVRgcXiCb9EZdVEYWRs6M4tvw8DPFDTMnfGAREW"
+  ]
+}

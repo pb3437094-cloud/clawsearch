@@ -1,0 +1,62 @@
+{
+  "captured_at_utc": "2026-03-08T10:46:46.983127+00:00",
+  "entry_count": 2,
+  "rows": [
+    {
+      "rank_mint": "BJZw2EWc46hJo4hrUkoNob4xQQQVuetWNeAHWcPgpump",
+      "symbol": "LABUBU",
+      "name": "The Original Labubu (2014)",
+      "status": "escalated",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 114.55,
+      "current_market_cap_sol": 149.64280263094832,
+      "peak_market_cap_sol": 151.15584539899297,
+      "net_sol_flow_last_5m": 29.855908835,
+      "buy_sol_last_5m": 59.419607059,
+      "trades_last_1m": 108,
+      "trades_last_5m": 108,
+      "unique_buyers": 44,
+      "unique_traders": 51,
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow"
+      ],
+      "rank": 1
+    },
+    {
+      "rank_mint": "2WqwYMcV4GPxCodzyj4sSxH2vNa9efNMWT7JSPjEpump",
+      "symbol": "oil",
+      "name": "Iran oil",
+      "status": "watching",
+      "priority_tier": "background",
+      "confidence": "low",
+      "composite_score": 8.9,
+      "current_market_cap_sol": 28.047296129778175,
+      "peak_market_cap_sol": 28.133107590501893,
+      "net_sol_flow_last_5m": -0.021798773000000007,
+      "buy_sol_last_5m": 0.083842321,
+      "trades_last_1m": 13,
+      "trades_last_5m": 13,
+      "unique_buyers": 2,
+      "unique_traders": 2,
+      "why_now": [
+        "nonzero_initial_buy",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "fast_1m_tape",
+        "active_5m_tape",
+        "recent_buy_cluster",
+        "buy_count_5m",
+        "sell_dominant_5m"
+      ],
+      "rank": 2
+    }
+  ]
+}

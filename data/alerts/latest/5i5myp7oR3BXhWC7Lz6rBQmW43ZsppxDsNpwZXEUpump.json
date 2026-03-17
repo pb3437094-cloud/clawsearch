@@ -1,0 +1,43 @@
+{
+  "mint": "5i5myp7oR3BXhWC7Lz6rBQmW43ZsppxDsNpwZXEUpump",
+  "symbol": "Proxy",
+  "name": "Proxy",
+  "band": "watchlist",
+  "score": 90.05,
+  "priority_tier": "watch",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.4255,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "fresh_wallet_arrivals_support_momentum",
+    "short_observation_window_favors_momentum_over_structure",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insufficient_history",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "TX_ACCELERATION_1M",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 35.864,
+  "captured_at": "2026-03-10T09:06:19.012914+00:00"
+}

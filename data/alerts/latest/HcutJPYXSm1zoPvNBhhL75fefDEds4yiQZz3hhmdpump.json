@@ -1,0 +1,44 @@
+{
+  "mint": "HcutJPYXSm1zoPvNBhhL75fefDEds4yiQZz3hhmdpump",
+  "symbol": "maki",
+  "name": "maki zenin",
+  "band": "watchlist",
+  "score": 68.45,
+  "priority_tier": "priority",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.429,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "short_term_buy_flow_is_expanding",
+    "fresh_wallet_arrivals_support_momentum",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "moderate_retrace",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 28.4291,
+  "captured_at": "2026-03-17T04:58:41.415829+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "mint": "HHZPvqj2BpUA2V7aovrQCVDfkNMUnCiaXbwPBdrSpump",
+  "symbol": "cwat",
+  "name": "cwat",
+  "band": "paper_hold",
+  "score": 144.8,
+  "priority_tier": "alpha",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.429,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_CLEAN",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "sells_are_being_absorbed_while_holding_highs",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_has_quality_and_is_not_heavily_recycled"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 68.2706,
+  "captured_at": "2026-03-09T14:47:00.758833+00:00"
+}

@@ -1,0 +1,136 @@
+{
+  "mint": "Biq3Ef5w4WC82qDrbW92Tu742wtVJRNu1pQuRhV4pump",
+  "rank_mint": "Biq3Ef5w4WC82qDrbW92Tu742wtVJRNu1pQuRhV4pump",
+  "symbol": "Tony Tovar",
+  "name": "World's Chillest Man",
+  "captured_at_utc": "2026-03-08T13:13:35.929994+00:00",
+  "status": "escalated",
+  "strategy_name": "breakout_continuation",
+  "entry_bias": "reclaim",
+  "setup_state": "alert",
+  "composite_score": 92.25,
+  "tie_break_score": 109.5623,
+  "confidence": "high",
+  "priority_tier": "alpha",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "already_escalated_state",
+    "fast_1m_tape"
+  ],
+  "invalidation_reasons": [],
+  "risk_flags": [
+    "moderate_retrace"
+  ],
+  "penalties": {
+    "moderate_retrace": 6.0
+  },
+  "strategy_scores": {
+    "filter_score": 125.0,
+    "breakout_score": 110.0,
+    "momentum_score": 96.0,
+    "event_bonus": 0,
+    "feature_bonus": 10.0,
+    "penalty_total": 6.0,
+    "base_composite": 98.25
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "positive_5m_flow",
+      "strong_positive_5m_flow",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "already_escalated_state"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "net_inflow_5m",
+      "strong_net_inflow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "escalated_status"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "positive_net_1m",
+      "positive_net_5m",
+      "strong_positive_net_5m",
+      "trader_participation"
+    ],
+    "features": [
+      "trade_acceleration",
+      "distributed_buyers"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 42.1908,
+    "peak_market_cap_sol": 52.3165,
+    "net_sol_flow_last_5m": 3.8898,
+    "buy_sol_last_5m": 36.2122,
+    "trades_last_1m": 157,
+    "trades_last_5m": 157,
+    "unique_buyers": 68,
+    "unique_traders": 69
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 0.8065,
+    "peak_retrace_pct": 19.3546,
+    "range_position_pct": 51.4944,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 5.0,
+    "sell_acceleration_ratio": 5.0,
+    "buy_pressure_ratio_5m": 0.5284,
+    "buy_pressure_ratio_1m": 0.5284,
+    "buy_sell_count_ratio_5m": 1.2429,
+    "buy_sell_sol_ratio_5m": 1.1203,
+    "net_flow_per_trade_5m": 0.0248,
+    "net_flow_per_trade_1m": 0.0248,
+    "avg_buy_size_5m": 0.4162,
+    "avg_sell_size_5m": 0.4617,
+    "buyer_density_5m": 0.7816,
+    "seller_density_5m": 0.7571,
+    "trader_participation_ratio": 0.4395,
+    "buyer_participation_ratio": 0.9855,
+    "participation_quality_score": 0.6448,
+    "microburst_ratio": 0.5541,
+    "flow_persistence_ratio": 5.0,
+    "wash_risk_ratio": 2.2754,
+    "breakout_strength": 0.0
+  },
+  "current_market_cap_sol": 42.1908,
+  "peak_market_cap_sol": 52.3165,
+  "market_cap_sol": 42.1908
+}

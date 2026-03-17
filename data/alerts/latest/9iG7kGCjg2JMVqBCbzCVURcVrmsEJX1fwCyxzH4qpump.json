@@ -1,0 +1,42 @@
+{
+  "mint": "9iG7kGCjg2JMVqBCbzCVURcVrmsEJX1fwCyxzH4qpump",
+  "symbol": "POT",
+  "name": "Pot of Gold",
+  "band": "invalidated",
+  "score": 83.9,
+  "priority_tier": "priority",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.421,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "negative_net_flow",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "BUY_FLOW_5M_CROSS_2",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation"
+  ],
+  "current_market_cap_sol": 47.16,
+  "captured_at": "2026-03-17T03:34:35.172508+00:00"
+}

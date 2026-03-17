@@ -1,0 +1,12 @@
+{
+  "event_type": "REPEAT_WALLET_CHURN",
+  "mint": "EmMhECVHF5roeCCxPTuX7MUrCurwGPCTHvHZN6FFpump",
+  "created_at_utc": "2026-03-16T14:11:18.941818+00:00",
+  "severity": "high",
+  "details": {
+    "metric": "repeat_wallet_ratio",
+    "threshold": 0.55,
+    "previous_value": 0.0,
+    "current_value": 1.0
+  }
+}

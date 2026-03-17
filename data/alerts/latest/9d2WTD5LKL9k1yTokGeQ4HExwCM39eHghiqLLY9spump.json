@@ -1,0 +1,44 @@
+{
+  "mint": "9d2WTD5LKL9k1yTokGeQ4HExwCM39eHghiqLLY9spump",
+  "symbol": "Starcloud",
+  "name": "Starcloud",
+  "band": "watchlist",
+  "score": 61.3,
+  "priority_tier": "watch",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.6565,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 113.7299,
+  "captured_at": "2026-03-09T12:43:16.230581+00:00"
+}

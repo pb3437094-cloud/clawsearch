@@ -1,0 +1,43 @@
+{
+  "mint": "CNZmSP37i89BZnCucsEdsAT99o1Mkt7YEAhbvgEihkrv",
+  "symbol": "Test",
+  "name": "Test",
+  "band": "invalidated",
+  "score": 5.95,
+  "priority_tier": "background",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "SLOW_BURN_ACCUMULATION",
+  "archetype_confidence": 0.456,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "repeat_wallet_churn",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-16T11:17:29.357496+00:00"
+}

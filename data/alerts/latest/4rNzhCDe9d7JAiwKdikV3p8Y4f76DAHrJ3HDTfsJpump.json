@@ -1,0 +1,46 @@
+{
+  "mint": "4rNzhCDe9d7JAiwKdikV3p8Y4f76DAHrJ3HDTfsJpump",
+  "symbol": "死对头",
+  "name": "死对头小猫",
+  "band": "watchlist",
+  "score": 63.63,
+  "priority_tier": "watch",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "short_term_buy_flow_is_expanding",
+    "fresh_wallet_arrivals_support_momentum",
+    "short_observation_window_favors_momentum_over_structure",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insufficient_history",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "participant_quality_v2",
+    "fresh_wallet_expansion"
+  ],
+  "current_market_cap_sol": 56.1795,
+  "captured_at": "2026-03-17T05:58:02.472249+00:00"
+}

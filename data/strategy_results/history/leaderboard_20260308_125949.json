@@ -1,0 +1,84 @@
+{
+  "captured_at_utc": "2026-03-08T12:59:49.919533+00:00",
+  "entry_count": 1,
+  "rows": [
+    {
+      "rank_mint": "4ie9ZwkdsbKJwxFJWensoMTdzknBnSV2zdLPb4Fppump",
+      "symbol": "sanwan",
+      "name": "sanwan",
+      "status": "escalated",
+      "strategy_name": "breakout_continuation",
+      "entry_bias": "reclaim",
+      "setup_state": "alert",
+      "priority_tier": "alpha",
+      "confidence": "high",
+      "composite_score": 99.25,
+      "tie_break_score": 78.5968,
+      "current_market_cap_sol": 56.91953412995773,
+      "peak_market_cap_sol": 69.93698622192049,
+      "net_sol_flow_last_5m": 2.9417052750000012,
+      "buy_sol_last_5m": 9.038468397,
+      "trades_last_1m": 23,
+      "trades_last_5m": 23,
+      "unique_buyers": 14,
+      "unique_traders": 19,
+      "risk_flags": [
+        "moderate_retrace"
+      ],
+      "trigger_reasons": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow",
+        "multiple_unique_buyers",
+        "broad_participation",
+        "already_escalated_state",
+        "mcap_above_45"
+      ],
+      "invalidation_reasons": [],
+      "penalties": {
+        "moderate_retrace": 6.0
+      },
+      "quant_features": {
+        "mcap_to_peak_ratio": 0.8139,
+        "peak_retrace_pct": 18.6131,
+        "range_position_pct": 61.7417,
+        "trade_acceleration_ratio": 5.0,
+        "buy_acceleration_ratio": 5.0,
+        "sell_acceleration_ratio": 5.0,
+        "buy_pressure_ratio_5m": 0.5972,
+        "buy_pressure_ratio_1m": 0.5972,
+        "buy_sell_count_ratio_5m": 1.5556,
+        "buy_sell_sol_ratio_5m": 1.4825,
+        "net_flow_per_trade_5m": 0.1279,
+        "net_flow_per_trade_1m": 0.1279,
+        "avg_buy_size_5m": 0.6456,
+        "avg_sell_size_5m": 0.6774,
+        "buyer_density_5m": 1.0,
+        "seller_density_5m": 1.0,
+        "trader_participation_ratio": 0.8261,
+        "buyer_participation_ratio": 0.7368,
+        "participation_quality_score": 0.9304,
+        "microburst_ratio": 0.6087,
+        "flow_persistence_ratio": 5.0,
+        "wash_risk_ratio": 1.2105,
+        "breakout_strength": 0.0
+      },
+      "why_now": [
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "active_5m_trading",
+        "heavy_5m_trading",
+        "buy_pressure",
+        "positive_5m_flow",
+        "strong_positive_5m_flow"
+      ],
+      "rank": 1
+    }
+  ]
+}

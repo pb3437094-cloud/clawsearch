@@ -1,0 +1,30 @@
+{
+  "mint": "Biq3Ef5w4WC82qDrbW92Tu742wtVJRNu1pQuRhV4pump",
+  "symbol": "Tony Tovar",
+  "name": "World's Chillest Man",
+  "strategy_name": "breakout_continuation",
+  "priority_tier": "alpha",
+  "entry_score": 98.6,
+  "entry_market_cap_sol": 40.5376,
+  "entry_mcap_source_key": "current_market_cap_sol",
+  "current_market_cap_sol": 41.0521,
+  "peak_market_cap_since_entry": 52.3165,
+  "trough_market_cap_since_entry": 40.5376,
+  "max_favorable_excursion_pct": 29.0567,
+  "max_adverse_excursion_pct": 0.0,
+  "status": "closed",
+  "opened_at": "2026-03-08T13:12:41.442269+00:00",
+  "last_updated_at": "2026-03-08T13:12:43.968929+00:00",
+  "reopened_from_closed": false,
+  "pnl_pct_proxy": 1.2692,
+  "drawdown_from_peak_pct": -21.5313,
+  "last_score": 96.25,
+  "last_priority_tier": "alpha",
+  "last_alert_band": "paper_hold",
+  "last_risk_flags": [
+    "moderate_retrace"
+  ],
+  "exit_reason": "peak_drawdown_stop",
+  "exit_market_cap_sol": 41.0521,
+  "closed_at": "2026-03-08T13:12:43.969137+00:00"
+}

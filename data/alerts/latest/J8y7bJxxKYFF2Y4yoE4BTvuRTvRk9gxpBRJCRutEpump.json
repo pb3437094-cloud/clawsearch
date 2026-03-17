@@ -1,0 +1,42 @@
+{
+  "mint": "J8y7bJxxKYFF2Y4yoE4BTvuRTvRk9gxpBRJCRutEpump",
+  "symbol": "Lad",
+  "name": "Lad",
+  "band": "alert_candidate",
+  "score": 103.7,
+  "priority_tier": "priority",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.4035,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "STATUS_WATCHING_TO_ESCALATED",
+    "NET_FLOW_5M_CROSS_1",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure"
+  ],
+  "current_market_cap_sol": 37.7733,
+  "captured_at": "2026-03-09T14:46:42.518982+00:00"
+}

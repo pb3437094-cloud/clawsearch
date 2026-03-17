@@ -1,0 +1,56 @@
+{
+  "mint": "AdgNmT7f88dFkFiYjXaYTnHSmNiYsYNCogMRc4XMpump",
+  "symbol": "SKY",
+  "name": "SKYBEAN",
+  "captured_at_utc": "2026-03-08T10:59:20.580778+00:00",
+  "status": "watching",
+  "composite_score": 21.3,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "fast_1m_tape",
+    "distributed_buyers",
+    "recent_buy_cluster"
+  ],
+  "strategy_scores": {
+    "filter_score": 50.0,
+    "breakout_score": 20.0,
+    "momentum_score": 16.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "buy_pressure",
+      "multiple_unique_buyers",
+      "broad_participation"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "distributed_buyers"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "trader_participation",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 27.9884,
+    "peak_market_cap_sol": 29.8817,
+    "net_sol_flow_last_5m": -0.9719,
+    "buy_sol_last_5m": 0.0267,
+    "trades_last_1m": 6,
+    "trades_last_5m": 6,
+    "unique_buyers": 4,
+    "unique_traders": 5
+  }
+}

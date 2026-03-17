@@ -1,0 +1,76 @@
+{
+  "mint": "6mV4V56LC1Hqkw4AAfpKzogGccv62wnYxKGDzy2Zpump",
+  "symbol": "Alamolhoda",
+  "name": "Iran Supreme Leader",
+  "captured_at_utc": "2026-03-08T10:48:57.791321+00:00",
+  "status": "escalated",
+  "composite_score": 106.9,
+  "confidence": "high",
+  "priority_tier": "alpha",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "strategy_scores": {
+    "filter_score": 125.0,
+    "breakout_score": 105.0,
+    "momentum_score": 88.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "positive_5m_flow",
+      "strong_positive_5m_flow",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "already_escalated_state"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35",
+      "mcap_above_45",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "net_inflow_5m",
+      "strong_net_inflow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "escalated_status",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "positive_net_5m",
+      "strong_positive_net_5m",
+      "trader_participation"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 56.0679,
+    "peak_market_cap_sol": 85.2299,
+    "net_sol_flow_last_5m": 7.545,
+    "buy_sol_last_5m": 63.2796,
+    "trades_last_1m": 43,
+    "trades_last_5m": 184,
+    "unique_buyers": 98,
+    "unique_traders": 100
+  }
+}

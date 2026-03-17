@@ -1,0 +1,46 @@
+{
+  "mint": "6hYijk8BVRh19GMdV42SWD1Piay7MUYPjeYhymxypump",
+  "symbol": "cunning",
+  "name": "cunning",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.464,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "insider_rotation",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "REPEAT_WALLET_CHURN",
+    "PARTICIPANT_QUALITY_BREAKDOWN",
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "light_research_support",
+    "mcap_stability"
+  ],
+  "current_market_cap_sol": 27.9611,
+  "captured_at": "2026-03-12T14:42:43.217760+00:00"
+}

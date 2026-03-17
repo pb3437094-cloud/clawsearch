@@ -1,0 +1,51 @@
+{
+  "mint": "HU2TzRRTDjy7TMJBa5yeo87L2oCBTZQwdEwyBxgqpump",
+  "symbol": "Snootlets",
+  "name": "Nuru & Mala",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "insufficient_history",
+    "low_buyer_density",
+    "moderate_retrace",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "fresh_participant_wave",
+    "post_peak_weakness",
+    "sell_pressure",
+    "repeat_wallet_churn",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 27.959,
+  "captured_at": "2026-03-16T14:20:05.105363+00:00"
+}

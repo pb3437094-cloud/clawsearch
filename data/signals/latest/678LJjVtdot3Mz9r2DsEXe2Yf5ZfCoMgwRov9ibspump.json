@@ -1,0 +1,32 @@
+{
+  "mint": "678LJjVtdot3Mz9r2DsEXe2Yf5ZfCoMgwRov9ibspump",
+  "captured_at_utc": "2026-03-16T13:10:40.087982+00:00",
+  "status": "escalated",
+  "score_inputs": {
+    "current_market_cap_sol": 110.31237486177821,
+    "peak_market_cap_sol": 110.31237486177821,
+    "trades_last_1m": 87,
+    "trades_last_5m": 92,
+    "buy_sol_last_5m": 28.424234148,
+    "net_sol_flow_last_5m": 10.292070753,
+    "unique_buyers_last_5m": 61,
+    "unique_traders_last_5m": 81,
+    "wallet_novelty_score": 1.0,
+    "repeat_wallet_ratio": 0.2391,
+    "buyer_overlap_ratio": 0.0,
+    "participant_quality_score_v2": 0.9459
+  },
+  "events": [
+    {
+      "event_type": "PEAK_BREAKOUT",
+      "mint": "678LJjVtdot3Mz9r2DsEXe2Yf5ZfCoMgwRov9ibspump",
+      "created_at_utc": "2026-03-16T13:10:40.087948+00:00",
+      "severity": "high",
+      "details": {
+        "previous_peak_market_cap_sol": 103.191,
+        "new_peak_market_cap_sol": 110.3124,
+        "current_market_cap_sol": 110.3124
+      }
+    }
+  ]
+}

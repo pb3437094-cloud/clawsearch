@@ -1,0 +1,45 @@
+{
+  "mint": "8cGMP5toZjMc5FsxZq45JN7j3DpQMvFkPAfh7rR6pump",
+  "symbol": "Moe-Chan",
+  "name": "萌酱",
+  "band": "invalidated",
+  "score": 11.55,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.3487,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "participant_quality_and_wallet_mix_look_organic",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "insufficient_history",
+    "negative_net_flow",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "buy_pressure",
+    "participant_quality_v2",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "high_participant_quality",
+    "buyer_novelty",
+    "recent_buy_cluster"
+  ],
+  "current_market_cap_sol": 28.7146,
+  "captured_at": "2026-03-16T13:10:10.747451+00:00"
+}

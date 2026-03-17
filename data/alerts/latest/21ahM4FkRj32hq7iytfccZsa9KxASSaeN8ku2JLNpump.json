@@ -1,0 +1,43 @@
+{
+  "mint": "21ahM4FkRj32hq7iytfccZsa9KxASSaeN8ku2JLNpump",
+  "symbol": "NAHUI",
+  "name": "да ну нахуй",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.343,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dead_launch",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "repeat_wallet_churn",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 28.0963,
+  "captured_at": "2026-03-09T05:21:10.669016+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "fingerprint": {
+    "trades_last_1m": 3,
+    "trades_last_5m": 3,
+    "unique_buyers_last_5m": 0,
+    "current_market_cap_sol": 35.5513,
+    "participant_wallets": [
+      "rEAdyQ9cw1wM7Wrc8TFUJ9kVrz5XumTCPWbnYaxqKHK",
+      "UdpMBxrTLnhmGfzJJc1TwjkbefyqnmonDNDGB1RZxTf",
+      "GvXxYKQYjohJC2t3E2V3GKPgnCiLna6p8PVWXn5MTvsp"
+    ],
+    "creator_wallet": "866SrsMfwKsErATZDCLAPbxH3NuqjKn7zQ1xXMqixoz1"
+  },
+  "helius_last_enriched_at": "2026-03-09T15:41:30.661775+00:00",
+  "helius_enrichment_status": "enriched",
+  "helius_last_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 3,
+    "avg_wallet_age_days": 64.9855,
+    "median_wallet_age_days": 11.5615,
+    "fresh_wallet_share": 0.0,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.3333,
+    "high_velocity_wallet_share": 1.0,
+    "funding_diversity_score": 0.6667,
+    "top_funder_concentration_score": 0.3333,
+    "creator_shared_funder_score": 0.3333,
+    "creator_wallet_age_days": 229.0904,
+    "creator_probable_fresh_wallet": false,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "cohort_quality_score": 0.6574
+  },
+  "helius_creator_profile": {
+    "address": "866SrsMfwKsErATZDCLAPbxH3NuqjKn7zQ1xXMqixoz1",
+    "last_enriched_at": "2026-03-09T15:41:28.959601+00:00",
+    "tx_sample_count": 20,
+    "wallet_age_days": 229.0904,
+    "recent_active_days": 1,
+    "swap_tx_ratio": 0.0,
+    "transfer_tx_ratio": 1.0,
+    "unknown_tx_ratio": 0.0,
+    "distinct_sources": 1,
+    "distinct_mints": 0,
+    "inbound_funding_count": 19,
+    "funding_wallet_count": 3,
+    "top_funder": "Ey4sAWv5cwU6JEygLbsQfPL6gqhk4oSMvgsX4T1NggtR",
+    "top_funder_share": 0.6316,
+    "probable_fresh_wallet": false,
+    "probable_sniper_wallet": false,
+    "probable_recycled_wallet": false,
+    "probable_high_velocity_wallet": true
+  },
+  "creator_entity_key": "funder::Ey4sAWv5cwU6JEygLbsQfPL6gqhk4oSMvgsX4T1NggtR"
+}

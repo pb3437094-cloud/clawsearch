@@ -1,0 +1,11 @@
+{
+  "event_type": "STATUS_ESCALATED_TO_WATCHING",
+  "mint": "37WuFduMf3RACiffn9ULPJ6yjHPdJyfRHUepJiECpump",
+  "created_at_utc": "2026-03-12T14:41:25.150075+00:00",
+  "severity": "medium",
+  "details": {
+    "from_status": "escalated",
+    "to_status": "watching",
+    "status_reason": "post_escalation_monitoring"
+  }
+}

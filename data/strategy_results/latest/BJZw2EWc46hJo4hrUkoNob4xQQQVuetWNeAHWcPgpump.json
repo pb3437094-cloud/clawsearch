@@ -1,0 +1,77 @@
+{
+  "mint": "BJZw2EWc46hJo4hrUkoNob4xQQQVuetWNeAHWcPgpump",
+  "symbol": "LABUBU",
+  "name": "The Original Labubu (2014)",
+  "captured_at_utc": "2026-03-08T10:49:03.037911+00:00",
+  "status": "escalated",
+  "composite_score": 99.3,
+  "confidence": "high",
+  "priority_tier": "alpha",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "strategy_scores": {
+    "filter_score": 125.0,
+    "breakout_score": 105.0,
+    "momentum_score": 96.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "positive_5m_flow",
+      "strong_positive_5m_flow",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "already_escalated_state"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35",
+      "mcap_above_45",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "net_inflow_5m",
+      "strong_net_inflow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "escalated_status",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "positive_net_1m",
+      "positive_net_5m",
+      "strong_positive_net_5m",
+      "trader_participation"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 129.2086,
+    "peak_market_cap_sol": 283.8512,
+    "net_sol_flow_last_5m": 22.6716,
+    "buy_sol_last_5m": 123.5969,
+    "trades_last_1m": 53,
+    "trades_last_5m": 334,
+    "unique_buyers": 108,
+    "unique_traders": 116
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "mint": "6Tqb5jjxiDH8Fbak6fuqHixiGStyGA5bVVSJyB92pump",
+  "symbol": "Lighti",
+  "name": "Light invest",
+  "creator_wallet": "Gt4f2VPf6dmzTgehDaLuBT9fT8NfGyphLo6UAZeiR6SX",
+  "uri": "https://ipfs.io/ipfs/QmNvtPHVdvdxwA6vaphBckWMibxaeqhdjCBBEaLt51gzki",
+  "pool": "pump",
+  "bonding_curve_key": "76XJTkT5UMxLuSWbibpUs5koQpDg8CMtjVQjLcD7SkpS",
+  "launch_signature": "4GGHMESD5cukpXfXbZv6YRx2x9LbqPBw2uRG9fmSs8siTcyDMLW6JsUJY3R2LU7bwgZa4WmwJGjDLff9sGhLAv6T",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T13:12:34.851181",
+  "last_seen_at": "2026-03-08T13:13:28.647072",
+  "first_trade_at": "2026-03-08T13:12:44.144797",
+  "last_trade_at": "2026-03-08T13:13:28.647072",
+  "last_buy_at": "2026-03-08T13:12:44.144797",
+  "last_sell_at": "2026-03-08T13:13:28.647072",
+  "watchlisted_at": "2026-03-08T13:12:34.851275+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 3520918.746848,
+  "launch_sol_amount": 0.098765431,
+  "launch_market_cap_sol": 28.14338864462131,
+  "current_market_cap_sol": 28.14338864462131,
+  "peak_market_cap_sol": 28.236969773639636,
+  "trough_market_cap_sol": 28.14338864462131,
+  "total_trade_count": 2,
+  "total_buy_count": 1,
+  "total_sell_count": 1,
+  "total_buy_sol": 0.05,
+  "total_sell_sol": 0.05,
+  "net_sol_flow": 0.0,
+  "largest_buy_sol": 0.05,
+  "largest_sell_sol": 0.05,
+  "trades_last_1m": 2,
+  "trades_last_5m": 2,
+  "buys_last_1m": 1,
+  "buys_last_5m": 1,
+  "sells_last_1m": 1,
+  "sells_last_5m": 1,
+  "buy_sol_last_1m": 0.05,
+  "buy_sol_last_5m": 0.05,
+  "sell_sol_last_1m": 0.05,
+  "sell_sol_last_5m": 0.05,
+  "net_sol_flow_last_1m": 0.0,
+  "net_sol_flow_last_5m": 0.0,
+  "unique_traders": 1,
+  "unique_buyers": 1,
+  "unique_sellers": 1,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T13:12:44.144797",
+      "tx_type": "buy",
+      "sol_amount": 0.05,
+      "trader_wallet": "AwVZzs5SJ3GfdBrBGvyqRT5Z8sca26uxqAJJTtpVmTui",
+      "market_cap_sol": 28.236969773639636
+    },
+    {
+      "captured_at_utc": "2026-03-08T13:13:28.647072",
+      "tx_type": "sell",
+      "sol_amount": 0.05,
+      "trader_wallet": "AwVZzs5SJ3GfdBrBGvyqRT5Z8sca26uxqAJJTtpVmTui",
+      "market_cap_sol": 28.14338864462131
+    }
+  ],
+  "trader_wallets": [
+    "AwVZzs5SJ3GfdBrBGvyqRT5Z8sca26uxqAJJTtpVmTui"
+  ],
+  "buyer_wallets": [
+    "AwVZzs5SJ3GfdBrBGvyqRT5Z8sca26uxqAJJTtpVmTui"
+  ],
+  "seller_wallets": [
+    "AwVZzs5SJ3GfdBrBGvyqRT5Z8sca26uxqAJJTtpVmTui"
+  ]
+}

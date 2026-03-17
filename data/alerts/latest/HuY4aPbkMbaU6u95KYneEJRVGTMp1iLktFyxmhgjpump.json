@@ -1,0 +1,51 @@
+{
+  "mint": "HuY4aPbkMbaU6u95KYneEJRVGTMp1iLktFyxmhgjpump",
+  "symbol": "$AXOLORD",
+  "name": "Galactolotl Supreme",
+  "band": "invalidated",
+  "score": 28.31,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "fragile_reclaim",
+    "low_buyer_density",
+    "low_participant_quality",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 55.5956,
+  "captured_at": "2026-03-17T05:57:49.908798+00:00"
+}

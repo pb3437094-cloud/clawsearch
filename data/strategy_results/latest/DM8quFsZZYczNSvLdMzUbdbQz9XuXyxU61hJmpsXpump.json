@@ -1,0 +1,65 @@
+{
+  "mint": "DM8quFsZZYczNSvLdMzUbdbQz9XuXyxU61hJmpsXpump",
+  "symbol": "Planzo",
+  "name": "Planzo",
+  "captured_at_utc": "2026-03-08T10:59:42.356154+00:00",
+  "status": "watching",
+  "composite_score": 29.1,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "post_peak_weakness",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "strategy_scores": {
+    "filter_score": 35.0,
+    "breakout_score": 35.0,
+    "momentum_score": 42.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "multiple_unique_buyers",
+      "broad_participation",
+      "post_peak_weakness"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "trader_participation",
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 27.959,
+    "peak_market_cap_sol": 42.2317,
+    "net_sol_flow_last_5m": -3.2446,
+    "buy_sol_last_5m": 11.6839,
+    "trades_last_1m": 39,
+    "trades_last_5m": 39,
+    "unique_buyers": 18,
+    "unique_traders": 21
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "mint": "Hgyfw4FvyPro7fCiG8tsYv7Z8NkHFTYCNbjR456pump",
+  "symbol": "Time",
+  "name": "It’s Time",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "fragile_reclaim",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "fresh_wallet_expansion",
+    "buyer_novelty",
+    "recent_buy_cluster",
+    "positive_net_1m",
+    "wallet_novelty"
+  ],
+  "current_market_cap_sol": 30.986,
+  "captured_at": "2026-03-17T05:58:01.013598+00:00"
+}

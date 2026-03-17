@@ -1,0 +1,49 @@
+{
+  "mint": "6Az2xC2CL6ei35od49rKhUmJJotsFnz85LKYyKRMpump",
+  "symbol": "$NEXI",
+  "name": "NEXI",
+  "captured_at_utc": "2026-03-08T10:48:08.743891+00:00",
+  "status": "watching",
+  "composite_score": 24.1,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "buy_pressure",
+    "positive_net_1m"
+  ],
+  "strategy_scores": {
+    "filter_score": 40.0,
+    "breakout_score": 22.0,
+    "momentum_score": 8.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "mcap_above_35",
+      "buy_pressure"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "mcap_above_35"
+    ],
+    "momentum": [
+      "positive_net_1m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 40.3217,
+    "peak_market_cap_sol": 40.3217,
+    "net_sol_flow_last_5m": 0.2,
+    "buy_sol_last_5m": 0.2,
+    "trades_last_1m": 1,
+    "trades_last_5m": 1,
+    "unique_buyers": 1,
+    "unique_traders": 1
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "mint": "7Pxw1Pw1fHdfgxcD2ewbzJ9rJiybUg8atmp3uSo2pump",
+  "symbol": "Plastoline",
+  "name": "Plastic Plastoline",
+  "creator_wallet": "8op8sPjq44V1gEv3fBnBp6dTwEBFRwKTCZH6U6skFHSS",
+  "uri": "https://ipfs.io/ipfs/bafkreibpjudjqz6sr7rfoueai2g7y77woolknpo7rw626yeuyyn4afr3su",
+  "pool": "pump",
+  "bonding_curve_key": "HiUd2mgAGYCoUPgFVAdtSN79Wz6DVdS8ALY3AcSjJSQV",
+  "launch_signature": "2PqgTgaYwrpYSd9jtjcLdPuYEZkzrVzkHJkhcfXJCP9g3457dSJarsc9ALPbGUVe1kxraom4hoYvjGAdQeDN4Ab3",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T12:42:48.990256",
+  "last_seen_at": "2026-03-08T12:42:49.383692",
+  "first_trade_at": "2026-03-08T12:42:49.346803",
+  "last_trade_at": "2026-03-08T12:42:49.383692",
+  "last_buy_at": "2026-03-08T12:42:49.346803",
+  "last_sell_at": "2026-03-08T12:42:49.383692",
+  "watchlisted_at": "2026-03-08T12:42:48.990349+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 67062499.999999,
+  "launch_sol_amount": 2.0,
+  "launch_market_cap_sol": 31.811121466293816,
+  "current_market_cap_sol": 37.93147526490473,
+  "peak_market_cap_sol": 44.12157050135019,
+  "trough_market_cap_sol": 31.811121466293816,
+  "total_trade_count": 2,
+  "total_buy_count": 1,
+  "total_sell_count": 1,
+  "total_buy_sol": 0.00205565,
+  "total_sell_sol": 2.743500778,
+  "net_sol_flow": -2.741445128,
+  "largest_buy_sol": 0.00205565,
+  "largest_sell_sol": 2.743500778,
+  "trades_last_1m": 2,
+  "trades_last_5m": 2,
+  "buys_last_1m": 1,
+  "buys_last_5m": 1,
+  "sells_last_1m": 1,
+  "sells_last_5m": 1,
+  "buy_sol_last_1m": 0.00205565,
+  "buy_sol_last_5m": 0.00205565,
+  "sell_sol_last_1m": 2.743500778,
+  "sell_sol_last_5m": 2.743500778,
+  "net_sol_flow_last_1m": -2.741445128,
+  "net_sol_flow_last_5m": -2.741445128,
+  "unique_traders": 2,
+  "unique_buyers": 1,
+  "unique_sellers": 1,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T12:42:49.346803",
+      "tx_type": "buy",
+      "sol_amount": 0.00205565,
+      "trader_wallet": "HvBqrb8Axove6uzXiES1vGuTmKw8aVfZbr3tMGF4kdf4",
+      "market_cap_sol": 44.12157050135019
+    },
+    {
+      "captured_at_utc": "2026-03-08T12:42:49.383692",
+      "tx_type": "sell",
+      "sol_amount": 2.743500778,
+      "trader_wallet": "8op8sPjq44V1gEv3fBnBp6dTwEBFRwKTCZH6U6skFHSS",
+      "market_cap_sol": 37.93147526490473
+    }
+  ],
+  "trader_wallets": [
+    "8op8sPjq44V1gEv3fBnBp6dTwEBFRwKTCZH6U6skFHSS",
+    "HvBqrb8Axove6uzXiES1vGuTmKw8aVfZbr3tMGF4kdf4"
+  ],
+  "buyer_wallets": [
+    "HvBqrb8Axove6uzXiES1vGuTmKw8aVfZbr3tMGF4kdf4"
+  ],
+  "seller_wallets": [
+    "8op8sPjq44V1gEv3fBnBp6dTwEBFRwKTCZH6U6skFHSS"
+  ]
+}

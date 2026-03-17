@@ -1,0 +1,51 @@
+{
+  "mint": "Jt4JydNzFsEkh3ykAop6Y7YH3sSVawprLsiLYHLpump",
+  "symbol": "FRIDAY",
+  "name": "Vitasang",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "SLOW_BURN_ACCUMULATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.334,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_has_survived_longer_than_a_pure_micro_pump",
+    "activity_is_constructive_without_chasing",
+    "fresh_buyer_refresh_supports_slow_burn",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "low_buyer_density",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "fresh_wallet_expansion",
+    "sell_pressure",
+    "repeat_wallet_churn"
+  ],
+  "current_market_cap_sol": 29.4428,
+  "captured_at": "2026-03-16T12:35:49.615957+00:00"
+}

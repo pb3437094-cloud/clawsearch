@@ -1,0 +1,45 @@
+{
+  "mint": "56kEhhNGStvXFnY3nYsu93MkEcjD79EmQ2qAFinWpump",
+  "symbol": "howdy",
+  "name": "howdy",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.4775,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "fragile_reclaim",
+    "insufficient_history",
+    "recycled_participation",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "PARTICIPANT_QUALITY_BREAKDOWN",
+    "nonzero_initial_buy",
+    "buyer_novelty",
+    "positive_net_1m",
+    "wallet_novelty",
+    "light_research_support",
+    "sell_absorption",
+    "mcap_stability"
+  ],
+  "current_market_cap_sol": 29.7342,
+  "captured_at": "2026-03-17T05:33:44.066620+00:00"
+}

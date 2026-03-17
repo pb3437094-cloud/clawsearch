@@ -1,0 +1,60 @@
+{
+  "mint": "68DVNHedrXNU6x4qpENaFym7CTgg2PjRicd5i4EFpump",
+  "symbol": "longcat",
+  "name": "longcat",
+  "captured_at_utc": "2026-03-08T10:48:34.220884+00:00",
+  "status": "watching",
+  "composite_score": 37.4,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "buy_flow_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 50.0,
+    "breakout_score": 42.0,
+    "momentum_score": 44.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 30.2079,
+    "peak_market_cap_sol": 32.9719,
+    "net_sol_flow_last_5m": -0.1008,
+    "buy_sol_last_5m": 3.5721,
+    "trades_last_1m": 25,
+    "trades_last_5m": 25,
+    "unique_buyers": 1,
+    "unique_traders": 2
+  }
+}

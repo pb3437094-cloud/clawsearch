@@ -1,0 +1,28 @@
+{
+  "mint": "9kQBexzdV3fEZgNjDjDWXw7AtLEdFHHY2VcC1hzmpump",
+  "captured_at_utc": "2026-03-08T12:16:45.148458+00:00",
+  "status": "escalated",
+  "score_inputs": {
+    "current_market_cap_sol": 40.10083068173743,
+    "peak_market_cap_sol": 40.10083068173743,
+    "trades_last_1m": 18,
+    "trades_last_5m": 18,
+    "buy_sol_last_5m": 2.950904804,
+    "net_sol_flow_last_5m": 2.850765073,
+    "unique_buyers": 16,
+    "unique_traders": 16
+  },
+  "events": [
+    {
+      "event_type": "PEAK_BREAKOUT",
+      "mint": "9kQBexzdV3fEZgNjDjDWXw7AtLEdFHHY2VcC1hzmpump",
+      "created_at_utc": "2026-03-08T12:16:45.148435+00:00",
+      "severity": "high",
+      "details": {
+        "previous_peak_market_cap_sol": 38.1293,
+        "new_peak_market_cap_sol": 40.1008,
+        "current_market_cap_sol": 40.1008
+      }
+    }
+  ]
+}

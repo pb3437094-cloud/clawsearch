@@ -1,0 +1,43 @@
+{
+  "mint": "25zvC7v9JYPfoicyH2H3uw54g1Uv27z26K5KWMrKpump",
+  "symbol": "pvedog",
+  "name": "in a world full of pvp",
+  "band": "watchlist",
+  "score": 31.28,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "LIQUIDITY_FADE",
+  "archetype_confidence": 0.7825,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "participant_quality_and_wallet_mix_look_organic",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "buy_side_staleness",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "participant_quality_v2",
+    "distributed_buyers"
+  ],
+  "current_market_cap_sol": 30.2785,
+  "captured_at": "2026-03-17T04:57:42.531643+00:00"
+}

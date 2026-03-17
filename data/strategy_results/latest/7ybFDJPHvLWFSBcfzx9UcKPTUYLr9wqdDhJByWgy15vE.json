@@ -1,0 +1,63 @@
+{
+  "mint": "7ybFDJPHvLWFSBcfzx9UcKPTUYLr9wqdDhJByWgy15vE",
+  "symbol": "Habouba",
+  "name": "Habouba The Orangutan",
+  "captured_at_utc": "2026-03-08T11:00:04.370709+00:00",
+  "status": "watching",
+  "composite_score": 36.65,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "strategy_scores": {
+    "filter_score": 60.0,
+    "breakout_score": 35.0,
+    "momentum_score": 38.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "multiple_unique_buyers",
+      "broad_participation"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "trader_participation",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.0665,
+    "peak_market_cap_sol": 40.5174,
+    "net_sol_flow_last_5m": -5.3325,
+    "buy_sol_last_5m": 1.6235,
+    "trades_last_1m": 20,
+    "trades_last_5m": 25,
+    "unique_buyers": 11,
+    "unique_traders": 15
+  }
+}

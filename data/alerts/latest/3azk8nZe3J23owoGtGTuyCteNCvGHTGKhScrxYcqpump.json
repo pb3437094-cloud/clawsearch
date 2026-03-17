@@ -1,0 +1,42 @@
+{
+  "mint": "3azk8nZe3J23owoGtGTuyCteNCvGHTGKhScrxYcqpump",
+  "symbol": "$BIGCOIN",
+  "name": "DICKCOIN",
+  "band": "watchlist",
+  "score": 24.73,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.399,
+  "regime_tags": [
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "short_term_buy_flow_is_expanding",
+    "short_observation_window_favors_momentum_over_structure",
+    "recovery_exists_but_structure_is_still_fragile",
+    "buyer_base_is_too_narrow_for_high_confidence"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insufficient_history",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "buy_pressure",
+    "positive_net_1m",
+    "trade_acceleration",
+    "strong_buy_pressure",
+    "distributed_buyers",
+    "light_research_support",
+    "creator_entity_support"
+  ],
+  "current_market_cap_sol": 28.7925,
+  "captured_at": "2026-03-16T13:41:03.516056+00:00"
+}

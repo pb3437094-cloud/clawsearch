@@ -1,0 +1,44 @@
+{
+  "mint": "7hS9kDgm5xmugkbf9gs6h3ZqQ6R9WekSQb2HwKzYpump",
+  "symbol": "DegenStonk",
+  "name": "DegenStonk",
+  "band": "alert_candidate",
+  "score": 89.59,
+  "priority_tier": "priority",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.604,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "multiple_recent_buyers"
+  ],
+  "current_market_cap_sol": 242.3181,
+  "captured_at": "2026-03-16T13:45:32.306468+00:00"
+}

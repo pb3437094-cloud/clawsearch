@@ -1,0 +1,116 @@
+{
+  "fingerprint": {
+    "tier": "deep",
+    "status": "watching",
+    "trades_1m": 5,
+    "trades_5m_bucket": 4,
+    "unique_buyers_5m_bucket": 4,
+    "market_cap_bucket": 3,
+    "participant_wallets": [
+      "CZ96BfsxmDQU2k1PD8dgiek7DLMbhL7FCWpyvQCs6Ltb",
+      "D5uRWq7wEyu39tcLGJRTou7mkHijSku6QJbL5uip5egK",
+      "5iMAqHA4tUTdDTrki7mFMqTMUjup8ipBJyFrme2Lfgx9",
+      "C9mB2hWKCfpQzMDXZya5LVS4cPfWos6hPmessyk6xAbu",
+      "4pxKXgpx6GHwnYgwFke7HF3thMRwc1RxkjV6cGv4xXpD",
+      "7CGYMLfuzwxeDscLA6Ve3r5tRaKkpb43C8gHcTxDapYv",
+      "rd72SzVKWwzQ7fgj8nh15wzpLCxwtyds69YTnqsjAPq",
+      "2bPZ1LDCqBRri6AcJ7JYAbC3PGSmQkiy7ASuPpEUupLA",
+      "3PHkL4VRcaFp5YdrDux5JWPeVCc6VZfY4Ge35cxcoPUL"
+    ],
+    "creator_wallet": "9su5HarGPUzSYFBdptFbK865GhgSHL7bKwFuQ1unSbHs"
+  },
+  "helius_last_enriched_at": "2026-03-17T06:37:58.864281+00:00",
+  "helius_enrichment_status": "deep_partial",
+  "helius_last_error": null,
+  "helius_cached_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 4,
+    "avg_wallet_age_days": 116.3834,
+    "median_wallet_age_days": 151.569,
+    "fresh_wallet_share": 0.25,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.0,
+    "high_velocity_wallet_share": 0.0,
+    "funding_diversity_score": 0.25,
+    "top_funder_concentration_score": 0.25,
+    "creator_shared_funder_score": 0.0,
+    "creator_wallet_age_days": 0.0,
+    "creator_probable_fresh_wallet": false,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "profile_depth_bucket": "2_4",
+    "profile_completion_confidence": 0.8,
+    "cohort_quality_score": 0.611
+  },
+  "helius_creator_profile": {},
+  "helius_selected_wallets": [
+    "CZ96BfsxmDQU2k1PD8dgiek7DLMbhL7FCWpyvQCs6Ltb",
+    "D5uRWq7wEyu39tcLGJRTou7mkHijSku6QJbL5uip5egK",
+    "5iMAqHA4tUTdDTrki7mFMqTMUjup8ipBJyFrme2Lfgx9",
+    "C9mB2hWKCfpQzMDXZya5LVS4cPfWos6hPmessyk6xAbu",
+    "4pxKXgpx6GHwnYgwFke7HF3thMRwc1RxkjV6cGv4xXpD",
+    "7CGYMLfuzwxeDscLA6Ve3r5tRaKkpb43C8gHcTxDapYv",
+    "rd72SzVKWwzQ7fgj8nh15wzpLCxwtyds69YTnqsjAPq",
+    "2bPZ1LDCqBRri6AcJ7JYAbC3PGSmQkiy7ASuPpEUupLA",
+    "3PHkL4VRcaFp5YdrDux5JWPeVCc6VZfY4Ge35cxcoPUL"
+  ],
+  "helius_attempted_wallets": [
+    "CZ96BfsxmDQU2k1PD8dgiek7DLMbhL7FCWpyvQCs6Ltb",
+    "D5uRWq7wEyu39tcLGJRTou7mkHijSku6QJbL5uip5egK",
+    "5iMAqHA4tUTdDTrki7mFMqTMUjup8ipBJyFrme2Lfgx9",
+    "C9mB2hWKCfpQzMDXZya5LVS4cPfWos6hPmessyk6xAbu"
+  ],
+  "helius_wallet_attempt_details": [
+    {
+      "address": "CZ96BfsxmDQU2k1PD8dgiek7DLMbhL7FCWpyvQCs6Ltb",
+      "wallet_index": 0,
+      "oldest_cap_seconds": 0.75,
+      "recent_cap_seconds": 1.35,
+      "recent_tx_limit": 16,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "D5uRWq7wEyu39tcLGJRTou7mkHijSku6QJbL5uip5egK",
+      "wallet_index": 1,
+      "oldest_cap_seconds": 0.55,
+      "recent_cap_seconds": 0.95,
+      "recent_tx_limit": 10,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "5iMAqHA4tUTdDTrki7mFMqTMUjup8ipBJyFrme2Lfgx9",
+      "wallet_index": 2,
+      "oldest_cap_seconds": 0.4,
+      "recent_cap_seconds": 0.7,
+      "recent_tx_limit": 8,
+      "profiled": true,
+      "error": null
+    },
+    {
+      "address": "C9mB2hWKCfpQzMDXZya5LVS4cPfWos6hPmessyk6xAbu",
+      "wallet_index": 3,
+      "oldest_cap_seconds": 0.35,
+      "recent_cap_seconds": 0.55,
+      "recent_tx_limit": 6,
+      "profiled": true,
+      "error": null
+    }
+  ],
+  "helius_selected_wallet_count": 9,
+  "helius_profiled_wallet_count": 4,
+  "helius_requested_wallet_count": 9,
+  "helius_completed_wallet_count": 4,
+  "helius_profile_completion_ratio": 0.4444,
+  "helius_profile_depth_bucket": "2_4",
+  "helius_partial_enrichment": true,
+  "helius_creator_attempted": false,
+  "helius_creator_profiled": false,
+  "helius_time_budget_seconds": 4.0,
+  "helius_time_budget_exhausted": true,
+  "helius_enrichment_tier": "deep",
+  "helius_trigger_reason": "local_score_ge_72",
+  "helius_wallet_target": 10,
+  "helius_local_score_hint": 0.0
+}

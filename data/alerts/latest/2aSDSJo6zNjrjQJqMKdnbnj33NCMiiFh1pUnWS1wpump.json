@@ -1,0 +1,49 @@
+{
+  "mint": "2aSDSJo6zNjrjQJqMKdnbnj33NCMiiFh1pUnWS1wpump",
+  "symbol": "17",
+  "name": "Absolute Luck",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "deep_retrace",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "participant_quality_v2",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "post_peak_weakness",
+    "mcap_above_45"
+  ],
+  "current_market_cap_sol": 45.413,
+  "captured_at": "2026-03-16T12:44:23.409738+00:00"
+}

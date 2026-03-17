@@ -1,0 +1,108 @@
+{
+  "mint": "2urmMWc1cDv33uyq9ECJSbHFBDPWCh2hVgHtkyVdpump",
+  "symbol": "ROME",
+  "name": "IFLOW-ROME",
+  "captured_at_utc": "2026-03-08T12:32:29.616423+00:00",
+  "status": "watching",
+  "strategy_name": "breakout_continuation",
+  "entry_bias": "watch_only",
+  "setup_state": "watchlist",
+  "composite_score": 7.0,
+  "tie_break_score": 31.369,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "MCAP_CROSS_30",
+    "PEAK_BREAKOUT",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "peak_breakout_event",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration"
+  ],
+  "trigger_reasons": [
+    "MCAP_CROSS_30",
+    "PEAK_BREAKOUT",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "peak_breakout_event",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration"
+  ],
+  "invalidation_reasons": [
+    "negative_5m_flow"
+  ],
+  "risk_flags": [
+    "negative_net_flow"
+  ],
+  "penalties": {
+    "negative_net_flow": 10.0
+  },
+  "strategy_scores": {
+    "filter_score": 20.0,
+    "breakout_score": 25.0,
+    "momentum_score": -22.0,
+    "event_bonus": 4.0,
+    "feature_bonus": 6.0,
+    "penalty_total": 10.0,
+    "base_composite": 17.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "peak_breakout_event"
+    ],
+    "momentum": [
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "features": [
+      "trade_acceleration"
+    ],
+    "events": [
+      "MCAP_CROSS_30",
+      "PEAK_BREAKOUT"
+    ]
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 33.7798,
+    "peak_market_cap_sol": 33.7798,
+    "net_sol_flow_last_5m": -1.7778,
+    "buy_sol_last_5m": 0.0,
+    "trades_last_1m": 1,
+    "trades_last_5m": 1,
+    "unique_buyers": 0,
+    "unique_traders": 1
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 1.0,
+    "peak_retrace_pct": 0.0,
+    "range_position_pct": 100.0,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 0.0,
+    "sell_acceleration_ratio": 5.0,
+    "buy_pressure_ratio_5m": 0.0,
+    "buy_pressure_ratio_1m": 0.0,
+    "buy_sell_count_ratio_5m": 0.0,
+    "buy_sell_sol_ratio_5m": 0.0,
+    "net_flow_per_trade_5m": -1.7778,
+    "net_flow_per_trade_1m": -1.7778,
+    "avg_buy_size_5m": 0.0,
+    "avg_sell_size_5m": 1.7778,
+    "buyer_density_5m": 0.0,
+    "seller_density_5m": 1.0,
+    "trader_participation_ratio": 1.0,
+    "buyer_participation_ratio": 0.0,
+    "participation_quality_score": 0.4,
+    "microburst_ratio": 0.0,
+    "flow_persistence_ratio": 0.0,
+    "wash_risk_ratio": 1.0,
+    "breakout_strength": 0.0
+  }
+}

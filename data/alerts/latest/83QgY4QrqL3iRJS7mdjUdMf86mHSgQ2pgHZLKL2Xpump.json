@@ -1,0 +1,46 @@
+{
+  "mint": "83QgY4QrqL3iRJS7mdjUdMf86mHSgQ2pgHZLKL2Xpump",
+  "symbol": "Gany",
+  "name": "Gany",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "LIQUIDITY_FADE",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.4255,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "seller_presence_is_expanding",
+    "buy_pressure_and_activity_are_fading",
+    "buy_side_is_not_refreshing_fast_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "insufficient_history",
+    "liquidity_fade",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_recent_buyers",
+    "repeat_wallet_churn",
+    "active_5m_tape",
+    "distributed_buyers"
+  ],
+  "current_market_cap_sol": 28.4704,
+  "captured_at": "2026-03-17T03:21:25.788368+00:00"
+}

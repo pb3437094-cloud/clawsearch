@@ -1,0 +1,41 @@
+{
+  "mint": "BjN9GGBNvbadSv1rAEjGqQNVsocUxYmqv2fZ64Cgpump",
+  "symbol": "Nourish",
+  "name": "Brain Nourishment",
+  "band": "alert_candidate",
+  "score": 76.8,
+  "priority_tier": "priority",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "SLOW_BURN_ACCUMULATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.4515,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE"
+  ],
+  "archetype_reasons": [
+    "token_has_survived_longer_than_a_pure_micro_pump",
+    "steady_buy_pressure_and_quality_fit_accumulation",
+    "activity_is_constructive_without_chasing",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "positive_5m_flow",
+    "strong_positive_5m_flow",
+    "multiple_recent_buyers"
+  ],
+  "current_market_cap_sol": 121.1428,
+  "captured_at": "2026-03-16T12:44:52.533652+00:00"
+}

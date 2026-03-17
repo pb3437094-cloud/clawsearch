@@ -1,0 +1,40 @@
+{
+  "mint": "ADs4XSdxT1wAk89qQDGgtSpfrY3XjF6VJ2jRGA9spump",
+  "symbol": "cluck",
+  "name": "Donald Cluck ",
+  "band": "paper_hold",
+  "score": 109.65,
+  "priority_tier": "alpha",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.421,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "multiple_recent_buyers"
+  ],
+  "current_market_cap_sol": 48.2301,
+  "captured_at": "2026-03-09T15:41:59.425460+00:00"
+}

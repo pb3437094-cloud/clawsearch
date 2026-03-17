@@ -1,0 +1,50 @@
+{
+  "mint": "CReQd3PBRfamhxX424qRv3qQdRHdfmjiG6jATwFJpump",
+  "symbol": "ATL",
+  "name": "ATLANT",
+  "band": "invalidated",
+  "score": 23.8,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "deep_retrace",
+    "fragile_reclaim",
+    "low_buyer_density",
+    "low_participant_quality",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 135.7734,
+  "captured_at": "2026-03-16T12:38:56.323284+00:00"
+}

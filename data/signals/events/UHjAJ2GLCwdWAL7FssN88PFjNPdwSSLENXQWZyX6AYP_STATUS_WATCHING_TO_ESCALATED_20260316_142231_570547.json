@@ -1,0 +1,11 @@
+{
+  "event_type": "STATUS_WATCHING_TO_ESCALATED",
+  "mint": "UHjAJ2GLCwdWAL7FssN88PFjNPdwSSLENXQWZyX6AYP",
+  "created_at_utc": "2026-03-16T14:22:31.570178+00:00",
+  "severity": "high",
+  "details": {
+    "from_status": "watching",
+    "to_status": "escalated",
+    "status_reason": "strong_5m_flow_and_activity"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "mint": "BW8eXSKm5EkpEahokVC2kGYRMcZASEGduoNSPxiLpump",
+  "symbol": "0.000001%",
+  "name": "Absolute Luck",
+  "band": "invalidated",
+  "score": 14.06,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "EARLY_MICRO_PUMP",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.338,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "sub_breakout_name_is_showing_early_acceleration",
+    "fresh_buyer_turnover_supports_early_push",
+    "history_is_too_short_to_confirm_compression_or_reclaim",
+    "participant_quality_and_wallet_mix_look_organic",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "insufficient_history",
+    "negative_net_flow",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "participant_quality_v2",
+    "fresh_wallet_expansion",
+    "high_participant_quality",
+    "buyer_novelty",
+    "wallet_novelty",
+    "negative_sol_balance_5m",
+    "trade_acceleration"
+  ],
+  "current_market_cap_sol": 28.5589,
+  "captured_at": "2026-03-17T04:46:51.182121+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "mint": "2mfTvt1diFykGZ7H6rXzxt3V3PpZ1dYfJpyZeaawpump",
+  "symbol": "CIBO",
+  "name": "CIBO xAI Terminal",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "DEAD_LAUNCH",
+  "secondary_archetype": "FAILED_BREAKOUT",
+  "archetype_confidence": 0.343,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_never_established_itself_above_core_breakout_zone",
+    "recent_flow_is_not_supportive",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dead_launch",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "multiple_recent_buyers",
+    "broad_recent_participation",
+    "repeat_wallet_churn",
+    "active_5m_tape",
+    "distributed_buyers",
+    "buyer_novelty"
+  ],
+  "current_market_cap_sol": 29.8302,
+  "captured_at": "2026-03-09T15:23:27.583693+00:00"
+}

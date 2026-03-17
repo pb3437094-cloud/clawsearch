@@ -1,0 +1,12 @@
+{
+  "event_type": "WALLET_NOVELTY_SURGE",
+  "mint": "FneiN3EbwzmxC6mkKCnp58jpgSjAnGcdEaab8Px4pump",
+  "created_at_utc": "2026-03-09T12:42:28.197255+00:00",
+  "severity": "medium",
+  "details": {
+    "metric": "wallet_novelty_score",
+    "threshold": 0.5,
+    "previous_value": 0.0,
+    "current_value": 1.0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "mint": "GgbxkHxcFbTmXTf1Mf6LsG3wKJVtV5DHwjcDpfURHchS",
+  "symbol": "WAIT",
+  "name": "Procrastination Prowess",
+  "creator_wallet": "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmZEoKUXSbNiRN4vC6LyS8ojgw4jmDKE78x4R3S5cDPYSu",
+  "pool": "pump",
+  "bonding_curve_key": "4gzzQxYhjNyDwdcwmWGHvHzg3zqn8Vf5nTH4dNAJczat",
+  "launch_signature": "4YBcgdrUtyuwdBe4ZAdSwpWLu23C9mvPsckXPRTXPtqmiommpeGuEoqBNsfmqZLHqbHCuFztr2CUhA6j4vYch3mz",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T10:59:57.675733",
+  "last_seen_at": "2026-03-08T11:00:06.116216",
+  "first_trade_at": "2026-03-08T11:00:02.132410",
+  "last_trade_at": "2026-03-08T11:00:06.116216",
+  "last_buy_at": "2026-03-08T11:00:06.116216",
+  "last_sell_at": "2026-03-08T11:00:05.802916",
+  "watchlisted_at": "2026-03-08T10:59:57.675772+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 407585.117656,
+  "launch_sol_amount": 0.0114,
+  "launch_market_cap_sol": 27.98024634855549,
+  "current_market_cap_sol": 28.273411164077768,
+  "peak_market_cap_sol": 31.069005953417292,
+  "trough_market_cap_sol": 27.98024634855549,
+  "total_trade_count": 10,
+  "total_buy_count": 5,
+  "total_sell_count": 5,
+  "total_buy_sol": 1.640521494,
+  "total_sell_sol": 1.554100671,
+  "net_sol_flow": 0.08642082299999987,
+  "largest_buy_sol": 0.564865938,
+  "largest_sell_sol": 0.556912361,
+  "trades_last_1m": 10,
+  "trades_last_5m": 10,
+  "buys_last_1m": 5,
+  "buys_last_5m": 5,
+  "sells_last_1m": 5,
+  "sells_last_5m": 5,
+  "buy_sol_last_1m": 1.640521494,
+  "buy_sol_last_5m": 1.640521494,
+  "sell_sol_last_1m": 1.554100671,
+  "sell_sol_last_5m": 1.554100671,
+  "net_sol_flow_last_1m": 0.08642082299999987,
+  "net_sol_flow_last_5m": 0.08642082299999987,
+  "unique_traders": 6,
+  "unique_buyers": 5,
+  "unique_sellers": 4,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.132410",
+      "tx_type": "buy",
+      "sol_amount": 0.521832638,
+      "trader_wallet": "9YnRWoMB8pDpVm47aP5aPhBMTatHDWKG3aVD2M2pWfE",
+      "market_cap_sol": 29.095429696367255
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.158152",
+      "tx_type": "buy",
+      "sol_amount": 0.000100001,
+      "trader_wallet": "G28WrqYadbhUaA8dZpgA7zk7TuM2qftqB51tiRnnGVRk",
+      "market_cap_sol": 29.095619842865286
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.236726",
+      "tx_type": "buy",
+      "sol_amount": 0.45594514,
+      "trader_wallet": "2GqH5WuXnZsraDWK1G9ZBupX8iGqyuvmFxzmzNiCuXMH",
+      "market_cap_sol": 29.96903163564016
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.266287",
+      "tx_type": "buy",
+      "sol_amount": 0.564865938,
+      "trader_wallet": "Ez2jYoXp45DZxr7JVhiqbDNirgBT37MErjZGxA8jZkTf",
+      "market_cap_sol": 31.069005953417292
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.751645",
+      "tx_type": "sell",
+      "sol_amount": 0.556912361,
+      "trader_wallet": "9YnRWoMB8pDpVm47aP5aPhBMTatHDWKG3aVD2M2pWfE",
+      "market_cap_sol": 29.984382186985243
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:02.873679",
+      "tx_type": "sell",
+      "sol_amount": 0.456176967,
+      "trader_wallet": "2GqH5WuXnZsraDWK1G9ZBupX8iGqyuvmFxzmzNiCuXMH",
+      "market_cap_sol": 29.110304164383866
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:03.514720",
+      "tx_type": "sell",
+      "sol_amount": 0.52955777,
+      "trader_wallet": "Ez2jYoXp45DZxr7JVhiqbDNirgBT37MErjZGxA8jZkTf",
+      "market_cap_sol": 28.11183793713195
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:05.210577",
+      "tx_type": "sell",
+      "sol_amount": 0.005727877,
+      "trader_wallet": "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+      "market_cap_sol": 28.1011334355918
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:05.802916",
+      "tx_type": "sell",
+      "sol_amount": 0.005725696,
+      "trader_wallet": "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+      "market_cap_sol": 28.090435047021273
+    },
+    {
+      "captured_at_utc": "2026-03-08T11:00:06.116216",
+      "tx_type": "buy",
+      "sol_amount": 0.097777777,
+      "trader_wallet": "Bs1UfiLx8z9VrYoUaX4tMyWRngAT6V2rPjiMpUe6CGPQ",
+      "market_cap_sol": 28.273411164077768
+    }
+  ],
+  "trader_wallets": [
+    "Bs1UfiLx8z9VrYoUaX4tMyWRngAT6V2rPjiMpUe6CGPQ",
+    "9YnRWoMB8pDpVm47aP5aPhBMTatHDWKG3aVD2M2pWfE",
+    "2GqH5WuXnZsraDWK1G9ZBupX8iGqyuvmFxzmzNiCuXMH",
+    "G28WrqYadbhUaA8dZpgA7zk7TuM2qftqB51tiRnnGVRk",
+    "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+    "Ez2jYoXp45DZxr7JVhiqbDNirgBT37MErjZGxA8jZkTf"
+  ],
+  "buyer_wallets": [
+    "Bs1UfiLx8z9VrYoUaX4tMyWRngAT6V2rPjiMpUe6CGPQ",
+    "9YnRWoMB8pDpVm47aP5aPhBMTatHDWKG3aVD2M2pWfE",
+    "2GqH5WuXnZsraDWK1G9ZBupX8iGqyuvmFxzmzNiCuXMH",
+    "G28WrqYadbhUaA8dZpgA7zk7TuM2qftqB51tiRnnGVRk",
+    "Ez2jYoXp45DZxr7JVhiqbDNirgBT37MErjZGxA8jZkTf"
+  ],
+  "seller_wallets": [
+    "Ez2jYoXp45DZxr7JVhiqbDNirgBT37MErjZGxA8jZkTf",
+    "9YnRWoMB8pDpVm47aP5aPhBMTatHDWKG3aVD2M2pWfE",
+    "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+    "2GqH5WuXnZsraDWK1G9ZBupX8iGqyuvmFxzmzNiCuXMH"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "event_type": "TX_ACCELERATION_1M",
+  "mint": "EqmLh8BSWyCW48ZShemW6TviQdNU8TjTTCxTSjqepump",
+  "created_at_utc": "2026-03-17T04:52:12.654123+00:00",
+  "severity": "medium",
+  "details": {
+    "metric": "trades_last_1m",
+    "threshold": 5.0,
+    "previous_value": 4.0,
+    "current_value": 5.0
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "mint": "EcpEJ5AnWTan6Zv7txp6zpZQtA5kxvfNPKb4pLw8pump",
+  "symbol": "RMB",
+  "name": "Ring My Bell 🔔 ",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "churn_risk",
+    "fragile_reclaim",
+    "insider_rotation",
+    "insufficient_history",
+    "low_buyer_density",
+    "low_participant_quality",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "repeat_wallet_churn",
+    "participant_concentration",
+    "active_5m_tape",
+    "buy_count_5m",
+    "strong_buy_count_5m"
+  ],
+  "current_market_cap_sol": 28.366,
+  "captured_at": "2026-03-17T04:58:40.363235+00:00"
+}

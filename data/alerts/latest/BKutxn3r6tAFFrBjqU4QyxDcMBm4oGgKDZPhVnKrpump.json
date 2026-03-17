@@ -1,0 +1,46 @@
+{
+  "mint": "BKutxn3r6tAFFrBjqU4QyxDcMBm4oGgKDZPhVnKrpump",
+  "symbol": "NanoCore",
+  "name": "NANO",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.456,
+  "regime_tags": [
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "move_is_underdistributed_for_its_market_cap",
+    "recovery_exists_but_structure_is_still_fragile",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insider_rotation",
+    "insufficient_history",
+    "negative_net_flow",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "light_research_support",
+    "mcap_stability",
+    "near_high_dwell"
+  ],
+  "current_market_cap_sol": 32.4489,
+  "captured_at": "2026-03-16T11:27:01.935088+00:00"
+}

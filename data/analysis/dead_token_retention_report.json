@@ -1,0 +1,31 @@
+{
+  "mode": "dry-run",
+  "inputs": {
+    "cohort_dir": "data/enrichment/token_cohorts",
+    "control_dir": "data/enrichment/token_control",
+    "open_trades": "data/paper/open_trades.json",
+    "closed_trades": "data/paper/closed_trades.json",
+    "inactive_hours": 6.0,
+    "min_file_age_hours": 0.75,
+    "closed_trade_keep_hours": 24.0,
+    "recent_trade_grace_hours": 24.0,
+    "min_dead_mcap_sol": 18.0,
+    "max_recent_trades_5m": 1,
+    "max_recent_buys_5m": 1,
+    "cohort_file_count": 88,
+    "active_or_recent_trade_mint_count": 90
+  },
+  "summary": {
+    "keep_count": 88,
+    "archive_candidate_count": 0,
+    "archived_count": 0,
+    "deleted_count": 0,
+    "bytes_in_archive_candidates": 0
+  },
+  "by_reason": {
+    "active_or_recent_trade": 88
+  },
+  "top_archive_candidates": [],
+  "archived": [],
+  "deleted": []
+}

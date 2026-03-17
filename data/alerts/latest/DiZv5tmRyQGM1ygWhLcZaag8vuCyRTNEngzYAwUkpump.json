@@ -1,0 +1,51 @@
+{
+  "mint": "DiZv5tmRyQGM1ygWhLcZaag8vuCyRTNEngzYAwUkpump",
+  "symbol": "HOURS",
+  "name": "BASICALLY HOURS",
+  "band": "watchlist",
+  "score": 53.9,
+  "priority_tier": "watch",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "MOMENTUM_EXPANSION",
+  "secondary_archetype": "INSIDER_ROTATION",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "trade_acceleration_is_high",
+    "short_term_buy_flow_is_expanding",
+    "fresh_wallet_arrivals_support_momentum",
+    "short_observation_window_favors_momentum_over_structure",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "churn_risk",
+    "fragile_reclaim",
+    "insufficient_history",
+    "low_buyer_density",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 36.3249,
+  "captured_at": "2026-03-09T14:47:03.288112+00:00"
+}

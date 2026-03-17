@@ -1,0 +1,50 @@
+{
+  "mint": "HEfy41BFuUrKNEUkuixZRtGsF4pX1oVev9r6PtCJpump",
+  "symbol": "TMOSM",
+  "name": "The mvp of social media",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "DEAD_LAUNCH",
+  "archetype_confidence": 0.48,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "wallet_base_looks_too_recycled_for_clean_expansion",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "dust_microflow",
+    "fragile_reclaim",
+    "insider_rotation",
+    "insufficient_history",
+    "negative_net_flow",
+    "recycled_participation",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "REPEAT_WALLET_CHURN",
+    "PARTICIPANT_QUALITY_BREAKDOWN",
+    "nonzero_initial_buy",
+    "sell_dominant_5m",
+    "negative_sol_balance_5m",
+    "trade_acceleration",
+    "light_research_support",
+    "useful_profile_completion"
+  ],
+  "current_market_cap_sol": 28.1871,
+  "captured_at": "2026-03-16T12:43:09.525134+00:00"
+}

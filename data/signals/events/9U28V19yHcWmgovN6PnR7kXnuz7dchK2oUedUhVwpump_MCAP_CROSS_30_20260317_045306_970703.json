@@ -1,0 +1,12 @@
+{
+  "event_type": "MCAP_CROSS_30",
+  "mint": "9U28V19yHcWmgovN6PnR7kXnuz7dchK2oUedUhVwpump",
+  "created_at_utc": "2026-03-17T04:53:06.970410+00:00",
+  "severity": "medium",
+  "details": {
+    "metric": "current_market_cap_sol",
+    "threshold": 30.0,
+    "previous_value": 29.3442,
+    "current_value": 32.0766
+  }
+}

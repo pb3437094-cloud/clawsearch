@@ -1,0 +1,34 @@
+{
+  "captured_at_utc": "2026-03-08T10:58:30.865482+00:00",
+  "entry_count": 1,
+  "rows": [
+    {
+      "rank_mint": "CE6Yv9Auq6kGXZHmoSNYkvTAHdZ7MRPAkfgFKZLvpump",
+      "symbol": "BTC",
+      "name": "Buy The Coin",
+      "status": "watching",
+      "priority_tier": "watch",
+      "confidence": "medium",
+      "composite_score": 46.1,
+      "current_market_cap_sol": 37.70708884150635,
+      "peak_market_cap_sol": 37.70708884150635,
+      "net_sol_flow_last_5m": 0.987654319,
+      "buy_sol_last_5m": 0.987654319,
+      "trades_last_1m": 1,
+      "trades_last_5m": 1,
+      "unique_buyers": 1,
+      "unique_traders": 1,
+      "why_now": [
+        "MCAP_CROSS_35",
+        "PEAK_BREAKOUT",
+        "nonzero_initial_buy",
+        "mcap_above_30",
+        "mcap_above_35",
+        "buy_pressure",
+        "positive_5m_flow",
+        "peak_breakout_event"
+      ],
+      "rank": 1
+    }
+  ]
+}

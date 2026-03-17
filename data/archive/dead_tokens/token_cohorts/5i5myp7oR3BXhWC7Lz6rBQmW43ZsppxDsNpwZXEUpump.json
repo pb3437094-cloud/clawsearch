@@ -1,0 +1,70 @@
+{
+  "fingerprint": {
+    "tier": "deep",
+    "status": "watching",
+    "trades_1m": 1,
+    "trades_5m_bucket": 0,
+    "unique_buyers_5m_bucket": 0,
+    "market_cap_bucket": 3,
+    "participant_wallets": [
+      "GRANRPGS4wFKVAGwM5ScD6rreNHFs7SmET7GhH2U7EWB"
+    ],
+    "creator_wallet": "2ZvqX6PRYYPCs1VyGLgQEuQwJ5Hm3mXrjgEzCFkiTLoB"
+  },
+  "helius_last_enriched_at": "2026-03-10T09:06:17.818477+00:00",
+  "helius_enrichment_status": "deep_enriched",
+  "helius_last_error": null,
+  "helius_wallet_cohort_summary": {
+    "profile_count": 1,
+    "avg_wallet_age_days": 115.8147,
+    "median_wallet_age_days": 115.8147,
+    "fresh_wallet_share": 0.0,
+    "sniper_wallet_share": 0.0,
+    "recycled_wallet_share": 0.0,
+    "high_velocity_wallet_share": 1.0,
+    "funding_diversity_score": 1.0,
+    "top_funder_concentration_score": 1.0,
+    "creator_shared_funder_score": 0.0,
+    "creator_wallet_age_days": 0.6017,
+    "creator_probable_fresh_wallet": true,
+    "creator_probable_sniper_wallet": false,
+    "creator_probable_recycled_wallet": false,
+    "cohort_quality_score": 0.72
+  },
+  "helius_creator_profile": {
+    "address": "2ZvqX6PRYYPCs1VyGLgQEuQwJ5Hm3mXrjgEzCFkiTLoB",
+    "last_enriched_at": "2026-03-10T09:06:17.818212+00:00",
+    "tx_sample_count": 1,
+    "wallet_age_days": 0.6017,
+    "recent_active_days": 1,
+    "swap_tx_ratio": 0.0,
+    "transfer_tx_ratio": 1.0,
+    "unknown_tx_ratio": 0.0,
+    "distinct_sources": 1,
+    "distinct_mints": 0,
+    "inbound_funding_count": 1,
+    "funding_wallet_count": 1,
+    "top_funder": "iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu",
+    "top_funder_share": 1.0,
+    "probable_fresh_wallet": true,
+    "probable_sniper_wallet": false,
+    "probable_recycled_wallet": false,
+    "probable_high_velocity_wallet": false
+  },
+  "helius_selected_wallets": [
+    "GRANRPGS4wFKVAGwM5ScD6rreNHFs7SmET7GhH2U7EWB"
+  ],
+  "helius_attempted_wallets": [
+    "GRANRPGS4wFKVAGwM5ScD6rreNHFs7SmET7GhH2U7EWB"
+  ],
+  "helius_selected_wallet_count": 1,
+  "helius_profiled_wallet_count": 1,
+  "helius_creator_profiled": true,
+  "helius_time_budget_seconds": 2.8,
+  "helius_time_budget_exhausted": false,
+  "helius_enrichment_tier": "deep",
+  "helius_trigger_reason": "local_score_ge_72",
+  "helius_wallet_target": 10,
+  "helius_local_score_hint": 0.0,
+  "creator_entity_key": "funder::iGdFcQoyR2MwbXMHQskhmNsqddZ6rinsipHc4TNSdwu"
+}

@@ -1,0 +1,44 @@
+{
+  "mint": "6Pa9WKUSiwvCrgVKQBtox8jvcPAj4uvQw9UJhmeMEv26",
+  "symbol": "Lobstarjak",
+  "name": "Lobstar Wojak",
+  "band": "alert_candidate",
+  "score": 94.5,
+  "priority_tier": "priority",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.8152,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "tight_hold_without_excessive_heat",
+    "sells_are_being_absorbed_while_holding_highs",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 93.526,
+  "captured_at": "2026-03-17T08:22:31.163830+00:00"
+}

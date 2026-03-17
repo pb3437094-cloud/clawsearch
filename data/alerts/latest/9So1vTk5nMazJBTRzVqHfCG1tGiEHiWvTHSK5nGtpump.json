@@ -1,0 +1,42 @@
+{
+  "mint": "9So1vTk5nMazJBTRzVqHfCG1tGiEHiWvTHSK5nGtpump",
+  "symbol": "ONODA",
+  "name": "The Last Trencher",
+  "band": "alert_candidate",
+  "score": 129.8,
+  "priority_tier": "alpha",
+  "strategy_name": "reclaim_continuation",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "REVIVAL_RECLAIM",
+  "archetype_confidence": 0.534,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "failed_breakout_structure",
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 125.8309,
+  "captured_at": "2026-03-17T04:58:43.927738+00:00"
+}

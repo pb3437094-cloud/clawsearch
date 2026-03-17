@@ -1,0 +1,46 @@
+{
+  "mint": "CWyjAiUqN1piZxiTDofii7pgtz4YZ9aaGpcypjsi1zxR",
+  "symbol": "Milly",
+  "name": "Nocashbackagentbundlejustmilly",
+  "band": "invalidated",
+  "score": 52.01,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "HIGH_TIGHT_RANGE",
+  "archetype_confidence": 0.4189,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "fragile_reclaim",
+    "low_participant_quality",
+    "recycled_buyer_wave",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 71.4803,
+  "captured_at": "2026-03-17T07:37:20.822516+00:00"
+}

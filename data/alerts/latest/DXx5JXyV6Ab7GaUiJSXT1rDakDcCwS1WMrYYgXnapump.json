@@ -1,0 +1,41 @@
+{
+  "mint": "DXx5JXyV6Ab7GaUiJSXT1rDakDcCwS1WMrYYgXnapump",
+  "symbol": "METALANA",
+  "name": "METALANA",
+  "band": "paper_hold",
+  "score": 160.92,
+  "priority_tier": "alpha",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "HIGH_TIGHT_RANGE",
+  "secondary_archetype": "BREAKOUT_RUNNER",
+  "archetype_confidence": 0.4815,
+  "regime_tags": [
+    "ORGANIC_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG"
+  ],
+  "archetype_reasons": [
+    "token_is_compressing_close_to_highs",
+    "dwell_or_stability_near_highs_is_constructive",
+    "sells_are_being_absorbed_while_holding_highs",
+    "participant_quality_and_wallet_mix_look_organic",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "alert",
+  "risk_flags": [
+    "fragile_reclaim",
+    "seller_overhang"
+  ],
+  "why_now": [
+    "NET_FLOW_5M_CROSS_1",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow"
+  ],
+  "current_market_cap_sol": 79.1191,
+  "captured_at": "2026-03-17T06:36:06.333326+00:00"
+}

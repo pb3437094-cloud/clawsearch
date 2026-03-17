@@ -1,0 +1,52 @@
+{
+  "mint": "AM7NPjn4yhzWqQNSfHD6X3MZhc3WKzAR5ZHxHpkupump",
+  "symbol": "Canon",
+  "name": "Chinese Fartcoin",
+  "band": "invalidated",
+  "score": 26.4,
+  "priority_tier": "background",
+  "strategy_name": "high_tight_range",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "MOMENTUM_EXPANSION",
+  "archetype_confidence": 0.468,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "fragile_reclaim",
+    "helius_sniper_cohort",
+    "insufficient_history",
+    "low_buyer_density",
+    "participant_concentration",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "mcap_above_35",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "positive_5m_flow",
+    "strong_positive_5m_flow"
+  ],
+  "current_market_cap_sol": 36.0544,
+  "captured_at": "2026-03-16T12:44:50.587982+00:00"
+}

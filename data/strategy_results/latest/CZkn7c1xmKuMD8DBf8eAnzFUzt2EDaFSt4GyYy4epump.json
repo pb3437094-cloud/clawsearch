@@ -1,0 +1,93 @@
+{
+  "mint": "CZkn7c1xmKuMD8DBf8eAnzFUzt2EDaFSt4GyYy4epump",
+  "symbol": "TSH",
+  "name": "The Spirit House",
+  "captured_at_utc": "2026-03-08T11:32:29.713405+00:00",
+  "status": "watching",
+  "strategy_name": "momentum_expansion",
+  "entry_bias": "breakout",
+  "setup_state": "watchlist",
+  "composite_score": 23.0,
+  "tie_break_score": 64.2779,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "buy_pressure",
+    "positive_net_1m",
+    "trade_acceleration",
+    "strong_buy_pressure",
+    "distributed_buyers"
+  ],
+  "trigger_reasons": [
+    "nonzero_initial_buy",
+    "buy_pressure",
+    "positive_net_1m",
+    "trade_acceleration",
+    "strong_buy_pressure",
+    "distributed_buyers"
+  ],
+  "invalidation_reasons": [],
+  "risk_flags": [],
+  "penalties": {},
+  "strategy_scores": {
+    "filter_score": 20.0,
+    "breakout_score": 0.0,
+    "momentum_score": 8.0,
+    "event_bonus": 0,
+    "feature_bonus": 16.0,
+    "penalty_total": 0,
+    "base_composite": 23.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "buy_pressure"
+    ],
+    "breakout": [],
+    "momentum": [
+      "positive_net_1m"
+    ],
+    "features": [
+      "trade_acceleration",
+      "strong_buy_pressure",
+      "distributed_buyers"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.423,
+    "peak_market_cap_sol": 28.423,
+    "net_sol_flow_last_5m": 0.001,
+    "buy_sol_last_5m": 0.001,
+    "trades_last_1m": 1,
+    "trades_last_5m": 1,
+    "unique_buyers": 1,
+    "unique_traders": 1
+  },
+  "quant_features": {
+    "mcap_to_peak_ratio": 1.0,
+    "peak_retrace_pct": 0.0,
+    "range_position_pct": 100.0,
+    "trade_acceleration_ratio": 5.0,
+    "buy_acceleration_ratio": 5.0,
+    "sell_acceleration_ratio": 0.0,
+    "buy_pressure_ratio_5m": 1.0,
+    "buy_pressure_ratio_1m": 1.0,
+    "buy_sell_count_ratio_5m": 1.0,
+    "buy_sell_sol_ratio_5m": 977777.0,
+    "net_flow_per_trade_5m": 0.001,
+    "net_flow_per_trade_1m": 0.001,
+    "avg_buy_size_5m": 0.001,
+    "avg_sell_size_5m": 0.0,
+    "buyer_density_5m": 1.0,
+    "seller_density_5m": 0.0,
+    "trader_participation_ratio": 1.0,
+    "buyer_participation_ratio": 1.0,
+    "participation_quality_score": 1.0,
+    "microburst_ratio": 1.0,
+    "flow_persistence_ratio": 5.0,
+    "wash_risk_ratio": 1.0,
+    "breakout_strength": 0.0
+  }
+}

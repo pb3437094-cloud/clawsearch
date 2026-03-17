@@ -1,0 +1,45 @@
+{
+  "mint": "7hxJsj4SRxchYxp2pWTueRDpwgcqGjxupUJHpURBpump",
+  "symbol": "Dowman",
+  "name": "Dowman-legend ",
+  "band": "invalidated",
+  "score": 14.3,
+  "priority_tier": "background",
+  "strategy_name": "momentum_expansion",
+  "primary_archetype": "INSIDER_ROTATION",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.39,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "RECLAIM_FRAGILE",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "participant_concentration_is_high",
+    "same_wallet_reuse_or_overlap_is_elevated",
+    "move_is_underdistributed_for_its_market_cap",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "recovery_exists_but_structure_is_still_fragile"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "fragile_reclaim",
+    "insider_rotation",
+    "insufficient_history",
+    "recycled_participation",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "MCAP_CROSS_30",
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "buy_pressure",
+    "buyer_novelty",
+    "recent_buy_cluster",
+    "buy_count_5m",
+    "positive_net_1m"
+  ],
+  "current_market_cap_sol": 30.1416,
+  "captured_at": "2026-03-16T11:30:50.184374+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "mint": "4P87YAPiF5K9K8nuqHtYjz6j9gzJ2HWaLCwGDAxWpump",
+  "symbol": "MTRMP",
+  "name": "TrumpOlyne",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "breakout_continuation",
+  "primary_archetype": "BOT_WASH",
+  "secondary_archetype": "EARLY_MICRO_PUMP",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "wash_risk_ratio_is_extreme",
+    "repeat_wallet_ratio_is_too_high",
+    "buyer_overlap_is_consistent_with_recycled_flow",
+    "participant_quality_breaks_down_under_flow",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "research",
+  "risk_flags": [
+    "bot_wash",
+    "churn_risk",
+    "insufficient_history",
+    "low_buyer_density",
+    "low_participant_quality",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "sell_pressure",
+    "repeat_wallet_churn",
+    "participant_concentration",
+    "fast_1m_tape",
+    "active_5m_tape"
+  ],
+  "current_market_cap_sol": 27.8862,
+  "captured_at": "2026-03-16T13:04:44.941010+00:00"
+}

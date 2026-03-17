@@ -1,0 +1,99 @@
+{
+  "mint": "92kgysmcCuE93wU179uffyzfLuFYSSEzQNnujJZaZLtM",
+  "symbol": "RDY",
+  "name": "Ready Party",
+  "creator_wallet": "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+  "uri": "https://gateway.pinata.cloud/ipfs/QmcRQ8KoSZyhUJJGsK1guBWrEH1Ja5JGXfZiKwMViPAjtK",
+  "pool": "pump",
+  "bonding_curve_key": "CaaZMqyeJKufnNJPeQDRNLjnPLErQEJMWvHV2ssWBVbE",
+  "launch_signature": "2s9GGuhxCNFqMD4zWHN7KzF2T5G8TFbUT2TNCMAhqbE2tCA1oeHRhmjndK5m85Qdx4d3Q8zMn2QGPjCLyugqxQY",
+  "created_timestamp": null,
+  "first_seen_at": "2026-03-08T10:58:54.680515",
+  "last_seen_at": "2026-03-08T10:59:02.025909",
+  "first_trade_at": "2026-03-08T10:58:56.350149",
+  "last_trade_at": "2026-03-08T10:59:02.025909",
+  "last_buy_at": "2026-03-08T10:58:56.559166",
+  "last_sell_at": "2026-03-08T10:59:02.025909",
+  "watchlisted_at": "2026-03-08T10:58:54.680587+00:00",
+  "escalated_at": null,
+  "cooled_off_at": null,
+  "inactive_at": null,
+  "reawakened_at": null,
+  "initial_buy": 293206.523551,
+  "launch_sol_amount": 0.0082,
+  "launch_market_cap_sol": 27.97427981484937,
+  "current_market_cap_sol": 28.83680967094105,
+  "peak_market_cap_sol": 30.78668883127191,
+  "trough_market_cap_sol": 27.97427981484937,
+  "total_trade_count": 4,
+  "total_buy_count": 2,
+  "total_sell_count": 2,
+  "total_buy_sol": 1.410152273,
+  "total_sell_sol": 1.0132171769999998,
+  "net_sol_flow": 0.3969350960000002,
+  "largest_buy_sol": 0.977777777,
+  "largest_sell_sol": 1.004759689,
+  "trades_last_1m": 4,
+  "trades_last_5m": 4,
+  "buys_last_1m": 2,
+  "buys_last_5m": 2,
+  "sells_last_1m": 2,
+  "sells_last_5m": 2,
+  "buy_sol_last_1m": 1.410152273,
+  "buy_sol_last_5m": 1.410152273,
+  "sell_sol_last_1m": 1.0132171769999998,
+  "sell_sol_last_5m": 1.0132171769999998,
+  "net_sol_flow_last_1m": 0.3969350960000002,
+  "net_sol_flow_last_5m": 0.3969350960000002,
+  "unique_traders": 3,
+  "unique_buyers": 2,
+  "unique_sellers": 2,
+  "status": "watching",
+  "status_reason": "meets_watch_thresholds",
+  "was_ever_watchlisted": true,
+  "was_ever_escalated": false,
+  "revival_count": 0,
+  "recent_trades": [
+    {
+      "captured_at_utc": "2026-03-08T10:58:56.350149",
+      "tx_type": "buy",
+      "sol_amount": 0.977777777,
+      "trader_wallet": "BHecAJpXQ2QbSpShqd4trZTC2Fp6rSADBtUuGx1ib3KZ",
+      "market_cap_sol": 29.946806712866213
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:58:56.559166",
+      "tx_type": "buy",
+      "sol_amount": 0.432374496,
+      "trader_wallet": "FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy",
+      "market_cap_sol": 30.78668883127191
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:58:57.183223",
+      "tx_type": "sell",
+      "sol_amount": 1.004759689,
+      "trader_wallet": "BHecAJpXQ2QbSpShqd4trZTC2Fp6rSADBtUuGx1ib3KZ",
+      "market_cap_sol": 28.852821640905105
+    },
+    {
+      "captured_at_utc": "2026-03-08T10:59:02.025909",
+      "tx_type": "sell",
+      "sol_amount": 0.008457488,
+      "trader_wallet": "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+      "market_cap_sol": 28.83680967094105
+    }
+  ],
+  "trader_wallets": [
+    "FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy",
+    "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+    "BHecAJpXQ2QbSpShqd4trZTC2Fp6rSADBtUuGx1ib3KZ"
+  ],
+  "buyer_wallets": [
+    "FoHJUYThke7eXqtCe62zRxTx1uKXkmg3DRvC94JBgVRy",
+    "BHecAJpXQ2QbSpShqd4trZTC2Fp6rSADBtUuGx1ib3KZ"
+  ],
+  "seller_wallets": [
+    "HLFj4zpLvxUg8ZCR7HUvknrtXXJfhpweU7Zr9HVP4UaU",
+    "BHecAJpXQ2QbSpShqd4trZTC2Fp6rSADBtUuGx1ib3KZ"
+  ]
+}

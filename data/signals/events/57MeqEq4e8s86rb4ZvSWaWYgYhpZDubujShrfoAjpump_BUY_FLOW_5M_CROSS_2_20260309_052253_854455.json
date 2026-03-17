@@ -1,0 +1,12 @@
+{
+  "event_type": "BUY_FLOW_5M_CROSS_2",
+  "mint": "57MeqEq4e8s86rb4ZvSWaWYgYhpZDubujShrfoAjpump",
+  "created_at_utc": "2026-03-09T05:22:53.854104+00:00",
+  "severity": "high",
+  "details": {
+    "metric": "buy_sol_last_5m",
+    "threshold": 2.0,
+    "previous_value": 1.9971,
+    "current_value": 2.9333
+  }
+}

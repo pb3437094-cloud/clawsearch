@@ -1,0 +1,65 @@
+{
+  "mint": "AJeWJQyJX49SFt2LRMT9jc5UBGQge478YtZCrpKcpump",
+  "symbol": "Dishwasher",
+  "name": "Bosch SMV8ECX01E 8",
+  "captured_at_utc": "2026-03-08T10:59:59.237709+00:00",
+  "status": "watching",
+  "composite_score": 53.1,
+  "confidence": "medium",
+  "priority_tier": "watch",
+  "why_now": [
+    "nonzero_initial_buy",
+    "mcap_above_30",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "buy_pressure",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "fast_1m_tape"
+  ],
+  "strategy_scores": {
+    "filter_score": 70.0,
+    "breakout_score": 60.0,
+    "momentum_score": 52.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "mcap_above_30",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "buy_pressure",
+      "multiple_unique_buyers",
+      "broad_participation"
+    ],
+    "breakout": [
+      "mcap_above_30",
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "strong_buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "trader_participation",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 32.9995,
+    "peak_market_cap_sol": 42.6806,
+    "net_sol_flow_last_5m": -4.2727,
+    "buy_sol_last_5m": 6.2822,
+    "trades_last_1m": 34,
+    "trades_last_5m": 34,
+    "unique_buyers": 17,
+    "unique_traders": 21
+  }
+}

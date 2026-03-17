@@ -1,0 +1,63 @@
+{
+  "mint": "Ah9sSgd6V8ak5G1YLpax481xLSRCjm8ph3pGdmt1pump",
+  "symbol": "LING",
+  "name": "Lingling Charm",
+  "captured_at_utc": "2026-03-08T10:58:39.985943+00:00",
+  "status": "watching",
+  "composite_score": 30.75,
+  "confidence": "low",
+  "priority_tier": "background",
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "multiple_unique_buyers",
+    "broad_participation",
+    "fast_1m_tape",
+    "active_5m_tape",
+    "buy_flow_5m"
+  ],
+  "strategy_scores": {
+    "filter_score": 50.0,
+    "breakout_score": 35.0,
+    "momentum_score": 30.0,
+    "event_bonus": 0.0
+  },
+  "strategy_reasons": {
+    "filter": [
+      "nonzero_initial_buy",
+      "active_5m_trading",
+      "heavy_5m_trading",
+      "multiple_unique_buyers",
+      "broad_participation"
+    ],
+    "breakout": [
+      "fast_1m_tape",
+      "active_5m_tape",
+      "buy_flow_5m",
+      "distributed_buyers",
+      "broad_buyer_set",
+      "far_off_peak"
+    ],
+    "momentum": [
+      "recent_buy_cluster",
+      "buy_count_5m",
+      "buy_sol_1m",
+      "buy_sol_5m",
+      "trader_participation",
+      "sell_dominant_5m",
+      "negative_sol_balance_5m"
+    ],
+    "events": []
+  },
+  "score_inputs": {
+    "current_market_cap_sol": 28.2148,
+    "peak_market_cap_sol": 39.5943,
+    "net_sol_flow_last_5m": -2.6632,
+    "buy_sol_last_5m": 2.9007,
+    "trades_last_1m": 14,
+    "trades_last_5m": 14,
+    "unique_buyers": 6,
+    "unique_traders": 10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "event_type": "NET_FLOW_5M_CROSS_1",
+  "mint": "4oP9VrvCaJKCi3MgjG7Gcx9WzL42u98dJv8QYbXbpump",
+  "created_at_utc": "2026-03-17T03:17:09.063398+00:00",
+  "severity": "high",
+  "details": {
+    "metric": "net_sol_flow_last_5m",
+    "threshold": 1.0,
+    "previous_value": 0.1956,
+    "current_value": 1.1733
+  }
+}

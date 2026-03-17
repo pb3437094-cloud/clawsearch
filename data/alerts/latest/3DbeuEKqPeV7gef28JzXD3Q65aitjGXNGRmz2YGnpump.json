@@ -1,0 +1,52 @@
+{
+  "mint": "3DbeuEKqPeV7gef28JzXD3Q65aitjGXNGRmz2YGnpump",
+  "symbol": "WhiteElon",
+  "name": "White Elon",
+  "band": "invalidated",
+  "score": 0.0,
+  "priority_tier": "background",
+  "strategy_name": "hybrid_flow",
+  "primary_archetype": "FAILED_BREAKOUT",
+  "secondary_archetype": "BOT_WASH",
+  "archetype_confidence": 0.52,
+  "regime_tags": [
+    "RECYCLED_PARTICIPATION",
+    "SELLER_OVERHANG",
+    "THIN_LIQUIDITY",
+    "INSUFFICIENT_HISTORY"
+  ],
+  "archetype_reasons": [
+    "token_reached_breakout_context",
+    "breakout_has_taken_meaningful_damage",
+    "post_breakout_flow_has_weakened",
+    "recovery_from_trough_is_not_good_enough",
+    "repeat_wallet_or_overlap_pattern_is_elevated",
+    "seller_expansion_or_sell_pressure_is_rising"
+  ],
+  "setup_state": "watchlist",
+  "risk_flags": [
+    "churn_risk",
+    "deep_retrace",
+    "failed_breakout_structure",
+    "insufficient_history",
+    "low_buyer_density",
+    "negative_net_flow",
+    "recycled_participation",
+    "repeat_wallet_churn",
+    "sell_dominance",
+    "seller_overhang",
+    "thin_liquidity"
+  ],
+  "why_now": [
+    "nonzero_initial_buy",
+    "active_5m_trading",
+    "heavy_5m_trading",
+    "fresh_wallet_expansion",
+    "fresh_participant_wave",
+    "post_peak_weakness",
+    "repeat_wallet_churn",
+    "participant_concentration"
+  ],
+  "current_market_cap_sol": 22.3559,
+  "captured_at": "2026-03-16T11:26:30.984464+00:00"
+}

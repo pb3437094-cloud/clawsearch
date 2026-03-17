@@ -1,0 +1,12 @@
+{
+  "event_type": "PARTICIPANT_QUALITY_HIGH",
+  "mint": "HyNwvZ93iF8frh6Ww9KPsjKn6QFuqZRpRydZdgEepump",
+  "created_at_utc": "2026-03-17T03:16:09.071791+00:00",
+  "severity": "high",
+  "details": {
+    "metric": "participant_quality_score_v2",
+    "threshold": 0.65,
+    "previous_value": 0.4,
+    "current_value": 0.68
+  }
+}
